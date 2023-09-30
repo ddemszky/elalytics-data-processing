@@ -4,7 +4,7 @@
 
 - Python 3.11
 
-## How to set up the dev environment
+## How to set up the dev virtual environment for the first time
 
 1. Clone the repository
 2. Open the repository in your IDE (Preferably VSCode). The root directory of the repository should be the root directory of the project in your IDE.
@@ -29,3 +29,15 @@
 ├── README.md
 └── requirements.txt
 ```
+
+## How to reactivate the virtual environment
+
+It is important to work within the virtual environment to avoid the clash between different packages. If you close your IDE, you will have to reactivate the virtual environment. You can easily do this by running the following command in the root directory of the repository in your terminal of the IDE:
+
+- On Windows: `.venv\Scripts\Activate`
+- On Mac/Linux: `source .venv/bin/activate`
+
+## Important Note
+
+- **Always update the requirements.txt file after installing a new package with the correct version number**
+- Always work within the virtual environment
