@@ -17,6 +17,7 @@ Prerequisites:
 
 ## Project Structure
 
+```
 ├── .venv
 │ ├── (children_folders)
 ├── src
@@ -24,3 +25,4 @@ Prerequisites:
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
