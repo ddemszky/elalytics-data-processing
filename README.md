@@ -15,7 +15,7 @@ Prerequisites:
 5. Install the dependencies with `pip install -r requirements.txt`
 6. Initialize the packages with `pip install -e src`
 
-## Project Structure
+## Project Structure after the setup
 
 ```
 ├── .venv
