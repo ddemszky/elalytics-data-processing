@@ -14,6 +14,7 @@ Prerequisites:
    - On Mac/Linux: `source .venv/bin/activate`
 5. Install the dependencies with `pip install -r requirements.txt`
 6. Initialize the packages with `pip install -e src`
+7. Check if everything works by running the notebook in the examples folder
 
 ## Project Structure after the setup
 
