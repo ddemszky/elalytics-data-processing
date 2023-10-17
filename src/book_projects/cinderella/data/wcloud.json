@@ -2,301 +2,301 @@
   {
     "word": "the",
     "value": 31,
-    "category": "Popular Words",
+    "category": "Determiner",
     "translation": "el"
   },
   {
     "word": "cinderella",
-    "value": 28,
-    "category": "Popular Words",
+    "value": 25,
+    "category": "Noun",
     "translation": "Cenicienta"
   },
   {
     "word": "said",
     "value": 20,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "dicho"
-  },
-  {
-    "word": "pick",
-    "value": 20,
-    "category": "Popular Words",
-    "translation": "elegir"
   },
   {
     "word": "tree",
     "value": 18,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "\u00e1rbol"
   },
   {
     "word": "prince",
     "value": 18,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "Pr\u00edncipe"
-  },
-  {
-    "word": "one",
-    "value": 17,
-    "category": "Popular Words",
-    "translation": "uno"
   },
   {
     "word": "when",
     "value": 16,
-    "category": "Popular Words",
+    "category": "Wh-Adverb",
     "translation": "cuando"
   },
   {
     "word": "came",
     "value": 16,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "vino"
   },
   {
     "word": "go",
     "value": 16,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "ir"
   },
   {
     "word": "shoe",
     "value": 16,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "zapato"
   },
   {
     "word": "went",
     "value": 15,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "fue"
   },
   {
     "word": "two",
     "value": 15,
-    "category": "Popular Words",
+    "category": "Numeral",
     "translation": "dos"
   },
   {
     "word": "she",
     "value": 14,
-    "category": "Popular Words",
+    "category": "Pronoun",
     "translation": "ella"
   },
   {
     "word": "took",
     "value": 13,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "tom\u00f3"
+  },
+  {
+    "word": "pick",
+    "value": 13,
+    "category": "Noun",
+    "translation": "elegir"
   },
   {
     "word": "beautiful",
     "value": 12,
-    "category": "Popular Words",
+    "category": "Adjective",
     "translation": "hermoso"
   },
   {
     "word": "girl",
     "value": 11,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "chica"
   },
   {
-    "word": "dance",
+    "word": "one",
     "value": 11,
-    "category": "Popular Words",
-    "translation": "bailar"
+    "category": "Numeral",
+    "translation": "uno"
   },
   {
     "word": "pigeons",
     "value": 11,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "palomas"
   },
   {
     "word": "ashes",
     "value": 10,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "cenizas"
   },
   {
     "word": "bride",
     "value": 10,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "novia"
   },
   {
     "word": "he",
     "value": 10,
-    "category": "Popular Words",
+    "category": "Pronoun",
     "translation": "\u00e9l"
   },
   {
     "word": "away",
     "value": 9,
-    "category": "Popular Words",
+    "category": "Adverb",
     "translation": "lejos"
   },
   {
     "word": "home",
     "value": 9,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "hogar"
   },
   {
     "word": "hazel",
     "value": 9,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "color avellana"
   },
   {
     "word": "would",
     "value": 9,
-    "category": "Popular Words",
+    "category": "Modal",
     "translation": "har\u00eda"
   },
   {
     "word": "festival",
     "value": 9,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "festival"
   },
   {
     "word": "stepmother",
     "value": 9,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "madrastra"
-  },
-  {
-    "word": "right",
-    "value": 9,
-    "category": "Popular Words",
-    "translation": "bien"
   },
   {
     "word": "mother",
     "value": 8,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "madre"
   },
   {
     "word": "they",
     "value": 8,
-    "category": "Popular Words",
+    "category": "Pronoun",
     "translation": "ellos"
   },
   {
     "word": "then",
     "value": 8,
-    "category": "Popular Words",
+    "category": "Adverb",
     "translation": "entonces"
-  },
-  {
-    "word": "dress",
-    "value": 8,
-    "category": "Popular Words",
-    "translation": "vestido"
   },
   {
     "word": "foot",
     "value": 8,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "pie"
   },
   {
     "word": "good",
     "value": 7,
-    "category": "Popular Words",
+    "category": "Adjective",
     "translation": "bien"
   },
   {
     "word": "grave",
     "value": 7,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "tumba"
+  },
+  {
+    "word": "pick",
+    "value": 7,
+    "category": "Verb",
+    "translation": "elegir"
   },
   {
     "word": "bird",
     "value": 7,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "p\u00e1jaro"
   },
   {
     "word": "you",
     "value": 7,
-    "category": "Popular Words",
+    "category": "Pronoun",
     "translation": "t\u00fa"
+  },
+  {
+    "word": "dance",
+    "value": 7,
+    "category": "Verb",
+    "translation": "bailar"
+  },
+  {
+    "word": "dress",
+    "value": 7,
+    "category": "Noun",
+    "translation": "vestido"
+  },
+  {
+    "word": "right",
+    "value": 7,
+    "category": "Adjective",
+    "translation": "bien"
   },
   {
     "word": "day",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "d\u00eda"
   },
   {
     "word": "white",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Adjective",
     "translation": "blanco"
   },
   {
     "word": "this",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Determiner",
     "translation": "este"
   },
   {
     "word": "kitchen",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "cocina"
   },
   {
     "word": "clothes",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "ropa"
   },
   {
     "word": "gave",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "dio"
   },
   {
-    "word": "back",
+    "word": "one",
     "value": 6,
-    "category": "Popular Words",
-    "translation": "atr\u00e1s"
-  },
-  {
-    "word": "beneath",
-    "value": 6,
-    "category": "Popular Words",
-    "translation": "bajo"
-  },
-  {
-    "word": "could",
-    "value": 6,
-    "category": "Popular Words",
-    "translation": "podr\u00eda"
+    "category": "Noun",
+    "translation": "uno"
   },
   {
     "word": "began",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "comenz\u00f3"
   },
   {
     "word": "gold",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Noun",
     "translation": "oro"
   },
   {
     "word": "rook",
     "value": 6,
-    "category": "Popular Words",
+    "category": "Verb",
     "translation": "torre"
+  },
+  {
+    "word": "di",
+    "value": 6,
+    "category": "Adjective",
+    "translation": "di"
   }
 ]

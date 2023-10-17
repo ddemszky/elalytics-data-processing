@@ -51,3 +51,4 @@ docs/_build/
 
 # Virtual Environment
 .venv
+.vscode/settings.json
