@@ -31,7 +31,7 @@ for item in data:
                     "actScene": act_scene,
                     "word_count": 0,
                     "dialogue_count": 0,
-                    "emotionWords": {
+                    "emotion_scores": {
                         "anger": 0,
                         "disgust": 0,
                         "positive": 0,
@@ -48,14 +48,14 @@ for item in data:
             if value["actScene"] == act_scene:
                 value["word_count"] += item["word_count"]
                 value["dialogue_count"] += 1
-                for emotion in item["emotionWords"]:
-                    value["emotionWords"][emotion] += item["emotionWords"][emotion]
+                for emotion in item["emotion_scores"]:
+                    value["emotion_scores"][emotion] += item["emotion_scores"][emotion]
                 value["valence"] += item["valence"]
 
 # Calculate the average values
 for value in aggregate_values:
-    for emotion in value["emotionWords"]:
-        value["emotionWords"][emotion] /= value["word_count"]
+    for emotion in value["emotion_scores"]:
+        value["emotion_scores"][emotion] /= value["word_count"]
     value["valence"] /= value["dialogue_count"]
 
 
