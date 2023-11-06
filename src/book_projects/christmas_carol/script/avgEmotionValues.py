@@ -40,7 +40,10 @@ class DialogueProcessor:
             )  # Fill NaN values with 0 in the lexicon
             pw = [x for x in tt if x in lexdf[lexicon].index]
             pv = [lexdf[lexicon].loc[w] for w in pw]
-            emotionWords[lexicon] = sum(pv)
+            emotionWords[lexicon] = {
+                "count": len([w for w, v in zip(pw, pv) if v > 0]),
+                "words": [w for w, v in zip(pw, pv) if v > 0],
+            }
             valence_values.extend(pv)
 
         valence = sum(valence_values) / len(valence_values) if valence_values else 0
@@ -80,10 +83,14 @@ dialogues = read_json_file(
     "src/book_projects/christmas_carol/data/christmas_carol_only_dialogues_without_sound_descriptions.json"
 )
 
+scrooge_dialogues = [
+    dialogue for dialogue in dialogues if dialogue["character"] == "Scrooge"
+]
+
 processor = DialogueProcessor(emotion_words_lexicon, valence_lexicon)
-processed_dialogues = processor.process(dialogues)
+processed_dialogues = processor.process(scrooge_dialogues)
 
 write_json_file(
-    "src/book_projects/christmas_carol/data/christmas_carol_only_dialogues_without_sound_descriptions_with_emotion_values.json",
+    "src/book_projects/christmas_carol/data/scrooge_dialogues_with_emotion_values.json",
     processed_dialogues,
 )

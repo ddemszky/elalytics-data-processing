@@ -1,0 +1,7263 @@
+[
+    {
+        "act": "Act 1",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "They owe me money and I will collect. I will have\nthem jailed, if I have to. They owe me money and I will\ncollect what is due me.",
+        "emotionWords": {
+            "anger": {
+                "count": 2,
+                "words": [
+                    "money",
+                    "money"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "money",
+                    "money"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "jail"
+                ]
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "money",
+                    "money"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "jail"
+                ]
+            }
+        },
+        "valence": 0.4444444444444444,
+        "word_count": 33
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What are you doing, Cratchit? Acting cold, are\nyou? Next, you\u2019ll be asking to replenish your coal from my\ncoal-box, won\u2019t you? Well, save your breath, Cratchit! Unless\nyou\u2019re prepared to find employ elsewhere!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "replenish",
+                    "save",
+                    "prepared"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "cold"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "save"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.20833333333333334,
+        "word_count": 51
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Bah! Humbug!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            }
+        },
+        "valence": 0.6666666666666666,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I do! Merry Christmas? What right do you have to\nbe merry? What reason have you to be merry? You\u2019re poor\nenough!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "merry",
+                    "merry",
+                    "reason",
+                    "merry"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 3,
+                "words": [
+                    "merry",
+                    "merry",
+                    "merry"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.2916666666666667,
+        "word_count": 29
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Bah! Humbug!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            }
+        },
+        "valence": 0.6666666666666666,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What else can I be? Eh? When I live in a world of\nfools such as this? Merry Christmas? What\u2019s Christmastime\nto you but a time of paying bills without any money; a time\nfor finding yourself a year older, but not an hour richer. If I\ncould work my will, every idiot who goes about with \u201cMerry\nChristmas\u201d on his lips, should be boiled with his own\npudding, and buried with a stake of holly through his heart.\nHe should!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "money"
+                ]
+            },
+            "disgust": {
+                "count": 3,
+                "words": [
+                    "fool",
+                    "idiot",
+                    "boil"
+                ]
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "merry",
+                    "pay",
+                    "money",
+                    "merry"
+                ]
+            },
+            "negative": {
+                "count": 3,
+                "words": [
+                    "fool",
+                    "idiot",
+                    "boil"
+                ]
+            },
+            "joy": {
+                "count": 4,
+                "words": [
+                    "merry",
+                    "pay",
+                    "money",
+                    "merry"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "bury"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 97
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Nephew! You keep Christmas in your own way\nand let me keep it in mine.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 17
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Let me leave it alone, then. Much good it has ever\ndone you!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "leave"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "leave"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 16
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Let me hear another sound from you\nand you\u2019ll keep your Christmas by losing your situation.  You\u2019re quite a powerful speaker, sir. I wonder you\ndon\u2019t go into Parliament.",
+        "emotionWords": {
+            "anger": {
+                "count": 2,
+                "words": [
+                    "lose",
+                    "powerful"
+                ]
+            },
+            "disgust": {
+                "count": 2,
+                "words": [
+                    "lose",
+                    "powerful"
+                ]
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "powerful",
+                    "sir",
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "powerful"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            }
+        },
+        "valence": 0.4166666666666667,
+        "word_count": 39
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I\u2019d rather see myself dead than see myself with\nyour family!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 14
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Why did you get married?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 6
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "That, sir, is the only thing that you have said to me\nin your entire lifetime which is even more ridiculous than\n\u201cMerry Christmas!\u201d  Good afternoon.",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "ridiculous"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "ridiculous"
+                ]
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "sir",
+                    "merry",
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "ridiculous"
+                ]
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "merry",
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 32
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Good afternoon, Nephew!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 5
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Good afternoon!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 3
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Good afternoon!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 3
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Oh, fine, a perfection, just\nfine . . . to see the perfect pair of you; husbands, with wives\nand children to support . . . my clerk there earning fifteen\nshillings a week . . . and the perfect pair of you, talking about\na Merry Christmas!  I\u2019ll retire to Bedlam!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 7,
+                "words": [
+                    "perfection",
+                    "perfect",
+                    "child",
+                    "earn",
+                    "perfect",
+                    "talk",
+                    "merry"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 5,
+                "words": [
+                    "perfection",
+                    "perfect",
+                    "child",
+                    "perfect",
+                    "merry"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.2857142857142857,
+        "word_count": 62
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Mr. Marley has been dead these seven years. He\ndied seven years ago this very night.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "die"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "die"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 18
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " . . . Good\nafternoon.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 6
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Are there no prisons?",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "prison"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "prison"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "prison"
+                ]
+            }
+        },
+        "valence": 0.5,
+        "word_count": 5
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "And aren\u2019t the Union workhouses still in\noperation?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 11
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "The Treadmil and the Poor Law are in full vigor, then?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "full",
+                    "vigor"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 13
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Ohhh, I see. I was afraid, from what you said at\nfirst, that something had occurred to stop them from their\nuseful course.  I\u2019m glad to hear it.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "glad"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "afraid"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "glad"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 36
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Nothing!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I wish to be left alone!  Since you ask me what I wish, gentlemen, that is\nmy answer. I help to support the establishments that I have\nmentioned: they cost enough: and those who are badly off\nmust go there.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "gentleman"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "badly"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "badly"
+                ]
+            }
+        },
+        "valence": 0.25,
+        "word_count": 47
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It\u2019s not my business. It\u2019s enough for a man to\nunderstand his own business, and not to interfere with other\npeople\u2019s. Mine occupies me constantly. Good afternoon,\ngentlemen!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "good",
+                    "gentleman"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 40
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Take your leave of\nmy offices, sirs, while I am still smiling.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "sir",
+                    "smile"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "leave"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "smile"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "leave"
+                ]
+            }
+        },
+        "valence": 0.2777777777777778,
+        "word_count": 15
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It\u2019s less of a time of year for being merry, and more\na time of year for being loony . . . if you ask me.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "merry"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "loony"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "merry"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 30
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Saved by six bells, are you?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "save"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "save"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 8
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Hmmm. Oh, you\u2019ll be wanting the whole day\ntomorrow, I suppose?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 17
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It\u2019s not convenient, and it\u2019s not fair. If I was to stop\nhalf-a-crown for it, you\u2019d think yourself ill-used, I\u2019ll be bound?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "convenient",
+                    "fair"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "bound"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 35
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "And yet, you don\u2019t think me ill-used when I pay a\nday\u2019s wages for no work . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "don",
+                    "pay"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "pay"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 24
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "A poor excuse for picking a man\u2019s pocket every\n25th of December! But l suppose you must have the whole\nday. Be here all the earlier the next morning!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "pick"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "excuse"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 34
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Don\u2019t say it, Cratchit. I warn you . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "warn"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 14
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Cratchit!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Bah! Humbug! Christmas! Bah! Humbug! ",
+        "emotionWords": {
+            "anger": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            },
+            "disgust": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            }
+        },
+        "valence": 0.6666666666666666,
+        "word_count": 10
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No light at all . . . no moon . . . that is what is at the\ncenter of Christmas Eve: dead black: void . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "center"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 30
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Pooh, pooh!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Bah! Humbug!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            }
+        },
+        "valence": 0.6666666666666666,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Bah still! Humbug still! This is not happening! I won\u2019t\nbelieve it!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            }
+        },
+        "valence": 0.6666666666666666,
+        "word_count": 18
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "How now! What do you want of me?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 10
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Who are you?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Who were you then?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 5
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I see . . . can you sit down?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 10
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Do it then.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I don\u2019t.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 5
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Because every little thing affects them. A slight\ndisorder of the stomach makes them cheat. You may be an\nundigested bit of beef, a blot of mustard, a crumb of cheese, a\nfragment of an underdone potato. There\u2019s more of gravy than\nof grave about you, whatever you are!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "cheat"
+                ]
+            },
+            "disgust": {
+                "count": 2,
+                "words": [
+                    "stomach",
+                    "cheat"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 4,
+                "words": [
+                    "disorder",
+                    "cheat",
+                    "blot",
+                    "grave"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "grave"
+                ]
+            }
+        },
+        "valence": 0.26666666666666666,
+        "word_count": 59
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Humbug! I tell you: humbug!",
+        "emotionWords": {
+            "anger": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            },
+            "disgust": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 2,
+                "words": [
+                    "humbug",
+                    "humbug"
+                ]
+            }
+        },
+        "valence": 0.6666666666666666,
+        "word_count": 8
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Mercy! Dreadful apparition, mercy! Why, O! why do you\ntrouble me so?",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "dreadful"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "dreadful"
+                ]
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "mercy",
+                    "mercy"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "dreadful"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "dreadful"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 18
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I do. I must. But why do spirits such as you walk\nthe earth? And why do they come to me?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 25
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Jacob. Old Jacob Marley, tell me more. Speak\ncomfort to me, Jacob . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "comfort"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "comfort"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 19
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "But you were always a good man of business,\nJacob.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 12
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I will, but don\u2019t be hard upon me. And don\u2019t be\nflowery, Jacob! Pray!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "don",
+                    "don",
+                    "flowery",
+                    "pray"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "pray"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.20833333333333334,
+        "word_count": 23
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "You were always a good friend to me. Thank\u2019ee!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "good",
+                    "friend"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "good",
+                    "friend"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 13
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Would that be the chance and hope you mentioned,\nJacob?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "hope"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "hope"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 12
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I think I\u2019d rather not.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 8
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Couldn\u2019t I take \u2019em all at once, and get it over,\nJacob?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 18
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Jacob! No, Jacob! Don\u2019t\nleave me! I\u2019m frightened!  No one here at all! Did I imagine all that?\nHumbug!  I did imagine it. It only\nhappened in my foulest dream-mind, didn\u2019t it? An\nundigested bit of . . .  Sorry! Sorry!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "humbug"
+                ]
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 3,
+                "words": [
+                    "leave",
+                    "frighten",
+                    "humbug"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 3,
+                "words": [
+                    "leave",
+                    "frighten",
+                    "humbug"
+                ]
+            }
+        },
+        "valence": 0.375,
+        "word_count": 60
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Midnight! Why this isn\u2019t possible. It\nwas past two when I went to bed. An icicle must have gotten\ninto the clock\u2019s works! I couldn\u2019t have slept through the\nwhole day and far into another night. It isn\u2019t possible that\nanything has happened to the sun, and this is twelve at noon!\n Night, still.\nQuiet, normal for the season, cold. It is certainly not noon.\nI cannot in any way afford to lose my days. Securities come\ndue, promissory notes, interest on investments: these are\nthings that happen in the daylight! \nWas this a dream?",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "sun",
+                    "quiet",
+                    "afford",
+                    "interest"
+                ]
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "cold",
+                    "lose"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "sun"
+                ]
+            },
+            "sadness": {
+                "count": 2,
+                "words": [
+                    "quiet",
+                    "lose"
+                ]
+            }
+        },
+        "valence": 0.3055555555555556,
+        "word_count": 123
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Another quarter and it\u2019ll be one and Marley\u2019s\nghostly friends will come.  Where\u2019s the chime\nfor one?  A quarter past  Half-past!\n A quarter to it! But where\u2019s the heavy bell of the\nhour one? This is a game in which I lose my senses! Perhaps,\nif I allowed myself another short doze . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "friend"
+                ]
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "ghostly",
+                    "lose"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "friend"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            }
+        },
+        "valence": 0.3888888888888889,
+        "word_count": 70
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "A hand! Who owns it! Hello!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 9
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Are you the Spirit, sir, whose coming was foretold to me?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "spirit",
+                    "sir"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 14
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Who, and what are you?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 7
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Long past?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 3
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "May I ask, please, sir, what business you have here\nwith me?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "sir"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 16
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Not to sound ungrateful, sir, and really, please do\nunderstand that I am plenty obliged for your concern, but,\nreally, kind spirit, it would have done all the better for my\nwelfare to have been left alone altogether, to have slept\npeacefully through this night.",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "ungrateful"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "ungrateful"
+                ]
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "sir",
+                    "kind",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "ungrateful",
+                    "oblige"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "kind"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.26666666666666666,
+        "word_count": 54
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "My what?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 3
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Fly, but I am a mortal and cannot fly!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "mortal"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 12
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Good Heaven! I was bred in this place. I was a\nboy here!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 16
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Upon my cheek? Nothing . . . a blemish on the skin\nfrom the eating of overmuch grease . . . nothing . . . \nKind Spirit of Christmas Past, lead me where you will, but\nquickly! To be stagnant in this place is, for me, unbearable!\nPast. You recollect the way?",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "blemish"
+                ]
+            },
+            "disgust": {
+                "count": 2,
+                "words": [
+                    "blemish",
+                    "unbearable"
+                ]
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "eat",
+                    "kind",
+                    "spirit",
+                    "lead"
+                ]
+            },
+            "negative": {
+                "count": 3,
+                "words": [
+                    "blemish",
+                    "stagnant",
+                    "unbearable"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "kind"
+                ]
+            },
+            "sadness": {
+                "count": 3,
+                "words": [
+                    "blemish",
+                    "stagnant",
+                    "unbearable"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 61
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Remember it! I would know it blindfolded! My\nbridge, my church, my winding river! ",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "church"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "church"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 19
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Listen! I know these men! I remember the beauty of\ntheir song!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "beauty"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "beauty"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 15
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " None. No good. None . . . ",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 9
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I cannot look on him!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 7
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It\u2019s me.  Poor boy. He lived inside his\nhead . . . alone . . .  poor boy.  I wish . . .  ah! it\u2019s too late!\nPast. What is the matter?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "late"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "late"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 43
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "There was a boy singing a Christmas Carol outside\nmy door last night. I should like to have given him\nsomething: that\u2019s all.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "sing",
+                    "carol"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "sing",
+                    "carol"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "sing"
+                ]
+            }
+        },
+        "valence": 0.4166666666666667,
+        "word_count": 28
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Look! Me, again! Older now!  Oh, yes . . .\nstill alone.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 18
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Yes, sir, I know sir . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "sir",
+                    "sir"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 10
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh, my dear, dear little sister, Fan . . . how I\nloved her.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "dear",
+                    "dear",
+                    "love"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "love"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.2222222222222222,
+        "word_count": 18
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "So she had.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "One child.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "child"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "child"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 3
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Yes.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Know it? Wasn\u2019t I apprenticed there?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 10
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Why, it\u2019s old Fezziwig! Bless his heart; it\u2019s\nFezziwig, alive again!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "bless",
+                    "alive"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "bless",
+                    "alive"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 20
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Quittin\u2019 time . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 6
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Dick Wilkins, to be sure! My fellow-\u2019prentice! Bless\nmy soul, yes. There he is. He was very much attached to me,\nwas Dick. Poor Dick! Dear, dear!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "bless",
+                    "dear",
+                    "dear"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "bless"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.2222222222222222,
+        "word_count": 40
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Small!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "small"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It isn\u2019t that! It isn\u2019t that, Spirit. Fezziwig had the\npower to make us happy or unhappy; to make our service\nlight or burdensome; a pleasure or a toil. The happiness he\ngave is quite as great as if it cost him a fortune.",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "unhappy"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "unhappy"
+                ]
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "spirit",
+                    "happy",
+                    "happiness",
+                    "fortune"
+                ]
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "unhappy",
+                    "burdensome"
+                ]
+            },
+            "joy": {
+                "count": 3,
+                "words": [
+                    "happy",
+                    "happiness",
+                    "fortune"
+                ]
+            },
+            "sadness": {
+                "count": 2,
+                "words": [
+                    "unhappy",
+                    "burdensome"
+                ]
+            }
+        },
+        "valence": 0.3611111111111111,
+        "word_count": 55
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Nothing particular.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 3
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No, no. l should like to be able to say a word or two\nto my clerk just now! That\u2019s all!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "word"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 27
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Don\u2019t release me, madame . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 10
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Ah, yes!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 4
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Please, I . . . I . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 10
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Don\u2019t let her go!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 7
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "You fool! Mindless loon! You fool!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 3,
+                "words": [
+                    "fool",
+                    "loon",
+                    "fool"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 3,
+                "words": [
+                    "fool",
+                    "loon",
+                    "fool"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 9
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Don\u2019t say that! Spirit, remove me from this place.",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "remove"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "don",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "remove"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "remove"
+                ]
+            }
+        },
+        "valence": 0.2777777777777778,
+        "word_count": 14
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Remove me! I cannot bear it!",
+        "emotionWords": {
+            "anger": {
+                "count": 2,
+                "words": [
+                    "remove",
+                    "bear"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "remove"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "remove"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 9
+    },
+    {
+        "act": "Act 1",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Leave me! Take me back! Haunt me no longer!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "leave",
+                    "haunt"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "leave"
+                ]
+            }
+        },
+        "valence": 0.25,
+        "word_count": 12
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "One! One! This is it; time! \nNothing!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 12
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Midnight! How can this be? I\u2019m sleeping backwards.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "backwards"
+                ]
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "backwards"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 13
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Good heavens! One again! I\u2019m sleeping back and forth!\n Nothing! Absolutely nothing!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 19
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Just checking to see if anyone is in here.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 10
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Hello. How should I call you?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 8
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Never.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I don\u2019t think I have. I\u2019m afraid I\u2019ve not. Have you\nhad many brothers, Spirit?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "don",
+                    "brother",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "afraid"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 25
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 1",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "A tremendous family to provide for!  Spirit, conduct me where you will. I went forth last\nnight on compulsion, and learnt a lesson which is working\nnow. Tonight, if you have aught to teach me, let me profit\nby it.",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "compulsion"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "provide",
+                    "spirit",
+                    "lesson",
+                    "teach"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "compulsion"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "teach"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.23333333333333334,
+        "word_count": 48
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What is it you sprinkle from your torch?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 9
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Do you sprinkle your kindness on any particular\npeople or on all people?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "kindness"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 14
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 2",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Why to the very poor most?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 7
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What is this place, Spirit?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 7
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Do you mean Cratchit, Spirit? Do you mean this is\nCratchit\u2019s home?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 17
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "These children are his?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "child"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "child"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 5
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "On his meager earnings! What foolishness!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "foolishness"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 8
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Wouldn\u2019t you say so? Fifteen shillings4 a week\u2019s\nwhat he gets!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 17
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit, tell me if Tiny Tim will live.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 10
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "No, no, kind Spirit! Say he will be spared!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "kind",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "kind"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 13
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Huh? What\u2019s that? Who calls?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 10
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Me, Bob? You toast me?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "toast"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "toast"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 8
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh. Spirit, must I? . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 10
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Just here, kind madam . . . out of sight, out\nof sight . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "kind"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "kind"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 18
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Thank you, Bob . . . and Mrs. Cratchit, too. No\none else is toasting me, . . . not now . . . not ever. Of that\nI am sure . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "toast"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "toast"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 39
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 3",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I am listening.  Spirit, it must be time for us to\ntake our leave. I feel in my heart that it is . . . that I must think\non that which I have seen here . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "leave"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "leave"
+                ]
+            }
+        },
+        "valence": 0.25,
+        "word_count": 42
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What is this place? We\u2019ve moved from the mines!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 13
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It is my nephew! . . . and the one he married . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 16
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It\u2019s me they talk of, isn\u2019t it, Spirit?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "talk",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 15
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What he says is true, Spirit . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "true",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "true"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 10
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit, please, make me visible! Make me audible!\nI want to talk with my nephew and my niece!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "spirit",
+                    "talk"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 23
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Your hair has gone gray! Your skin, wrinkled! Are\nspirits\u2019 lives so short?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "gray"
+                ]
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "gray"
+                ]
+            }
+        },
+        "valence": 0.25,
+        "word_count": 18
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Tonight?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Who are they?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 4
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Have they no refuge or resource?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 7
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit, I\u2019m frightened! Don\u2019t leave me! Spirit!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "spirit",
+                    "don",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "frighten",
+                    "leave"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 2,
+                "words": [
+                    "frighten",
+                    "leave"
+                ]
+            }
+        },
+        "valence": 0.23333333333333334,
+        "word_count": 15
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Who are you, Phantom? Oh, yes. I think I know\nyou! You are, are you not, the Spirit of Christmas Yet to\nCome?  And you are about to show me the shadows\nof the things that have not yet happened, but will happen in\ntime before us. Is that not so, Spirit?  Oh, Ghost of the Future, I fear you more than any\nSpecter I have seen! But, as I know that your purpose is to do\nme good and as I hope to live to be another man from what I\nwas, I am prepared to bear you company. \nLead on, then, lead on. The night is waning fast, and it is\nprecious time to me. Lead on, Spirit!",
+        "emotionWords": {
+            "anger": {
+                "count": 2,
+                "words": [
+                    "fear",
+                    "bear"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 10,
+                "words": [
+                    "spirit",
+                    "spirit",
+                    "good",
+                    "hope",
+                    "prepared",
+                    "lead",
+                    "lead",
+                    "precious",
+                    "lead",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 4,
+                "words": [
+                    "phantom",
+                    "fear",
+                    "specter",
+                    "wan"
+                ]
+            },
+            "joy": {
+                "count": 3,
+                "words": [
+                    "good",
+                    "hope",
+                    "precious"
+                ]
+            },
+            "sadness": {
+                "count": 2,
+                "words": [
+                    "specter",
+                    "wan"
+                ]
+            }
+        },
+        "valence": 0.23333333333333334,
+        "word_count": 145
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit, why did you show me this? Why do you\nshow me businessmen from my streets as they take the death\nof Jacob Marley? That is a thing past. You are future!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "death"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "death"
+                ]
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "death"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "death"
+                ]
+            }
+        },
+        "valence": 0.4166666666666667,
+        "word_count": 37
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " OOOOOOOoooooOOOOOoooooOOOOOOOO\noooooOOOOOOoooooOO!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 3
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "OOoooOOoooOOOoooOOOoooOOoooOOoooOOOooo!\n Obscene demons! Why not market the\ncorpse itself, as sell its trimming???  Oh, Spirit, I see\nit, I see it! This unhappy man\u2014this stripped-bare corpse . . .\ncould very well be my own. My life holds parallel! My life\nends that way now!",
+        "emotionWords": {
+            "anger": {
+                "count": 2,
+                "words": [
+                    "demon",
+                    "unhappy"
+                ]
+            },
+            "disgust": {
+                "count": 5,
+                "words": [
+                    "obscene",
+                    "demon",
+                    "corpse",
+                    "unhappy",
+                    "corpse"
+                ]
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 5,
+                "words": [
+                    "obscene",
+                    "demon",
+                    "corpse",
+                    "unhappy",
+                    "corpse"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 4,
+                "words": [
+                    "demon",
+                    "corpse",
+                    "unhappy",
+                    "corpse"
+                ]
+            }
+        },
+        "valence": 0.4722222222222222,
+        "word_count": 58
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit, this is a fearful place. In leaving it, I shall not leave its\nlesson, trust me. Let us go!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "spirit",
+                    "lesson"
+                ]
+            },
+            "negative": {
+                "count": 3,
+                "words": [
+                    "fearful",
+                    "leave",
+                    "leave"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 3,
+                "words": [
+                    "fearful",
+                    "leave",
+                    "leave"
+                ]
+            }
+        },
+        "valence": 0.26666666666666666,
+        "word_count": 26
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit, let me see some tenderness connected with a death, or\nthat dark chamber, which we just left now, Spirit, will be\nforever present to me.",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "death"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "death"
+                ]
+            },
+            "positive": {
+                "count": 4,
+                "words": [
+                    "spirit",
+                    "tenderness",
+                    "spirit",
+                    "present"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "death"
+                ]
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "tenderness",
+                    "present"
+                ]
+            },
+            "sadness": {
+                "count": 2,
+                "words": [
+                    "death",
+                    "dark"
+                ]
+            }
+        },
+        "valence": 0.3055555555555556,
+        "word_count": 32
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Huh? Who\nspoke? Who said that?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "spoke"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 9
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Specter, something informs me that our parting\nmoment is at hand. I know it, but I know not how I know it.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "specter"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "specter"
+                ]
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 26
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Am I that man those ghoulish parasites7 so gloated over?\n Before I draw nearer to that stone to which you\npoint, answer me one question. Are these the shadows\nof things that will be, or the shadows of things that MAY\nbe, only?",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "stone"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "question"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "stone"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 49
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh, no. Spirit! Oh, no, no!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 12
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit! Hear me! I am not the man I was. I will not be the man\nI would have been but for this intercourse. Why show me\nthis, if I am past all hope?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "spirit",
+                    "intercourse",
+                    "hope"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "hope"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.2222222222222222,
+        "word_count": 40
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh. Good Spirit, I see by your wavering hand that your good\nnature intercedes for me and pities me. Assure me that I yet\nmay change these shadows that you have shown me by an\naltered life!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "good",
+                    "spirit",
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "waver"
+                ]
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "good",
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "pity"
+                ]
+            }
+        },
+        "valence": 0.23333333333333334,
+        "word_count": 41
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I will honor Christmas in my heart and try to keep it all the\nyear. I will live in the Past, the Present, and the Future. The\nSpirits of all Three shall strive within me. I will not shut out\nthe lessons that they teach. Oh, tell me that I may sponge\naway the writing that is upon this stone!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "stone"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 5,
+                "words": [
+                    "honor",
+                    "present",
+                    "spirit",
+                    "lesson",
+                    "teach"
+                ]
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "sponge",
+                    "stone"
+                ]
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "present",
+                    "teach"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.23809523809523808,
+        "word_count": 68
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 4",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Spirit, dear Spirit, I am praying before you. Give me a\nsign that all is possible. Give me a sign that all hope for me\nis not lost. Oh, Spirit, kind Spirit, I beseech thee: give me\na sign . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "positive": {
+                "count": 8,
+                "words": [
+                    "spirit",
+                    "dear",
+                    "spirit",
+                    "pray",
+                    "hope",
+                    "spirit",
+                    "kind",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            },
+            "joy": {
+                "count": 3,
+                "words": [
+                    "pray",
+                    "hope",
+                    "kind"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "lose"
+                ]
+            }
+        },
+        "valence": 0.2777777777777778,
+        "word_count": 51
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " I will live in\nthe Past, in the Present, and in the Future! The Spirits of all\nThree shall strive within me!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "present",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "present"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 26
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh, Jacob Marley! Wherever you are, Jacob, know\nye that I praise you for this! I praise you . . . and heaven . . .\nand Christmastime!  I say it\nto you on my knees, old Jacob, on my knees!  Not torn down. My bed curtains are not at all\ntorn down! Rings and all, here they are! They are here: I am\nhere: the shadows of things that would have been, may now\nbe dispelled. They will be, Jacob! I know they will be!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "praise",
+                    "praise"
+                ]
+            },
+            "negative": {
+                "count": 3,
+                "words": [
+                    "torn",
+                    "torn",
+                    "dispel"
+                ]
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "praise",
+                    "praise"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "dispel"
+                ]
+            }
+        },
+        "valence": 0.26666666666666666,
+        "word_count": 106
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I am light as a feather, I am happy as an angel. I am as merry\nas a schoolboy. \nMerry Christmas to everybody! Merry Christmas to\neverybody! A Happy New Year to all the world! Hallo here!\nWhoop! Whoop! Hallo! Hallo! I don\u2019t know what day of the\nmonth it is! I don\u2019t care! I don\u2019t know anything! I\u2019m quite a\nbaby! I don\u2019t care! I don\u2019t care a fig! I\u2019d much rather be a baby than be an old wreck like me or Marley! (Sorry, Jacob.\nwherever ye be!) Hallo! Hallo there!",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "wreck"
+                ]
+            },
+            "disgust": {
+                "count": 1,
+                "words": [
+                    "wreck"
+                ]
+            },
+            "positive": {
+                "count": 13,
+                "words": [
+                    "happy",
+                    "angel",
+                    "merry",
+                    "merry",
+                    "merry",
+                    "happy",
+                    "don",
+                    "don",
+                    "don",
+                    "baby",
+                    "don",
+                    "don",
+                    "baby"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "wreck"
+                ]
+            },
+            "joy": {
+                "count": 8,
+                "words": [
+                    "happy",
+                    "angel",
+                    "merry",
+                    "merry",
+                    "merry",
+                    "happy",
+                    "baby",
+                    "baby"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "wreck"
+                ]
+            }
+        },
+        "valence": 0.2976190476190476,
+        "word_count": 132
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Hey, you boy!\nWhat\u2019s today? What day of the year is it?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 18
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It\u2019s Christmas Day, is it? Whoop! Well, I haven\u2019t\nmissed it after all, have I? The Spirits did all they did in one\nnight. They can do anything they like, right? Of course they\ncan! Of course they can!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "haven",
+                    "spirit"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 54
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Huh? Oh, yes, of course. What\u2019s your name, lad?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 17
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Adam! What a fine, strong name! Do you know the\npoulterer\u2019s in the next street but one, at the corner?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 27
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "A remarkable boy! An intelligent boy! Do you\nknow whether the poulterer\u2019s have sold the prize turkey that\nwas hanging up there? I don\u2019t mean the little prize turkey,\nAdam. I mean the big one!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "remarkable",
+                    "intelligent",
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "remarkable"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.2222222222222222,
+        "word_count": 45
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I mean, the turkey the size of Adam: that\u2019s the bird!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 16
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It is? Go and buy it! No, no. I am absolutely in\nearnest. Go and buy it and tell \u2019em to bring it here, so that I\nmay give them the directions to where I want it delivered, as\na gift. Come back here with the man, Adam, and I\u2019ll give you\na shilling. Come back here with him in less than five minutes,\nand I\u2019ll give you half-a-crown!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "earnest",
+                    "gift"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "gift"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 87
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "You are truly a champion, Adam . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "champion"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "champion"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 10
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh, my, MY!!! Look at the size of that turkey, will\nyou! He never could have stood upon his legs, that bird! He\nwould have snapped them off in a minute, like sticks of sealingwax! Why you\u2019ll never be able to carry that bird to Camden-Town, I\u2019ll give you money for a cab . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "money"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "money",
+                    "cab"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "money"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 72
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh, I didn\u2019t tell you? Yes, I\u2019ve written the precise\naddress down just here on this . . .  Bob\nCratchit\u2019s house. Now he\u2019s not to know who sends him this.\nDo you understand me? Not a word . . . ",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "precise",
+                    "word"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 55
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Good. There you go then . . . this is for the\nturkey . . .  . . . and this is for the taxi.  . . .\nand this is for your world-record run, Adam . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "good"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 42
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Then keep it, my lad. It\u2019s Christmas!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 12
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Of course I have, sir. It\u2019s Christmas!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "sir"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 12
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Merry Christmas, madam . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "merry"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "merry"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 7
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Merry Christmas, sir.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "merry",
+                    "sir"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "merry"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 5
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Oh, you! My dear sir! How do you do? I do hope\nthat you succeeded yesterday! It was very kind of you.\nA Merry Christmas.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 6,
+                "words": [
+                    "dear",
+                    "sir",
+                    "hope",
+                    "succeed",
+                    "kind",
+                    "merry"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 4,
+                "words": [
+                    "hope",
+                    "succeed",
+                    "kind",
+                    "merry"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.2777777777777778,
+        "word_count": 32
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Yes, Scrooge is my name though I\u2019m afraid you\nmay not find it very pleasant. Allow me to ask your pardon.\nAnd will you have the goodness to\u2014",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 3,
+                "words": [
+                    "pleasant",
+                    "pardon",
+                    "goodness"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "afraid"
+                ]
+            },
+            "joy": {
+                "count": 2,
+                "words": [
+                    "pleasant",
+                    "goodness"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 33
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "If you please. Not a farthing10 less. A great many\nback payments are included in it, I assure you. Will you do\nme that favor?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "include"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "payment"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 30
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": " Don\u2019t say anything, please. Come\nand see me. Will you?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "don"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 16
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Thank\u2019ee, I am much obliged to you. I thank you\nfifty times. Bless you!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "bless"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "oblige"
+                ]
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "bless"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.25,
+        "word_count": 20
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Fred!",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 2
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "It\u2019s I. Your Uncle Scrooge.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 8
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I have come to dinner. May I come in, Fred?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "dinner"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 13
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "What do you mean by coming in here at this time\nof day, a full eighteen minutes late, Mr. Cratchit? Hallo, sir?\nDo you hear me?",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 2,
+                "words": [
+                    "full",
+                    "sir"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "words": [
+                    "late"
+                ]
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "late"
+                ]
+            }
+        },
+        "valence": 0.2222222222222222,
+        "word_count": 32
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "You are? Yes, I certainly think you are. Step this\nway, sir, if you please . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "sir"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.16666666666666666,
+        "word_count": 23
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "Now, I\u2019ll tell you what, Cratchit. I am not going to\nstand this sort of thing any longer. And therefore . . .",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 0,
+                "words": []
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 0,
+                "words": []
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0,
+        "word_count": 29
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "I am . . . about . . . to . . . raise . . . your salary.",
+        "emotionWords": {
+            "anger": {
+                "count": 0,
+                "words": []
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 1,
+                "words": [
+                    "salary"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "words": []
+            },
+            "joy": {
+                "count": 1,
+                "words": [
+                    "salary"
+                ]
+            },
+            "sadness": {
+                "count": 0,
+                "words": []
+            }
+        },
+        "valence": 0.3333333333333333,
+        "word_count": 20
+    },
+    {
+        "act": "Act 2",
+        "scene": "Scene 5",
+        "type": "dialogue",
+        "character": "Scrooge",
+        "text": "A Merry Christmas, Bob . . . \nA merrier Christmas, Bob, my good fellow! than I have given\nyou for many a year. I\u2019ll raise your salary and endeavor to\nassist your struggling family and we will discuss your affairs\nthis very afternoon over a bowl of smoking bishop.11 Bob!\nMake up the fires and buy another coal scuttle before you dot\nanother i, Bob. It\u2019s too cold in this place! We need warmth\nand cheer, Bob Cratchit! Do you hear me? DO . . . YOU . . .\nHEAR . . . ME?",
+        "emotionWords": {
+            "anger": {
+                "count": 1,
+                "words": [
+                    "struggle"
+                ]
+            },
+            "disgust": {
+                "count": 0,
+                "words": []
+            },
+            "positive": {
+                "count": 7,
+                "words": [
+                    "merry",
+                    "good",
+                    "fellow",
+                    "salary",
+                    "endeavor",
+                    "assist",
+                    "cheer"
+                ]
+            },
+            "negative": {
+                "count": 2,
+                "words": [
+                    "struggle",
+                    "cold"
+                ]
+            },
+            "joy": {
+                "count": 4,
+                "words": [
+                    "merry",
+                    "good",
+                    "salary",
+                    "cheer"
+                ]
+            },
+            "sadness": {
+                "count": 1,
+                "words": [
+                    "struggle"
+                ]
+            }
+        },
+        "valence": 0.2777777777777778,
+        "word_count": 112
+    }
+]

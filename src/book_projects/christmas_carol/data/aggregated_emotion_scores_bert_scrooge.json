@@ -1,0 +1,122 @@
+[
+  {
+    "actScene": "Act 1 Scene 1",
+    "word_count": 29,
+    "dialogue_count": 1,
+    "emotion_scores": {
+      "anger": 0.6989433765411377,
+      "disgust": 0.0329272523522377,
+      "joy": 0.003641130169853568,
+      "sadness": 0.11153778433799744,
+      "fear": 0.01719507947564125
+    }
+  },
+  {
+    "actScene": "Act 1 Scene 2",
+    "word_count": 581,
+    "dialogue_count": 34,
+    "emotion_scores": {
+      "anger": 0.1427649113294833,
+      "disgust": 0.047697601220159626,
+      "joy": 0.27846111737273854,
+      "sadness": 0.09799287329181372,
+      "fear": 0.046998462117592094
+    }
+  },
+  {
+    "actScene": "Act 1 Scene 3",
+    "word_count": 276,
+    "dialogue_count": 22,
+    "emotion_scores": {
+      "anger": 0.09591161724264649,
+      "disgust": 0.09406092968790537,
+      "joy": 0.11626657689604061,
+      "sadness": 0.07106799865141511,
+      "fear": 0.10369263020269996
+    }
+  },
+  {
+    "actScene": "Act 1 Scene 4",
+    "word_count": 242,
+    "dialogue_count": 10,
+    "emotion_scores": {
+      "anger": 0.07285482520237566,
+      "disgust": 0.03729025600478053,
+      "joy": 0.02372786474879831,
+      "sadness": 0.1305618778336793,
+      "fear": 0.07408513213740661
+    }
+  },
+  {
+    "actScene": "Act 1 Scene 5",
+    "word_count": 372,
+    "dialogue_count": 35,
+    "emotion_scores": {
+      "anger": 0.2633611234703234,
+      "disgust": 0.089796983184559,
+      "joy": 0.1227905993150281,
+      "sadness": 0.10789735604609763,
+      "fear": 0.08962006605496364
+    }
+  },
+  {
+    "actScene": "Act 2 Scene 1",
+    "word_count": 99,
+    "dialogue_count": 9,
+    "emotion_scores": {
+      "anger": 0.07888945060161252,
+      "disgust": 0.0237719540277289,
+      "joy": 0.11529240428677036,
+      "sadness": 0.022178954237865076,
+      "fear": 0.13576347805145714
+    }
+  },
+  {
+    "actScene": "Act 2 Scene 2",
+    "word_count": 27,
+    "dialogue_count": 3,
+    "emotion_scores": {
+      "anger": 0.047062466541926064,
+      "disgust": 0.11277484645446141,
+      "joy": 0.0034338505550598106,
+      "sadness": 0.02257784145573775,
+      "fear": 0.009872632722059885
+    }
+  },
+  {
+    "actScene": "Act 2 Scene 3",
+    "word_count": 161,
+    "dialogue_count": 13,
+    "emotion_scores": {
+      "anger": 0.15243491702354872,
+      "disgust": 0.07220429113994424,
+      "joy": 0.03524520778312133,
+      "sadness": 0.12363360589370131,
+      "fear": 0.019140344023561247
+    }
+  },
+  {
+    "actScene": "Act 2 Scene 4",
+    "word_count": 584,
+    "dialogue_count": 24,
+    "emotion_scores": {
+      "anger": 0.10164093347460341,
+      "disgust": 0.07798877209521986,
+      "joy": 0.048471231583486464,
+      "sadness": 0.09255578792848003,
+      "fear": 0.18358293256217925
+    }
+  },
+  {
+    "actScene": "Act 2 Scene 5",
+    "word_count": 863,
+    "dialogue_count": 31,
+    "emotion_scores": {
+      "anger": 0.08448512655412478,
+      "disgust": 0.034894639333229394,
+      "joy": 0.2111059253689863,
+      "sadness": 0.038373268735144406,
+      "fear": 0.05032724647166868
+    }
+  }
+]
