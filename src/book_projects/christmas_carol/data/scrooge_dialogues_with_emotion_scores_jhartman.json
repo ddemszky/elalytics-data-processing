@@ -1,2550 +1,2550 @@
 [
-    {
-        "act": "Act 1",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "They owe me money and I will collect. I will have\nthem jailed, if I have to. They owe me money and I will\ncollect what is due me.",
-        "emotion_scores": {
-            "anger": 0.6989433765411377,
-            "disgust": 0.0329272523522377,
-            "fear": 0.01719507947564125,
-            "joy": 0.003641130169853568,
-            "sadness": 0.11153778433799744
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What are you doing, Cratchit? Acting cold, are\nyou? Next, you\u2019ll be asking to replenish your coal from my\ncoal-box, won\u2019t you? Well, save your breath, Cratchit! Unless\nyou\u2019re prepared to find employ elsewhere!",
-        "emotion_scores": {
-            "anger": 0.714286208152771,
-            "disgust": 0.0736442431807518,
-            "fear": 0.09245207160711288,
-            "joy": 0.004651425406336784,
-            "sadness": 0.02739453688263893
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Bah! Humbug!",
-        "emotion_scores": {
-            "anger": 0.12816908955574036,
-            "disgust": 0.11300443857908249,
-            "fear": 0.0072505054995417595,
-            "joy": 0.4562532901763916,
-            "sadness": 0.04864782467484474
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I do! Merry Christmas? What right do you have to\nbe merry? What reason have you to be merry? You\u2019re poor\nenough!",
-        "emotion_scores": {
-            "anger": 0.01470316480845213,
-            "disgust": 0.004754312336444855,
-            "fear": 0.0018992158584296703,
-            "joy": 0.4225485622882843,
-            "sadness": 0.3290639817714691
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Bah! Humbug!",
-        "emotion_scores": {
-            "anger": 0.12816908955574036,
-            "disgust": 0.11300443857908249,
-            "fear": 0.0072505054995417595,
-            "joy": 0.4562532901763916,
-            "sadness": 0.04864782467484474
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What else can I be? Eh? When I live in a world of\nfools such as this? Merry Christmas? What\u2019s Christmastime\nto you but a time of paying bills without any money; a time\nfor finding yourself a year older, but not an hour richer. If I\ncould work my will, every idiot who goes about with \u201cMerry\nChristmas\u201d on his lips, should be boiled with his own\npudding, and buried with a stake of holly through his heart.\nHe should!",
-        "emotion_scores": {
-            "anger": 0.8089930415153503,
-            "disgust": 0.11619164049625397,
-            "fear": 0.007068463135510683,
-            "joy": 0.005727771669626236,
-            "sadness": 0.02629893273115158
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Nephew! You keep Christmas in your own way\nand let me keep it in mine.",
-        "emotion_scores": {
-            "anger": 0.08785145729780197,
-            "disgust": 0.02802259661257267,
-            "fear": 0.004194552544504404,
-            "joy": 0.39588651061058044,
-            "sadness": 0.057873960584402084
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Let me leave it alone, then. Much good it has ever\ndone you!",
-        "emotion_scores": {
-            "anger": 0.2622326910495758,
-            "disgust": 0.031303521245718,
-            "fear": 0.005182868801057339,
-            "joy": 0.5017247200012207,
-            "sadness": 0.015651118010282516
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Let me hear another sound from you\nand you\u2019ll keep your Christmas by losing your situation.  You\u2019re quite a powerful speaker, sir. I wonder you\ndon\u2019t go into Parliament.",
-        "emotion_scores": {
-            "anger": 0.010175453498959541,
-            "disgust": 0.007564269471913576,
-            "fear": 0.008921012282371521,
-            "joy": 0.004832989536225796,
-            "sadness": 0.008369284681975842
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I\u2019d rather see myself dead than see myself with\nyour family!",
-        "emotion_scores": {
-            "anger": 0.7450317740440369,
-            "disgust": 0.04178612679243088,
-            "fear": 0.03403482586145401,
-            "joy": 0.004084964748471975,
-            "sadness": 0.15969911217689514
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Why did you get married?",
-        "emotion_scores": {
-            "anger": 0.0566997304558754,
-            "disgust": 0.005090092774480581,
-            "fear": 0.021593622863292694,
-            "joy": 0.003429401433095336,
-            "sadness": 0.015896836295723915
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "That, sir, is the only thing that you have said to me\nin your entire lifetime which is even more ridiculous than\n\u201cMerry Christmas!\u201d  Good afternoon.",
-        "emotion_scores": {
-            "anger": 0.3678058087825775,
-            "disgust": 0.13162828981876373,
-            "fear": 0.025453411042690277,
-            "joy": 0.18807139992713928,
-            "sadness": 0.03310709819197655
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Good afternoon, Nephew!",
-        "emotion_scores": {
-            "anger": 0.007104077376425266,
-            "disgust": 0.0023048873990774155,
-            "fear": 0.0007351909880526364,
-            "joy": 0.8113633990287781,
-            "sadness": 0.0055717481300234795
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Good afternoon!",
-        "emotion_scores": {
-            "anger": 0.005782563239336014,
-            "disgust": 0.001949275960214436,
-            "fear": 0.0008528102189302444,
-            "joy": 0.8142501711845398,
-            "sadness": 0.0061192759312689304
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Good afternoon!",
-        "emotion_scores": {
-            "anger": 0.005782563239336014,
-            "disgust": 0.001949275960214436,
-            "fear": 0.0008528102189302444,
-            "joy": 0.8142501711845398,
-            "sadness": 0.0061192759312689304
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Oh, fine, a perfection, just\nfine . . . to see the perfect pair of you; husbands, with wives\nand children to support . . . my clerk there earning fifteen\nshillings a week . . . and the perfect pair of you, talking about\na Merry Christmas!  I\u2019ll retire to Bedlam!",
-        "emotion_scores": {
-            "anger": 0.003114683786407113,
-            "disgust": 0.0012631508288905025,
-            "fear": 0.0009393024956807494,
-            "joy": 0.9107545614242554,
-            "sadness": 0.015484324656426907
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Mr. Marley has been dead these seven years. He\ndied seven years ago this very night.",
-        "emotion_scores": {
-            "anger": 0.0026331820990890265,
-            "disgust": 0.009870481677353382,
-            "fear": 0.007096030283719301,
-            "joy": 0.0019530986901372671,
-            "sadness": 0.7677015662193298
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " . . . Good\nafternoon.",
-        "emotion_scores": {
-            "anger": 0.003999331034719944,
-            "disgust": 0.0034346713218837976,
-            "fear": 0.0017081096302717924,
-            "joy": 0.4478594958782196,
-            "sadness": 0.04914641007781029
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Are there no prisons?",
-        "emotion_scores": {
-            "anger": 0.022660935297608376,
-            "disgust": 0.04795417934656143,
-            "fear": 0.004824352916330099,
-            "joy": 0.001975191989913583,
-            "sadness": 0.04335254058241844
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "And aren\u2019t the Union workhouses still in\noperation?",
-        "emotion_scores": {
-            "anger": 0.015103599056601524,
-            "disgust": 0.030151259154081345,
-            "fear": 0.0059838369488716125,
-            "joy": 0.001836634473875165,
-            "sadness": 0.013032205402851105
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "The Treadmil and the Poor Law are in full vigor, then?",
-        "emotion_scores": {
-            "anger": 0.027070801705121994,
-            "disgust": 0.014978116378188133,
-            "fear": 0.002222982235252857,
-            "joy": 0.014399705454707146,
-            "sadness": 0.003694334300234914
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Ohhh, I see. I was afraid, from what you said at\nfirst, that something had occurred to stop them from their\nuseful course.  I\u2019m glad to hear it.",
-        "emotion_scores": {
-            "anger": 0.00472923694178462,
-            "disgust": 0.005465766414999962,
-            "fear": 0.39641520380973816,
-            "joy": 0.5061648488044739,
-            "sadness": 0.0221251193434
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Nothing!",
-        "emotion_scores": {
-            "anger": 0.3772448003292084,
-            "disgust": 0.12997525930404663,
-            "fear": 0.022277778014540672,
-            "joy": 0.008528079837560654,
-            "sadness": 0.01945594884455204
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I wish to be left alone!  Since you ask me what I wish, gentlemen, that is\nmy answer. I help to support the establishments that I have\nmentioned: they cost enough: and those who are badly off\nmust go there.",
-        "emotion_scores": {
-            "anger": 0.004478773567825556,
-            "disgust": 0.004725953564047813,
-            "fear": 0.011817480437457561,
-            "joy": 0.007597591262310743,
-            "sadness": 0.9403194785118103
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It\u2019s not my business. It\u2019s enough for a man to\nunderstand his own business, and not to interfere with other\npeople\u2019s. Mine occupies me constantly. Good afternoon,\ngentlemen!",
-        "emotion_scores": {
-            "anger": 0.052261292934417725,
-            "disgust": 0.009742330759763718,
-            "fear": 0.008780393749475479,
-            "joy": 0.3477577567100525,
-            "sadness": 0.0226192157715559
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Take your leave of\nmy offices, sirs, while I am still smiling.",
-        "emotion_scores": {
-            "anger": 0.012850469909608364,
-            "disgust": 0.020367994904518127,
-            "fear": 0.0011061065597459674,
-            "joy": 0.7247658967971802,
-            "sadness": 0.01676563173532486
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It\u2019s less of a time of year for being merry, and more\na time of year for being loony . . . if you ask me.",
-        "emotion_scores": {
-            "anger": 0.0040037138387560844,
-            "disgust": 0.010600203648209572,
-            "fear": 0.001612735097296536,
-            "joy": 0.7009719610214233,
-            "sadness": 0.12646862864494324
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Saved by six bells, are you?",
-        "emotion_scores": {
-            "anger": 0.018052583560347557,
-            "disgust": 0.03048836626112461,
-            "fear": 0.008568000048398972,
-            "joy": 0.006138059310615063,
-            "sadness": 0.017283227294683456
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Hmmm. Oh, you\u2019ll be wanting the whole day\ntomorrow, I suppose?",
-        "emotion_scores": {
-            "anger": 0.007637602277100086,
-            "disgust": 0.019550681114196777,
-            "fear": 0.019554130733013153,
-            "joy": 0.012574564665555954,
-            "sadness": 0.04240812361240387
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It\u2019s not convenient, and it\u2019s not fair. If I was to stop\nhalf-a-crown for it, you\u2019d think yourself ill-used, I\u2019ll be bound?",
-        "emotion_scores": {
-            "anger": 0.2009819746017456,
-            "disgust": 0.27421215176582336,
-            "fear": 0.10544966906309128,
-            "joy": 0.0032314241398125887,
-            "sadness": 0.09137780964374542
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "And yet, you don\u2019t think me ill-used when I pay a\nday\u2019s wages for no work . . .",
-        "emotion_scores": {
-            "anger": 0.04042568802833557,
-            "disgust": 0.06284169852733612,
-            "fear": 0.007172390352934599,
-            "joy": 0.003797634970396757,
-            "sadness": 0.03965253382921219
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "A poor excuse for picking a man\u2019s pocket every\n25th of December! But l suppose you must have the whole\nday. Be here all the earlier the next morning!",
-        "emotion_scores": {
-            "anger": 0.17831028997898102,
-            "disgust": 0.17304934561252594,
-            "fear": 0.028944451361894608,
-            "joy": 0.05035817250609398,
-            "sadness": 0.20662344992160797
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Don\u2019t say it, Cratchit. I warn you . . .",
-        "emotion_scores": {
-            "anger": 0.07445846498012543,
-            "disgust": 0.022784128785133362,
-            "fear": 0.7219131588935852,
-            "joy": 0.005831491202116013,
-            "sadness": 0.055445596575737
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Cratchit!",
-        "emotion_scores": {
-            "anger": 0.4215991497039795,
-            "disgust": 0.06486084312200546,
-            "fear": 0.016038348898291588,
-            "joy": 0.08306623995304108,
-            "sadness": 0.03146135061979294
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Bah! Humbug! Christmas! Bah! Humbug! ",
-        "emotion_scores": {
-            "anger": 0.03960369899868965,
-            "disgust": 0.013204449787735939,
-            "fear": 0.0077813840471208096,
-            "joy": 0.7447875142097473,
-            "sadness": 0.01887938566505909
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No light at all . . . no moon . . . that is what is at the\ncenter of Christmas Eve: dead black: void . . .",
-        "emotion_scores": {
-            "anger": 0.035768523812294006,
-            "disgust": 0.045544762164354324,
-            "fear": 0.056871797889471054,
-            "joy": 0.00942722987383604,
-            "sadness": 0.4717761278152466
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Pooh, pooh!",
-        "emotion_scores": {
-            "anger": 0.04613615572452545,
-            "disgust": 0.0743015706539154,
-            "fear": 0.01454954780638218,
-            "joy": 0.1883978545665741,
-            "sadness": 0.10588818788528442
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Bah! Humbug!",
-        "emotion_scores": {
-            "anger": 0.12816908955574036,
-            "disgust": 0.11300443857908249,
-            "fear": 0.0072505054995417595,
-            "joy": 0.4562532901763916,
-            "sadness": 0.04864782467484474
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Bah still! Humbug still! This is not happening! I won\u2019t\nbelieve it!",
-        "emotion_scores": {
-            "anger": 0.19509151577949524,
-            "disgust": 0.12154226750135422,
-            "fear": 0.016876015812158585,
-            "joy": 0.015357927419245243,
-            "sadness": 0.07648474723100662
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "How now! What do you want of me?",
-        "emotion_scores": {
-            "anger": 0.6990486979484558,
-            "disgust": 0.044936634600162506,
-            "fear": 0.0435648150742054,
-            "joy": 0.009615320712327957,
-            "sadness": 0.026885664090514183
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Who are you?",
-        "emotion_scores": {
-            "anger": 0.022397911176085472,
-            "disgust": 0.004770407918840647,
-            "fear": 0.009779414162039757,
-            "joy": 0.005544802639633417,
-            "sadness": 0.005519304424524307
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Who were you then?",
-        "emotion_scores": {
-            "anger": 0.013606451451778412,
-            "disgust": 0.005036353599280119,
-            "fear": 0.00537378853186965,
-            "joy": 0.0045762439258396626,
-            "sadness": 0.0033264700323343277
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I see . . . can you sit down?",
-        "emotion_scores": {
-            "anger": 0.013802601024508476,
-            "disgust": 0.007067359518259764,
-            "fear": 0.006464348174631596,
-            "joy": 0.023585520684719086,
-            "sadness": 0.021667370572686195
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Do it then.",
-        "emotion_scores": {
-            "anger": 0.11907541751861572,
-            "disgust": 0.03826144337654114,
-            "fear": 0.012480411678552628,
-            "joy": 0.003083762712776661,
-            "sadness": 0.010038773529231548
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I don\u2019t.",
-        "emotion_scores": {
-            "anger": 0.08081427961587906,
-            "disgust": 0.07827182114124298,
-            "fear": 0.04195062071084976,
-            "joy": 0.006187154445797205,
-            "sadness": 0.0496194027364254
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Because every little thing affects them. A slight\ndisorder of the stomach makes them cheat. You may be an\nundigested bit of beef, a blot of mustard, a crumb of cheese, a\nfragment of an underdone potato. There\u2019s more of gravy than\nof grave about you, whatever you are!",
-        "emotion_scores": {
-            "anger": 0.015329449437558651,
-            "disgust": 0.9074005484580994,
-            "fear": 0.0035218216944485903,
-            "joy": 0.0016438455786556005,
-            "sadness": 0.006079906597733498
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Humbug! I tell you: humbug!",
-        "emotion_scores": {
-            "anger": 0.08324332535266876,
-            "disgust": 0.1549777388572693,
-            "fear": 0.006804394535720348,
-            "joy": 0.43814611434936523,
-            "sadness": 0.011937062256038189
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Mercy! Dreadful apparition, mercy! Why, O! why do you\ntrouble me so?",
-        "emotion_scores": {
-            "anger": 0.012289023026823997,
-            "disgust": 0.004722528159618378,
-            "fear": 0.9575873613357544,
-            "joy": 0.0012186322128400207,
-            "sadness": 0.00920944008976221
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I do. I must. But why do spirits such as you walk\nthe earth? And why do they come to me?",
-        "emotion_scores": {
-            "anger": 0.0868433490395546,
-            "disgust": 0.03176981583237648,
-            "fear": 0.15368430316448212,
-            "joy": 0.002580109052360058,
-            "sadness": 0.01151245553046465
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Jacob. Old Jacob Marley, tell me more. Speak\ncomfort to me, Jacob . . .",
-        "emotion_scores": {
-            "anger": 0.014485948719084263,
-            "disgust": 0.12075349688529968,
-            "fear": 0.1411203294992447,
-            "joy": 0.011591962538659573,
-            "sadness": 0.14176338911056519
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "But you were always a good man of business,\nJacob.",
-        "emotion_scores": {
-            "anger": 0.02510291151702404,
-            "disgust": 0.049102939665317535,
-            "fear": 0.004167388658970594,
-            "joy": 0.20087218284606934,
-            "sadness": 0.009609774686396122
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I will, but don\u2019t be hard upon me. And don\u2019t be\nflowery, Jacob! Pray!",
-        "emotion_scores": {
-            "anger": 0.13064172863960266,
-            "disgust": 0.034169286489486694,
-            "fear": 0.06414871662855148,
-            "joy": 0.16872170567512512,
-            "sadness": 0.1479538232088089
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "You were always a good friend to me. Thank\u2019ee!",
-        "emotion_scores": {
-            "anger": 0.004546840209513903,
-            "disgust": 0.0019344129832461476,
-            "fear": 0.0007763861794956028,
-            "joy": 0.9439438581466675,
-            "sadness": 0.0026199286803603172
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Would that be the chance and hope you mentioned,\nJacob?",
-        "emotion_scores": {
-            "anger": 0.00853748433291912,
-            "disgust": 0.0044620586559176445,
-            "fear": 0.005533128976821899,
-            "joy": 0.012637375853955746,
-            "sadness": 0.008800688199698925
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I think I\u2019d rather not.",
-        "emotion_scores": {
-            "anger": 0.018826041370630264,
-            "disgust": 0.06371738761663437,
-            "fear": 0.05951378867030144,
-            "joy": 0.04017432779073715,
-            "sadness": 0.144983172416687
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Couldn\u2019t I take \u2019em all at once, and get it over,\nJacob?",
-        "emotion_scores": {
-            "anger": 0.2841464579105377,
-            "disgust": 0.09096226096153259,
-            "fear": 0.04742719978094101,
-            "joy": 0.005315202288329601,
-            "sadness": 0.12332943826913834
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Jacob! No, Jacob! Don\u2019t\nleave me! I\u2019m frightened!  No one here at all! Did I imagine all that?\nHumbug!  I did imagine it. It only\nhappened in my foulest dream-mind, didn\u2019t it? An\nundigested bit of . . .  Sorry! Sorry!",
-        "emotion_scores": {
-            "anger": 0.07215237617492676,
-            "disgust": 0.07263091951608658,
-            "fear": 0.6217917799949646,
-            "joy": 0.008990268222987652,
-            "sadness": 0.12584301829338074
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Midnight! Why this isn\u2019t possible. It\nwas past two when I went to bed. An icicle must have gotten\ninto the clock\u2019s works! I couldn\u2019t have slept through the\nwhole day and far into another night. It isn\u2019t possible that\nanything has happened to the sun, and this is twelve at noon!\n Night, still.\nQuiet, normal for the season, cold. It is certainly not noon.\nI cannot in any way afford to lose my days. Securities come\ndue, promissory notes, interest on investments: these are\nthings that happen in the daylight! \nWas this a dream?",
-        "emotion_scores": {
-            "anger": 0.0513131208717823,
-            "disgust": 0.024506621062755585,
-            "fear": 0.04453902691602707,
-            "joy": 0.0030007236637175083,
-            "sadness": 0.008507436141371727
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Another quarter and it\u2019ll be one and Marley\u2019s\nghostly friends will come.  Where\u2019s the chime\nfor one?  A quarter past  Half-past!\n A quarter to it! But where\u2019s the heavy bell of the\nhour one? This is a game in which I lose my senses! Perhaps,\nif I allowed myself another short doze . . .",
-        "emotion_scores": {
-            "anger": 0.043925125151872635,
-            "disgust": 0.04056524112820625,
-            "fear": 0.1006534993648529,
-            "joy": 0.024685587733983994,
-            "sadness": 0.21767038106918335
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "A hand! Who owns it! Hello!",
-        "emotion_scores": {
-            "anger": 0.14981432259082794,
-            "disgust": 0.017523830756545067,
-            "fear": 0.00614225072786212,
-            "joy": 0.1449953317642212,
-            "sadness": 0.014909154735505581
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Are you the Spirit, sir, whose coming was foretold to me?",
-        "emotion_scores": {
-            "anger": 0.023111531510949135,
-            "disgust": 0.017632383853197098,
-            "fear": 0.016628915444016457,
-            "joy": 0.007828566245734692,
-            "sadness": 0.005739765707403421
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Who, and what are you?",
-        "emotion_scores": {
-            "anger": 0.05971548706293106,
-            "disgust": 0.009391958825290203,
-            "fear": 0.028532491996884346,
-            "joy": 0.007448466029018164,
-            "sadness": 0.0081022959202528
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Long past?",
-        "emotion_scores": {
-            "anger": 0.011292398907244205,
-            "disgust": 0.017212646082043648,
-            "fear": 0.005659763235598803,
-            "joy": 0.002426588675007224,
-            "sadness": 0.006642632186412811
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "May I ask, please, sir, what business you have here\nwith me?",
-        "emotion_scores": {
-            "anger": 0.054977696388959885,
-            "disgust": 0.08126536756753922,
-            "fear": 0.24463112652301788,
-            "joy": 0.005859332159161568,
-            "sadness": 0.03695286810398102
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Not to sound ungrateful, sir, and really, please do\nunderstand that I am plenty obliged for your concern, but,\nreally, kind spirit, it would have done all the better for my\nwelfare to have been left alone altogether, to have slept\npeacefully through this night.",
-        "emotion_scores": {
-            "anger": 0.1864374727010727,
-            "disgust": 0.05606461688876152,
-            "fear": 0.0017451803432777524,
-            "joy": 0.029939251020550728,
-            "sadness": 0.6620569825172424
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "My what?",
-        "emotion_scores": {
-            "anger": 0.0268185306340456,
-            "disgust": 0.013290595263242722,
-            "fear": 0.011016704142093658,
-            "joy": 0.0028178859502077103,
-            "sadness": 0.006055126897990704
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Fly, but I am a mortal and cannot fly!",
-        "emotion_scores": {
-            "anger": 0.12114256620407104,
-            "disgust": 0.095449298620224,
-            "fear": 0.2813023626804352,
-            "joy": 0.008276914246380329,
-            "sadness": 0.33898213505744934
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Good Heaven! I was bred in this place. I was a\nboy here!",
-        "emotion_scores": {
-            "anger": 0.010760011151432991,
-            "disgust": 0.005948533769696951,
-            "fear": 0.0009657900081947446,
-            "joy": 0.8748387098312378,
-            "sadness": 0.004391687922179699
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Upon my cheek? Nothing . . . a blemish on the skin\nfrom the eating of overmuch grease . . . nothing . . . \nKind Spirit of Christmas Past, lead me where you will, but\nquickly! To be stagnant in this place is, for me, unbearable!\nPast. You recollect the way?",
-        "emotion_scores": {
-            "anger": 0.06781359016895294,
-            "disgust": 0.4227542579174042,
-            "fear": 0.23605498671531677,
-            "joy": 0.0026710161473602057,
-            "sadness": 0.16262149810791016
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Remember it! I would know it blindfolded! My\nbridge, my church, my winding river! ",
-        "emotion_scores": {
-            "anger": 0.1566050499677658,
-            "disgust": 0.026184547692537308,
-            "fear": 0.7190791964530945,
-            "joy": 0.006474447436630726,
-            "sadness": 0.013978925533592701
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Listen! I know these men! I remember the beauty of\ntheir song!",
-        "emotion_scores": {
-            "anger": 0.22714433073997498,
-            "disgust": 0.07556647062301636,
-            "fear": 0.007683196570724249,
-            "joy": 0.33558547496795654,
-            "sadness": 0.016813432797789574
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " None. No good. None . . . ",
-        "emotion_scores": {
-            "anger": 0.18926171958446503,
-            "disgust": 0.6245700716972351,
-            "fear": 0.03523136302828789,
-            "joy": 0.002127352636307478,
-            "sadness": 0.10925133526325226
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I cannot look on him!",
-        "emotion_scores": {
-            "anger": 0.8309074640274048,
-            "disgust": 0.019713057205080986,
-            "fear": 0.1269153356552124,
-            "joy": 0.002574685262516141,
-            "sadness": 0.010480384342372417
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It\u2019s me.  Poor boy. He lived inside his\nhead . . . alone . . .  poor boy.  I wish . . .  ah! it\u2019s too late!\nPast. What is the matter?",
-        "emotion_scores": {
-            "anger": 0.0016882370691746473,
-            "disgust": 0.0010839109309017658,
-            "fear": 0.0018918766872957349,
-            "joy": 0.0028688726015388966,
-            "sadness": 0.9636377096176147
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "There was a boy singing a Christmas Carol outside\nmy door last night. I should like to have given him\nsomething: that\u2019s all.",
-        "emotion_scores": {
-            "anger": 0.009954318404197693,
-            "disgust": 0.021620167419314384,
-            "fear": 0.0045530106872320175,
-            "joy": 0.29216858744621277,
-            "sadness": 0.03936091065406799
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Look! Me, again! Older now!  Oh, yes . . .\nstill alone.",
-        "emotion_scores": {
-            "anger": 0.04844411835074425,
-            "disgust": 0.021663106977939606,
-            "fear": 0.0234482754021883,
-            "joy": 0.10142058879137039,
-            "sadness": 0.3170391023159027
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Yes, sir, I know sir . . .",
-        "emotion_scores": {
-            "anger": 0.025072043761610985,
-            "disgust": 0.052404217422008514,
-            "fear": 0.045298099517822266,
-            "joy": 0.013361053541302681,
-            "sadness": 0.03639727458357811
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh, my dear, dear little sister, Fan . . . how I\nloved her.",
-        "emotion_scores": {
-            "anger": 0.0030280405189841986,
-            "disgust": 0.002512634266167879,
-            "fear": 0.0022099290508776903,
-            "joy": 0.6475956439971924,
-            "sadness": 0.20041178166866302
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "So she had.",
-        "emotion_scores": {
-            "anger": 0.01350591704249382,
-            "disgust": 0.02004748396575451,
-            "fear": 0.0028872089460492134,
-            "joy": 0.0035624406300485134,
-            "sadness": 0.013757169246673584
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "One child.",
-        "emotion_scores": {
-            "anger": 0.02255507931113243,
-            "disgust": 0.06229645386338234,
-            "fear": 0.0027741773519665003,
-            "joy": 0.48635333776474,
-            "sadness": 0.15282516181468964
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Yes.",
-        "emotion_scores": {
-            "anger": 0.0077622137032449245,
-            "disgust": 0.03510213643312454,
-            "fear": 0.014624937437474728,
-            "joy": 0.006465169135481119,
-            "sadness": 0.03374974802136421
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Know it? Wasn\u2019t I apprenticed there?",
-        "emotion_scores": {
-            "anger": 0.03938589617609978,
-            "disgust": 0.020595991984009743,
-            "fear": 0.010243751108646393,
-            "joy": 0.00827447883784771,
-            "sadness": 0.012178788892924786
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Why, it\u2019s old Fezziwig! Bless his heart; it\u2019s\nFezziwig, alive again!",
-        "emotion_scores": {
-            "anger": 0.09590020775794983,
-            "disgust": 0.015289927832782269,
-            "fear": 0.0024985363706946373,
-            "joy": 0.3189696967601776,
-            "sadness": 0.02747555449604988
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Quittin\u2019 time . . .",
-        "emotion_scores": {
-            "anger": 0.01687774620950222,
-            "disgust": 0.011879289522767067,
-            "fear": 0.00686698779463768,
-            "joy": 0.1460130661725998,
-            "sadness": 0.13337458670139313
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Dick Wilkins, to be sure! My fellow-\u2019prentice! Bless\nmy soul, yes. There he is. He was very much attached to me,\nwas Dick. Poor Dick! Dear, dear!",
-        "emotion_scores": {
-            "anger": 0.017573151737451553,
-            "disgust": 0.010938023217022419,
-            "fear": 0.0038524759002029896,
-            "joy": 0.15336698293685913,
-            "sadness": 0.6453332304954529
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Small!",
-        "emotion_scores": {
-            "anger": 0.06481438130140305,
-            "disgust": 0.06405816972255707,
-            "fear": 0.01076236180961132,
-            "joy": 0.024727091193199158,
-            "sadness": 0.028887489810585976
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It isn\u2019t that! It isn\u2019t that, Spirit. Fezziwig had the\npower to make us happy or unhappy; to make our service\nlight or burdensome; a pleasure or a toil. The happiness he\ngave is quite as great as if it cost him a fortune.",
-        "emotion_scores": {
-            "anger": 0.0736185759305954,
-            "disgust": 0.07435198128223419,
-            "fear": 0.0030723768286406994,
-            "joy": 0.3667839467525482,
-            "sadness": 0.16979171335697174
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Nothing particular.",
-        "emotion_scores": {
-            "anger": 0.04247907176613808,
-            "disgust": 0.3450794219970703,
-            "fear": 0.015594356693327427,
-            "joy": 0.0032416596077382565,
-            "sadness": 0.03352491930127144
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No, no. l should like to be able to say a word or two\nto my clerk just now! That\u2019s all!",
-        "emotion_scores": {
-            "anger": 0.12998078763484955,
-            "disgust": 0.048449475318193436,
-            "fear": 0.00741911306977272,
-            "joy": 0.16341091692447662,
-            "sadness": 0.01214268896728754
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No!",
-        "emotion_scores": {
-            "anger": 0.5688468217849731,
-            "disgust": 0.14708589017391205,
-            "fear": 0.039918843656778336,
-            "joy": 0.012694871053099632,
-            "sadness": 0.05059666559100151
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No!",
-        "emotion_scores": {
-            "anger": 0.5688468217849731,
-            "disgust": 0.14708589017391205,
-            "fear": 0.039918843656778336,
-            "joy": 0.012694871053099632,
-            "sadness": 0.05059666559100151
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Don\u2019t release me, madame . . .",
-        "emotion_scores": {
-            "anger": 0.7717428207397461,
-            "disgust": 0.02317402884364128,
-            "fear": 0.09593277424573898,
-            "joy": 0.00418928312137723,
-            "sadness": 0.05456920340657234
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Ah, yes!",
-        "emotion_scores": {
-            "anger": 0.3645685017108917,
-            "disgust": 0.12498760223388672,
-            "fear": 0.036344267427921295,
-            "joy": 0.2339790314435959,
-            "sadness": 0.022282155230641365
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Please, I . . . I . . .",
-        "emotion_scores": {
-            "anger": 0.02654365263879299,
-            "disgust": 0.048793476074934006,
-            "fear": 0.101357601583004,
-            "joy": 0.015101308934390545,
-            "sadness": 0.20508484542369843
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No!",
-        "emotion_scores": {
-            "anger": 0.5688468217849731,
-            "disgust": 0.14708589017391205,
-            "fear": 0.039918843656778336,
-            "joy": 0.012694871053099632,
-            "sadness": 0.05059666559100151
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No!",
-        "emotion_scores": {
-            "anger": 0.5688468217849731,
-            "disgust": 0.14708589017391205,
-            "fear": 0.039918843656778336,
-            "joy": 0.012694871053099632,
-            "sadness": 0.05059666559100151
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Don\u2019t let her go!",
-        "emotion_scores": {
-            "anger": 0.6191097497940063,
-            "disgust": 0.0073861791752278805,
-            "fear": 0.3480079472064972,
-            "joy": 0.0029843004886060953,
-            "sadness": 0.010657618753612041
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No!",
-        "emotion_scores": {
-            "anger": 0.5688468217849731,
-            "disgust": 0.14708589017391205,
-            "fear": 0.039918843656778336,
-            "joy": 0.012694871053099632,
-            "sadness": 0.05059666559100151
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "You fool! Mindless loon! You fool!",
-        "emotion_scores": {
-            "anger": 0.8257787823677063,
-            "disgust": 0.13745157420635223,
-            "fear": 0.005050624255090952,
-            "joy": 0.0031237644143402576,
-            "sadness": 0.009410541504621506
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Don\u2019t say that! Spirit, remove me from this place.",
-        "emotion_scores": {
-            "anger": 0.5512403845787048,
-            "disgust": 0.03917662426829338,
-            "fear": 0.3625554144382477,
-            "joy": 0.0021739411167800426,
-            "sadness": 0.02010333351790905
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Remove me! I cannot bear it!",
-        "emotion_scores": {
-            "anger": 0.8294737339019775,
-            "disgust": 0.0250535998493433,
-            "fear": 0.10450150072574615,
-            "joy": 0.0026940805837512016,
-            "sadness": 0.02355906553566456
-        }
-    },
-    {
-        "act": "Act 1",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Leave me! Take me back! Haunt me no longer!",
-        "emotion_scores": {
-            "anger": 0.28981563448905945,
-            "disgust": 0.01933254487812519,
-            "fear": 0.5994306206703186,
-            "joy": 0.007095691282302141,
-            "sadness": 0.04033227637410164
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "One! One! This is it; time! \nNothing!",
-        "emotion_scores": {
-            "anger": 0.30027398467063904,
-            "disgust": 0.021801000460982323,
-            "fear": 0.06603355705738068,
-            "joy": 0.13901428878307343,
-            "sadness": 0.023025382310152054
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Midnight! How can this be? I\u2019m sleeping backwards.",
-        "emotion_scores": {
-            "anger": 0.043835606426000595,
-            "disgust": 0.02735203318297863,
-            "fear": 0.01076149009168148,
-            "joy": 0.002376764779910445,
-            "sadness": 0.015170520171523094
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Good heavens! One again! I\u2019m sleeping back and forth!\n Nothing! Absolutely nothing!",
-        "emotion_scores": {
-            "anger": 0.026413103565573692,
-            "disgust": 0.010564458556473255,
-            "fear": 0.002379773883149028,
-            "joy": 0.5603229403495789,
-            "sadness": 0.016042714938521385
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What?",
-        "emotion_scores": {
-            "anger": 0.033556707203388214,
-            "disgust": 0.013810660690069199,
-            "fear": 0.009667806327342987,
-            "joy": 0.002519917208701372,
-            "sadness": 0.0043388535268604755
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Just checking to see if anyone is in here.",
-        "emotion_scores": {
-            "anger": 0.0033475777599960566,
-            "disgust": 0.0034362198784947395,
-            "fear": 0.003184266621246934,
-            "joy": 0.007825301960110664,
-            "sadness": 0.005475328769534826
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Hello. How should I call you?",
-        "emotion_scores": {
-            "anger": 0.06932086497545242,
-            "disgust": 0.04168194532394409,
-            "fear": 0.11014395207166672,
-            "joy": 0.0034597967751324177,
-            "sadness": 0.022673409432172775
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Never.",
-        "emotion_scores": {
-            "anger": 0.035021062940359116,
-            "disgust": 0.04287688061594963,
-            "fear": 0.03469957783818245,
-            "joy": 0.006494820583611727,
-            "sadness": 0.06015656515955925
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I don\u2019t think I have. I\u2019m afraid I\u2019ve not. Have you\nhad many brothers, Spirit?",
-        "emotion_scores": {
-            "anger": 0.005788872949779034,
-            "disgust": 0.005336617585271597,
-            "fear": 0.8889161348342896,
-            "joy": 0.0031265700235962868,
-            "sadness": 0.01294559147208929
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 1",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "A tremendous family to provide for!  Spirit, conduct me where you will. I went forth last\nnight on compulsion, and learnt a lesson which is working\nnow. Tonight, if you have aught to teach me, let me profit\nby it.",
-        "emotion_scores": {
-            "anger": 0.19244727492332458,
-            "disgust": 0.04708776995539665,
-            "fear": 0.09608474373817444,
-            "joy": 0.312491238117218,
-            "sadness": 0.03978222236037254
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What is it you sprinkle from your torch?",
-        "emotion_scores": {
-            "anger": 0.04014633595943451,
-            "disgust": 0.05116351693868637,
-            "fear": 0.015045617707073689,
-            "joy": 0.002345218090340495,
-            "sadness": 0.005097127053886652
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Do you sprinkle your kindness on any particular\npeople or on all people?",
-        "emotion_scores": {
-            "anger": 0.06395644694566727,
-            "disgust": 0.1596016138792038,
-            "fear": 0.006484208628535271,
-            "joy": 0.006058918312191963,
-            "sadness": 0.00442873639985919
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 2",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Why to the very poor most?",
-        "emotion_scores": {
-            "anger": 0.03708461672067642,
-            "disgust": 0.12755940854549408,
-            "fear": 0.008088071830570698,
-            "joy": 0.0018974152626469731,
-            "sadness": 0.05820766091346741
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What is this place, Spirit?",
-        "emotion_scores": {
-            "anger": 0.023663373664021492,
-            "disgust": 0.010852723382413387,
-            "fear": 0.010480993427336216,
-            "joy": 0.0029319736640900373,
-            "sadness": 0.004566143732517958
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Do you mean Cratchit, Spirit? Do you mean this is\nCratchit\u2019s home?",
-        "emotion_scores": {
-            "anger": 0.07213949412107468,
-            "disgust": 0.10196810960769653,
-            "fear": 0.01561061106622219,
-            "joy": 0.006799941882491112,
-            "sadness": 0.010336101986467838
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "These children are his?",
-        "emotion_scores": {
-            "anger": 0.029534487053751945,
-            "disgust": 0.017591146752238274,
-            "fear": 0.005210187751799822,
-            "joy": 0.011524215340614319,
-            "sadness": 0.00845350231975317
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "On his meager earnings! What foolishness!",
-        "emotion_scores": {
-            "anger": 0.2815714478492737,
-            "disgust": 0.28260180354118347,
-            "fear": 0.019861118867993355,
-            "joy": 0.006105558015406132,
-            "sadness": 0.26196616888046265
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Wouldn\u2019t you say so? Fifteen shillings4 a week\u2019s\nwhat he gets!",
-        "emotion_scores": {
-            "anger": 0.18787917494773865,
-            "disgust": 0.06635732203722,
-            "fear": 0.0054028513841331005,
-            "joy": 0.025971591472625732,
-            "sadness": 0.011290102265775204
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit, tell me if Tiny Tim will live.",
-        "emotion_scores": {
-            "anger": 0.0038686231710016727,
-            "disgust": 0.004917910788208246,
-            "fear": 0.008367713540792465,
-            "joy": 0.006930571980774403,
-            "sadness": 0.026976177468895912
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "No, no, kind Spirit! Say he will be spared!",
-        "emotion_scores": {
-            "anger": 0.7022044062614441,
-            "disgust": 0.139804869890213,
-            "fear": 0.04635946825146675,
-            "joy": 0.012012905441224575,
-            "sadness": 0.050428204238414764
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Huh? What\u2019s that? Who calls?",
-        "emotion_scores": {
-            "anger": 0.03146238625049591,
-            "disgust": 0.02165326476097107,
-            "fear": 0.0045928871259093285,
-            "joy": 0.0025347780901938677,
-            "sadness": 0.005338194780051708
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Me, Bob? You toast me?",
-        "emotion_scores": {
-            "anger": 0.29329901933670044,
-            "disgust": 0.0746808871626854,
-            "fear": 0.02660752460360527,
-            "joy": 0.032930225133895874,
-            "sadness": 0.014970280230045319
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh. Spirit, must I? . . .",
-        "emotion_scores": {
-            "anger": 0.023461343720555305,
-            "disgust": 0.0408175066113472,
-            "fear": 0.02877330780029297,
-            "joy": 0.012486504390835762,
-            "sadness": 0.06780199706554413
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Just here, kind madam . . . out of sight, out\nof sight . . .",
-        "emotion_scores": {
-            "anger": 0.31824079155921936,
-            "disgust": 0.15685370564460754,
-            "fear": 0.06023313105106354,
-            "joy": 0.008164056576788425,
-            "sadness": 0.07279784232378006
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Thank you, Bob . . . and Mrs. Cratchit, too. No\none else is toasting me, . . . not now . . . not ever. Of that\nI am sure . . .",
-        "emotion_scores": {
-            "anger": 0.009710594080388546,
-            "disgust": 0.015361381694674492,
-            "fear": 0.003418378299102187,
-            "joy": 0.3214974105358124,
-            "sadness": 0.16331349313259125
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 3",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I am listening.  Spirit, it must be time for us to\ntake our leave. I feel in my heart that it is . . . that I must think\non that which I have seen here . . .",
-        "emotion_scores": {
-            "anger": 0.004618779290467501,
-            "disgust": 0.005195152945816517,
-            "fear": 0.013906299136579037,
-            "joy": 0.008297968655824661,
-            "sadness": 0.9089986681938171
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What is this place? We\u2019ve moved from the mines!",
-        "emotion_scores": {
-            "anger": 0.035379808396101,
-            "disgust": 0.023960134014487267,
-            "fear": 0.0066855549812316895,
-            "joy": 0.0036029769107699394,
-            "sadness": 0.005378102418035269
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It is my nephew! . . . and the one he married . . .",
-        "emotion_scores": {
-            "anger": 0.0355207696557045,
-            "disgust": 0.0062585193663835526,
-            "fear": 0.0029155646916478872,
-            "joy": 0.17298747599124908,
-            "sadness": 0.06246485933661461
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It\u2019s me they talk of, isn\u2019t it, Spirit?",
-        "emotion_scores": {
-            "anger": 0.03633112087845802,
-            "disgust": 0.09215912222862244,
-            "fear": 0.014765131287276745,
-            "joy": 0.005459826905280352,
-            "sadness": 0.005234514828771353
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What he says is true, Spirit . . .",
-        "emotion_scores": {
-            "anger": 0.01385465357452631,
-            "disgust": 0.011822427622973919,
-            "fear": 0.0035347696393728256,
-            "joy": 0.00956049095839262,
-            "sadness": 0.0038819846231490374
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit, please, make me visible! Make me audible!\nI want to talk with my nephew and my niece!",
-        "emotion_scores": {
-            "anger": 0.3990148901939392,
-            "disgust": 0.06653156131505966,
-            "fear": 0.4127301275730133,
-            "joy": 0.016029557213187218,
-            "sadness": 0.04895414784550667
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Your hair has gone gray! Your skin, wrinkled! Are\nspirits\u2019 lives so short?",
-        "emotion_scores": {
-            "anger": 0.15711334347724915,
-            "disgust": 0.2864728569984436,
-            "fear": 0.011288858018815517,
-            "joy": 0.006245844531804323,
-            "sadness": 0.22209586203098297
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Tonight?",
-        "emotion_scores": {
-            "anger": 0.009925836697220802,
-            "disgust": 0.009688620455563068,
-            "fear": 0.012214361689984798,
-            "joy": 0.003603893332183361,
-            "sadness": 0.0066607436165213585
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Who are they?",
-        "emotion_scores": {
-            "anger": 0.02223093807697296,
-            "disgust": 0.006387069821357727,
-            "fear": 0.007874809205532074,
-            "joy": 0.0040725525468587875,
-            "sadness": 0.004618991632014513
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Have they no refuge or resource?",
-        "emotion_scores": {
-            "anger": 0.06008271127939224,
-            "disgust": 0.04697034880518913,
-            "fear": 0.05152031406760216,
-            "joy": 0.0013021132908761501,
-            "sadness": 0.0589643195271492
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit, I\u2019m frightened! Don\u2019t leave me! Spirit!",
-        "emotion_scores": {
-            "anger": 0.0013029826804995537,
-            "disgust": 0.0007140688830986619,
-            "fear": 0.9919223785400391,
-            "joy": 0.0008688883972354233,
-            "sadness": 0.0018566829385235906
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Who are you, Phantom? Oh, yes. I think I know\nyou! You are, are you not, the Spirit of Christmas Yet to\nCome?  And you are about to show me the shadows\nof the things that have not yet happened, but will happen in\ntime before us. Is that not so, Spirit?  Oh, Ghost of the Future, I fear you more than any\nSpecter I have seen! But, as I know that your purpose is to do\nme good and as I hope to live to be another man from what I\nwas, I am prepared to bear you company. \nLead on, then, lead on. The night is waning fast, and it is\nprecious time to me. Lead on, Spirit!",
-        "emotion_scores": {
-            "anger": 0.013227238319814205,
-            "disgust": 0.004826165735721588,
-            "fear": 0.928911030292511,
-            "joy": 0.0034979835618287325,
-            "sadness": 0.007432988379150629
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit, why did you show me this? Why do you\nshow me businessmen from my streets as they take the death\nof Jacob Marley? That is a thing past. You are future!",
-        "emotion_scores": {
-            "anger": 0.4627463221549988,
-            "disgust": 0.06677436828613281,
-            "fear": 0.04855911433696747,
-            "joy": 0.004045428242534399,
-            "sadness": 0.013682117685675621
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " OOOOOOOoooooOOOOOoooooOOOOOOOO\noooooOOOOOOoooooOO!",
-        "emotion_scores": {
-            "anger": 0.04739075526595116,
-            "disgust": 0.02053510583937168,
-            "fear": 0.01348835974931717,
-            "joy": 0.1389276385307312,
-            "sadness": 0.1042308434844017
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "OOoooOOoooOOOoooOOOoooOOoooOOoooOOOooo!\n Obscene demons! Why not market the\ncorpse itself, as sell its trimming???  Oh, Spirit, I see\nit, I see it! This unhappy man\u2014this stripped-bare corpse . . .\ncould very well be my own. My life holds parallel! My life\nends that way now!",
-        "emotion_scores": {
-            "anger": 0.041065432131290436,
-            "disgust": 0.053024716675281525,
-            "fear": 0.037978094071149826,
-            "joy": 0.0139946723356843,
-            "sadness": 0.5924025177955627
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit, this is a fearful place. In leaving it, I shall not leave its\nlesson, trust me. Let us go!",
-        "emotion_scores": {
-            "anger": 0.003021651180461049,
-            "disgust": 0.0008789980784058571,
-            "fear": 0.9876388311386108,
-            "joy": 0.0010434776777401567,
-            "sadness": 0.0018385694129392505
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit, let me see some tenderness connected with a death, or\nthat dark chamber, which we just left now, Spirit, will be\nforever present to me.",
-        "emotion_scores": {
-            "anger": 0.00794140249490738,
-            "disgust": 0.07568728923797607,
-            "fear": 0.005973512772470713,
-            "joy": 0.20371080935001373,
-            "sadness": 0.348091185092926
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Huh? Who\nspoke? Who said that?",
-        "emotion_scores": {
-            "anger": 0.02832721173763275,
-            "disgust": 0.016251327469944954,
-            "fear": 0.006791214924305677,
-            "joy": 0.00479460135102272,
-            "sadness": 0.008761124685406685
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Specter, something informs me that our parting\nmoment is at hand. I know it, but I know not how I know it.",
-        "emotion_scores": {
-            "anger": 0.011098737828433514,
-            "disgust": 0.03401509299874306,
-            "fear": 0.057573102414608,
-            "joy": 0.017064515501260757,
-            "sadness": 0.25380977988243103
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Am I that man those ghoulish parasites7 so gloated over?\n Before I draw nearer to that stone to which you\npoint, answer me one question. Are these the shadows\nof things that will be, or the shadows of things that MAY\nbe, only?",
-        "emotion_scores": {
-            "anger": 0.021670008078217506,
-            "disgust": 0.26846587657928467,
-            "fear": 0.20266549289226532,
-            "joy": 0.21247757971286774,
-            "sadness": 0.06181705743074417
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh, no. Spirit! Oh, no, no!",
-        "emotion_scores": {
-            "anger": 0.126347154378891,
-            "disgust": 0.46181365847587585,
-            "fear": 0.07813470810651779,
-            "joy": 0.0101909339427948,
-            "sadness": 0.044298965483903885
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit! Hear me! I am not the man I was. I will not be the man\nI would have been but for this intercourse. Why show me\nthis, if I am past all hope?",
-        "emotion_scores": {
-            "anger": 0.39697495102882385,
-            "disgust": 0.09372004121541977,
-            "fear": 0.24143491685390472,
-            "joy": 0.02870379574596882,
-            "sadness": 0.03570883721113205
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh. Good Spirit, I see by your wavering hand that your good\nnature intercedes for me and pities me. Assure me that I yet\nmay change these shadows that you have shown me by an\naltered life!",
-        "emotion_scores": {
-            "anger": 0.2725614607334137,
-            "disgust": 0.15317878127098083,
-            "fear": 0.10776780545711517,
-            "joy": 0.08984223753213882,
-            "sadness": 0.1720244437456131
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I will honor Christmas in my heart and try to keep it all the\nyear. I will live in the Past, the Present, and the Future. The\nSpirits of all Three shall strive within me. I will not shut out\nthe lessons that they teach. Oh, tell me that I may sponge\naway the writing that is upon this stone!",
-        "emotion_scores": {
-            "anger": 0.21651171147823334,
-            "disgust": 0.05777736008167267,
-            "fear": 0.04107913747429848,
-            "joy": 0.05877077206969261,
-            "sadness": 0.07597148418426514
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 4",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Spirit, dear Spirit, I am praying before you. Give me a\nsign that all is possible. Give me a sign that all hope for me\nis not lost. Oh, Spirit, kind Spirit, I beseech thee: give me\na sign . . .",
-        "emotion_scores": {
-            "anger": 0.01974131166934967,
-            "disgust": 0.013817018829286098,
-            "fear": 0.1325431913137436,
-            "joy": 0.15251149237155914,
-            "sadness": 0.08115878701210022
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " I will live in\nthe Past, in the Present, and in the Future! The Spirits of all\nThree shall strive within me!",
-        "emotion_scores": {
-            "anger": 0.1207984983921051,
-            "disgust": 0.01639404147863388,
-            "fear": 0.04160001873970032,
-            "joy": 0.2477807253599167,
-            "sadness": 0.05068464204668999
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh, Jacob Marley! Wherever you are, Jacob, know\nye that I praise you for this! I praise you . . . and heaven . . .\nand Christmastime!  I say it\nto you on my knees, old Jacob, on my knees!  Not torn down. My bed curtains are not at all\ntorn down! Rings and all, here they are! They are here: I am\nhere: the shadows of things that would have been, may now\nbe dispelled. They will be, Jacob! I know they will be!",
-        "emotion_scores": {
-            "anger": 0.19087301194667816,
-            "disgust": 0.04062832519412041,
-            "fear": 0.0762651339173317,
-            "joy": 0.22984059154987335,
-            "sadness": 0.09753257036209106
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I am light as a feather, I am happy as an angel. I am as merry\nas a schoolboy. \nMerry Christmas to everybody! Merry Christmas to\neverybody! A Happy New Year to all the world! Hallo here!\nWhoop! Whoop! Hallo! Hallo! I don\u2019t know what day of the\nmonth it is! I don\u2019t care! I don\u2019t know anything! I\u2019m quite a\nbaby! I don\u2019t care! I don\u2019t care a fig! I\u2019d much rather be a baby than be an old wreck like me or Marley! (Sorry, Jacob.\nwherever ye be!) Hallo! Hallo there!",
-        "emotion_scores": {
-            "anger": 0.010489743202924728,
-            "disgust": 0.0026141509879380465,
-            "fear": 0.003648008219897747,
-            "joy": 0.9052117466926575,
-            "sadness": 0.023200316354632378
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Hey, you boy!\nWhat\u2019s today? What day of the year is it?",
-        "emotion_scores": {
-            "anger": 0.1361241191625595,
-            "disgust": 0.02566506527364254,
-            "fear": 0.006258710753172636,
-            "joy": 0.3128884732723236,
-            "sadness": 0.03136098012328148
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It\u2019s Christmas Day, is it? Whoop! Well, I haven\u2019t\nmissed it after all, have I? The Spirits did all they did in one\nnight. They can do anything they like, right? Of course they\ncan! Of course they can!",
-        "emotion_scores": {
-            "anger": 0.045860715210437775,
-            "disgust": 0.05952657386660576,
-            "fear": 0.006212818901985884,
-            "joy": 0.017862077802419662,
-            "sadness": 0.023163871839642525
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Huh? Oh, yes, of course. What\u2019s your name, lad?",
-        "emotion_scores": {
-            "anger": 0.05297508463263512,
-            "disgust": 0.08945412933826447,
-            "fear": 0.02111448161303997,
-            "joy": 0.009088546968996525,
-            "sadness": 0.011079330928623676
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Adam! What a fine, strong name! Do you know the\npoulterer\u2019s in the next street but one, at the corner?",
-        "emotion_scores": {
-            "anger": 0.07092531025409698,
-            "disgust": 0.038591671735048294,
-            "fear": 0.005971891805529594,
-            "joy": 0.030583761632442474,
-            "sadness": 0.009555332362651825
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "A remarkable boy! An intelligent boy! Do you\nknow whether the poulterer\u2019s have sold the prize turkey that\nwas hanging up there? I don\u2019t mean the little prize turkey,\nAdam. I mean the big one!",
-        "emotion_scores": {
-            "anger": 0.019309045746922493,
-            "disgust": 0.01297387108206749,
-            "fear": 0.0043577225878834724,
-            "joy": 0.03520422801375389,
-            "sadness": 0.0038804030045866966
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I mean, the turkey the size of Adam: that\u2019s the bird!",
-        "emotion_scores": {
-            "anger": 0.06820761412382126,
-            "disgust": 0.08840098977088928,
-            "fear": 0.005569009110331535,
-            "joy": 0.012826706282794476,
-            "sadness": 0.005399737972766161
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It is? Go and buy it! No, no. I am absolutely in\nearnest. Go and buy it and tell \u2019em to bring it here, so that I\nmay give them the directions to where I want it delivered, as\na gift. Come back here with the man, Adam, and I\u2019ll give you\na shilling. Come back here with him in less than five minutes,\nand I\u2019ll give you half-a-crown!",
-        "emotion_scores": {
-            "anger": 0.42131954431533813,
-            "disgust": 0.08325900882482529,
-            "fear": 0.08475632220506668,
-            "joy": 0.05030384659767151,
-            "sadness": 0.026697129011154175
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "You are truly a champion, Adam . . .",
-        "emotion_scores": {
-            "anger": 0.020663075149059296,
-            "disgust": 0.005801576655358076,
-            "fear": 0.0026023266837000847,
-            "joy": 0.15574271976947784,
-            "sadness": 0.005030391272157431
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh, my, MY!!! Look at the size of that turkey, will\nyou! He never could have stood upon his legs, that bird! He\nwould have snapped them off in a minute, like sticks of sealingwax! Why you\u2019ll never be able to carry that bird to Camden-Town, I\u2019ll give you money for a cab . . .",
-        "emotion_scores": {
-            "anger": 0.06002560257911682,
-            "disgust": 0.08270000666379929,
-            "fear": 0.016433110460639,
-            "joy": 0.007194611243903637,
-            "sadness": 0.017172586172819138
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh, I didn\u2019t tell you? Yes, I\u2019ve written the precise\naddress down just here on this . . .  Bob\nCratchit\u2019s house. Now he\u2019s not to know who sends him this.\nDo you understand me? Not a word . . . ",
-        "emotion_scores": {
-            "anger": 0.06218511238694191,
-            "disgust": 0.07651485502719879,
-            "fear": 0.12637940049171448,
-            "joy": 0.003240054240450263,
-            "sadness": 0.015536066144704819
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Good. There you go then . . . this is for the\nturkey . . .  . . . and this is for the taxi.  . . .\nand this is for your world-record run, Adam . . .",
-        "emotion_scores": {
-            "anger": 0.01241106353700161,
-            "disgust": 0.0051299347542226315,
-            "fear": 0.010134349577128887,
-            "joy": 0.2305528074502945,
-            "sadness": 0.025170322507619858
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Then keep it, my lad. It\u2019s Christmas!",
-        "emotion_scores": {
-            "anger": 0.27126583456993103,
-            "disgust": 0.024061312898993492,
-            "fear": 0.008760523982346058,
-            "joy": 0.2293706089258194,
-            "sadness": 0.021663332358002663
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Of course I have, sir. It\u2019s Christmas!",
-        "emotion_scores": {
-            "anger": 0.04899076744914055,
-            "disgust": 0.009008512832224369,
-            "fear": 0.004194990731775761,
-            "joy": 0.5741615295410156,
-            "sadness": 0.024447698146104813
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Merry Christmas, madam . . .",
-        "emotion_scores": {
-            "anger": 0.007679963018745184,
-            "disgust": 0.0024990583769977093,
-            "fear": 0.0016149773728102446,
-            "joy": 0.5084047913551331,
-            "sadness": 0.10134702920913696
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Merry Christmas, sir.",
-        "emotion_scores": {
-            "anger": 0.007365863770246506,
-            "disgust": 0.0038247196935117245,
-            "fear": 0.0013121026568114758,
-            "joy": 0.5662850737571716,
-            "sadness": 0.03740295022726059
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Oh, you! My dear sir! How do you do? I do hope\nthat you succeeded yesterday! It was very kind of you.\nA Merry Christmas.",
-        "emotion_scores": {
-            "anger": 0.021097641438245773,
-            "disgust": 0.003409318160265684,
-            "fear": 0.0019489206606522202,
-            "joy": 0.5484859943389893,
-            "sadness": 0.0579121895134449
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Yes, Scrooge is my name though I\u2019m afraid you\nmay not find it very pleasant. Allow me to ask your pardon.\nAnd will you have the goodness to\u2014",
-        "emotion_scores": {
-            "anger": 0.013255538418889046,
-            "disgust": 0.017389072105288506,
-            "fear": 0.40511181950569153,
-            "joy": 0.042072903364896774,
-            "sadness": 0.07787556946277618
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "If you please. Not a farthing10 less. A great many\nback payments are included in it, I assure you. Will you do\nme that favor?",
-        "emotion_scores": {
-            "anger": 0.011059670709073544,
-            "disgust": 0.01004373375326395,
-            "fear": 0.00471655884757638,
-            "joy": 0.02232442982494831,
-            "sadness": 0.014810573309659958
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": " Don\u2019t say anything, please. Come\nand see me. Will you?",
-        "emotion_scores": {
-            "anger": 0.107807457447052,
-            "disgust": 0.02628137171268463,
-            "fear": 0.562179446220398,
-            "joy": 0.010045910254120827,
-            "sadness": 0.07453378289937973
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Thank\u2019ee, I am much obliged to you. I thank you\nfifty times. Bless you!",
-        "emotion_scores": {
-            "anger": 0.03175407275557518,
-            "disgust": 0.005171860568225384,
-            "fear": 0.0024615994188934565,
-            "joy": 0.6718003749847412,
-            "sadness": 0.008888011798262596
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Fred!",
-        "emotion_scores": {
-            "anger": 0.3728468716144562,
-            "disgust": 0.028291603550314903,
-            "fear": 0.009982481598854065,
-            "joy": 0.15824854373931885,
-            "sadness": 0.02492329850792885
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "It\u2019s I. Your Uncle Scrooge.",
-        "emotion_scores": {
-            "anger": 0.023277483880519867,
-            "disgust": 0.026898693293333054,
-            "fear": 0.005540958605706692,
-            "joy": 0.12465408444404602,
-            "sadness": 0.028686698526144028
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I have come to dinner. May I come in, Fred?",
-        "emotion_scores": {
-            "anger": 0.007550304755568504,
-            "disgust": 0.012028210796415806,
-            "fear": 0.013722416944801807,
-            "joy": 0.08903346210718155,
-            "sadness": 0.030126407742500305
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "What do you mean by coming in here at this time\nof day, a full eighteen minutes late, Mr. Cratchit? Hallo, sir?\nDo you hear me?",
-        "emotion_scores": {
-            "anger": 0.050481874495744705,
-            "disgust": 0.03151126950979233,
-            "fear": 0.028166640549898148,
-            "joy": 0.0031606447882950306,
-            "sadness": 0.011957996524870396
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "You are? Yes, I certainly think you are. Step this\nway, sir, if you please . . .",
-        "emotion_scores": {
-            "anger": 0.016738837584853172,
-            "disgust": 0.026784362271428108,
-            "fear": 0.013739263638854027,
-            "joy": 0.007606444414705038,
-            "sadness": 0.007383504416793585
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "Now, I\u2019ll tell you what, Cratchit. I am not going to\nstand this sort of thing any longer. And therefore . . .",
-        "emotion_scores": {
-            "anger": 0.16223153471946716,
-            "disgust": 0.19851873815059662,
-            "fear": 0.03535264730453491,
-            "joy": 0.004156536888331175,
-            "sadness": 0.025144526734948158
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "I am . . . about . . . to . . . raise . . . your salary.",
-        "emotion_scores": {
-            "anger": 0.01333029568195343,
-            "disgust": 0.0045877001248300076,
-            "fear": 0.0056325835175812244,
-            "joy": 0.3398982286453247,
-            "sadness": 0.1888025999069214
-        }
-    },
-    {
-        "act": "Act 2",
-        "scene": "Scene 5",
-        "type": "dialogue",
-        "character": "Scrooge",
-        "text": "A Merry Christmas, Bob . . . \nA merrier Christmas, Bob, my good fellow! than I have given\nyou for many a year. I\u2019ll raise your salary and endeavor to\nassist your struggling family and we will discuss your affairs\nthis very afternoon over a bowl of smoking bishop.11 Bob!\nMake up the fires and buy another coal scuttle before you dot\nanother i, Bob. It\u2019s too cold in this place! We need warmth\nand cheer, Bob Cratchit! Do you hear me? DO . . . YOU . . .\nHEAR . . . ME?",
-        "emotion_scores": {
-            "anger": 0.1601373702287674,
-            "disgust": 0.023770080879330635,
-            "fear": 0.044403403997421265,
-            "joy": 0.39625322818756104,
-            "sadness": 0.10820148140192032
-        }
+  {
+    "act": "Act 1",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "They owe me money and I will collect. I will have\nthem jailed, if I have to. They owe me money and I will\ncollect what is due me.",
+    "emotion_scores": {
+      "anger": 0.6989433765411377,
+      "disgust": 0.0329272523522377,
+      "fear": 0.01719507947564125,
+      "joy": 0.003641130169853568,
+      "sadness": 0.11153778433799744
     }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What are you doing, Cratchit? Acting cold, are\nyou? Next, you\u2019ll be asking to replenish your coal from my\ncoal-box, won\u2019t you? Well, save your breath, Cratchit! Unless\nyou\u2019re prepared to find employ elsewhere!",
+    "emotion_scores": {
+      "anger": 0.714286208152771,
+      "disgust": 0.0736442431807518,
+      "fear": 0.09245207160711288,
+      "joy": 0.004651425406336784,
+      "sadness": 0.02739453688263893
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Bah! Humbug!",
+    "emotion_scores": {
+      "anger": 0.82816908955574036,
+      "disgust": 0.81300443857908249,
+      "fear": 0.0072505054995417595,
+      "joy": 0.4562532901763916,
+      "sadness": 0.04864782467484474
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I do! Merry Christmas? What right do you have to\nbe merry? What reason have you to be merry? You\u2019re poor\nenough!",
+    "emotion_scores": {
+      "anger": 0.61470316480845213,
+      "disgust": 0.604754312336444855,
+      "fear": 0.0018992158584296703,
+      "joy": 0.4225485622882843,
+      "sadness": 0.3290639817714691
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Bah! Humbug!",
+    "emotion_scores": {
+      "anger": 0.82816908955574036,
+      "disgust": 0.81300443857908249,
+      "fear": 0.0072505054995417595,
+      "joy": 0.4562532901763916,
+      "sadness": 0.04864782467484474
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What else can I be? Eh? When I live in a world of\nfools such as this? Merry Christmas? What\u2019s Christmastime\nto you but a time of paying bills without any money; a time\nfor finding yourself a year older, but not an hour richer. If I\ncould work my will, every idiot who goes about with \u201cMerry\nChristmas\u201d on his lips, should be boiled with his own\npudding, and buried with a stake of holly through his heart.\nHe should!",
+    "emotion_scores": {
+      "anger": 0.8089930415153503,
+      "disgust": 0.11619164049625397,
+      "fear": 0.007068463135510683,
+      "joy": 0.005727771669626236,
+      "sadness": 0.02629893273115158
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Nephew! You keep Christmas in your own way\nand let me keep it in mine.",
+    "emotion_scores": {
+      "anger": 0.38785145729780197,
+      "disgust": 0.12802259661257267,
+      "fear": 0.004194552544504404,
+      "joy": 0.19588651061058044,
+      "sadness": 0.057873960584402084
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Let me leave it alone, then. Much good it has ever\ndone you!",
+    "emotion_scores": {
+      "anger": 0.3622326910495758,
+      "disgust": 0.031303521245718,
+      "fear": 0.005182868801057339,
+      "joy": 0.3017247200012207,
+      "sadness": 0.015651118010282516
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Let me hear another sound from you\nand you\u2019ll keep your Christmas by losing your situation.  You\u2019re quite a powerful speaker, sir. I wonder you\ndon\u2019t go into Parliament.",
+    "emotion_scores": {
+      "anger": 0.010175453498959541,
+      "disgust": 0.047564269471913576,
+      "fear": 0.008921012282371521,
+      "joy": 0.004832989536225796,
+      "sadness": 0.008369284681975842
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I\u2019d rather see myself dead than see myself with\nyour family!",
+    "emotion_scores": {
+      "anger": 0.7450317740440369,
+      "disgust": 0.04178612679243088,
+      "fear": 0.03403482586145401,
+      "joy": 0.004084964748471975,
+      "sadness": 0.15969911217689514
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Why did you get married?",
+    "emotion_scores": {
+      "anger": 0.0566997304558754,
+      "disgust": 0.005090092774480581,
+      "fear": 0.021593622863292694,
+      "joy": 0.003429401433095336,
+      "sadness": 0.015896836295723915
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "That, sir, is the only thing that you have said to me\nin your entire lifetime which is even more ridiculous than\n\u201cMerry Christmas!\u201d  Good afternoon.",
+    "emotion_scores": {
+      "anger": 0.3678058087825775,
+      "disgust": 0.13162828981876373,
+      "fear": 0.025453411042690277,
+      "joy": 0.18807139992713928,
+      "sadness": 0.03310709819197655
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Good afternoon, Nephew!",
+    "emotion_scores": {
+      "anger": 0.007104077376425266,
+      "disgust": 0.0023048873990774155,
+      "fear": 0.0007351909880526364,
+      "joy": 0.8113633990287781,
+      "sadness": 0.0055717481300234795
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Good afternoon!",
+    "emotion_scores": {
+      "anger": 0.005782563239336014,
+      "disgust": 0.001949275960214436,
+      "fear": 0.0008528102189302444,
+      "joy": 0.8142501711845398,
+      "sadness": 0.0061192759312689304
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Good afternoon!",
+    "emotion_scores": {
+      "anger": 0.005782563239336014,
+      "disgust": 0.001949275960214436,
+      "fear": 0.0008528102189302444,
+      "joy": 0.8142501711845398,
+      "sadness": 0.0061192759312689304
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Oh, fine, a perfection, just\nfine . . . to see the perfect pair of you; husbands, with wives\nand children to support . . . my clerk there earning fifteen\nshillings a week . . . and the perfect pair of you, talking about\na Merry Christmas!  I\u2019ll retire to Bedlam!",
+    "emotion_scores": {
+      "anger": 0.003114683786407113,
+      "disgust": 0.0012631508288905025,
+      "fear": 0.0009393024956807494,
+      "joy": 0.5107545614242554,
+      "sadness": 0.015484324656426907
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Mr. Marley has been dead these seven years. He\ndied seven years ago this very night.",
+    "emotion_scores": {
+      "anger": 0.0026331820990890265,
+      "disgust": 0.009870481677353382,
+      "fear": 0.007096030283719301,
+      "joy": 0.0019530986901372671,
+      "sadness": 0.7677015662193298
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " . . . Good\nafternoon.",
+    "emotion_scores": {
+      "anger": 0.003999331034719944,
+      "disgust": 0.0034346713218837976,
+      "fear": 0.0017081096302717924,
+      "joy": 0.4478594958782196,
+      "sadness": 0.04914641007781029
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Are there no prisons?",
+    "emotion_scores": {
+      "anger": 0.022660935297608376,
+      "disgust": 0.04795417934656143,
+      "fear": 0.004824352916330099,
+      "joy": 0.001975191989913583,
+      "sadness": 0.04335254058241844
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "And aren\u2019t the Union workhouses still in\noperation?",
+    "emotion_scores": {
+      "anger": 0.015103599056601524,
+      "disgust": 0.030151259154081345,
+      "fear": 0.0059838369488716125,
+      "joy": 0.001836634473875165,
+      "sadness": 0.013032205402851105
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "The Treadmil and the Poor Law are in full vigor, then?",
+    "emotion_scores": {
+      "anger": 0.027070801705121994,
+      "disgust": 0.014978116378188133,
+      "fear": 0.002222982235252857,
+      "joy": 0.014399705454707146,
+      "sadness": 0.003694334300234914
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Ohhh, I see. I was afraid, from what you said at\nfirst, that something had occurred to stop them from their\nuseful course.  I\u2019m glad to hear it.",
+    "emotion_scores": {
+      "anger": 0.00472923694178462,
+      "disgust": 0.005465766414999962,
+      "fear": 0.39641520380973816,
+      "joy": 0.5061648488044739,
+      "sadness": 0.0221251193434
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Nothing!",
+    "emotion_scores": {
+      "anger": 0.3772448003292084,
+      "disgust": 0.12997525930404663,
+      "fear": 0.022277778014540672,
+      "joy": 0.008528079837560654,
+      "sadness": 0.01945594884455204
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I wish to be left alone!  Since you ask me what I wish, gentlemen, that is\nmy answer. I help to support the establishments that I have\nmentioned: they cost enough: and those who are badly off\nmust go there.",
+    "emotion_scores": {
+      "anger": 0.004478773567825556,
+      "disgust": 0.004725953564047813,
+      "fear": 0.011817480437457561,
+      "joy": 0.007597591262310743,
+      "sadness": 0.9403194785118103
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It\u2019s not my business. It\u2019s enough for a man to\nunderstand his own business, and not to interfere with other\npeople\u2019s. Mine occupies me constantly. Good afternoon,\ngentlemen!",
+    "emotion_scores": {
+      "anger": 0.052261292934417725,
+      "disgust": 0.009742330759763718,
+      "fear": 0.008780393749475479,
+      "joy": 0.3477577567100525,
+      "sadness": 0.0226192157715559
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Take your leave of\nmy offices, sirs, while I am still smiling.",
+    "emotion_scores": {
+      "anger": 0.012850469909608364,
+      "disgust": 0.020367994904518127,
+      "fear": 0.0011061065597459674,
+      "joy": 0.7247658967971802,
+      "sadness": 0.01676563173532486
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It\u2019s less of a time of year for being merry, and more\na time of year for being loony . . . if you ask me.",
+    "emotion_scores": {
+      "anger": 0.0040037138387560844,
+      "disgust": 0.010600203648209572,
+      "fear": 0.001612735097296536,
+      "joy": 0.7009719610214233,
+      "sadness": 0.12646862864494324
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Saved by six bells, are you?",
+    "emotion_scores": {
+      "anger": 0.018052583560347557,
+      "disgust": 0.03048836626112461,
+      "fear": 0.008568000048398972,
+      "joy": 0.006138059310615063,
+      "sadness": 0.017283227294683456
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Hmmm. Oh, you\u2019ll be wanting the whole day\ntomorrow, I suppose?",
+    "emotion_scores": {
+      "anger": 0.007637602277100086,
+      "disgust": 0.019550681114196777,
+      "fear": 0.019554130733013153,
+      "joy": 0.012574564665555954,
+      "sadness": 0.04240812361240387
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It\u2019s not convenient, and it\u2019s not fair. If I was to stop\nhalf-a-crown for it, you\u2019d think yourself ill-used, I\u2019ll be bound?",
+    "emotion_scores": {
+      "anger": 0.2009819746017456,
+      "disgust": 0.27421215176582336,
+      "fear": 0.10544966906309128,
+      "joy": 0.0032314241398125887,
+      "sadness": 0.09137780964374542
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "And yet, you don\u2019t think me ill-used when I pay a\nday\u2019s wages for no work . . .",
+    "emotion_scores": {
+      "anger": 0.04042568802833557,
+      "disgust": 0.06284169852733612,
+      "fear": 0.007172390352934599,
+      "joy": 0.003797634970396757,
+      "sadness": 0.03965253382921219
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "A poor excuse for picking a man\u2019s pocket every\n25th of December! But l suppose you must have the whole\nday. Be here all the earlier the next morning!",
+    "emotion_scores": {
+      "anger": 0.17831028997898102,
+      "disgust": 0.17304934561252594,
+      "fear": 0.028944451361894608,
+      "joy": 0.05035817250609398,
+      "sadness": 0.20662344992160797
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Don\u2019t say it, Cratchit. I warn you . . .",
+    "emotion_scores": {
+      "anger": 0.07445846498012543,
+      "disgust": 0.022784128785133362,
+      "fear": 0.7219131588935852,
+      "joy": 0.005831491202116013,
+      "sadness": 0.055445596575737
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Cratchit!",
+    "emotion_scores": {
+      "anger": 0.4215991497039795,
+      "disgust": 0.06486084312200546,
+      "fear": 0.016038348898291588,
+      "joy": 0.08306623995304108,
+      "sadness": 0.03146135061979294
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Bah! Humbug! Christmas! Bah! Humbug! ",
+    "emotion_scores": {
+      "anger": 0.83960369899868965,
+      "disgust": 0.813204449787735939,
+      "fear": 0.0077813840471208096,
+      "joy": 0.0447875142097473,
+      "sadness": 0.01887938566505909
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No light at all . . . no moon . . . that is what is at the\ncenter of Christmas Eve: dead black: void . . .",
+    "emotion_scores": {
+      "anger": 0.035768523812294006,
+      "disgust": 0.045544762164354324,
+      "fear": 0.056871797889471054,
+      "joy": 0.00942722987383604,
+      "sadness": 0.4717761278152466
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Pooh, pooh!",
+    "emotion_scores": {
+      "anger": 0.04613615572452545,
+      "disgust": 0.0743015706539154,
+      "fear": 0.01454954780638218,
+      "joy": 0.1883978545665741,
+      "sadness": 0.10588818788528442
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Bah! Humbug!",
+    "emotion_scores": {
+      "anger": 0.82816908955574036,
+      "disgust": 0.11300443857908249,
+      "fear": 0.0072505054995417595,
+      "joy": 0.0062532901763916,
+      "sadness": 0.04864782467484474
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Bah still! Humbug still! This is not happening! I won\u2019t\nbelieve it!",
+    "emotion_scores": {
+      "anger": 0.89509151577949524,
+      "disgust": 0.12154226750135422,
+      "fear": 0.016876015812158585,
+      "joy": 0.015357927419245243,
+      "sadness": 0.07648474723100662
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "How now! What do you want of me?",
+    "emotion_scores": {
+      "anger": 0.6990486979484558,
+      "disgust": 0.044936634600162506,
+      "fear": 0.0435648150742054,
+      "joy": 0.009615320712327957,
+      "sadness": 0.026885664090514183
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Who are you?",
+    "emotion_scores": {
+      "anger": 0.022397911176085472,
+      "disgust": 0.004770407918840647,
+      "fear": 0.009779414162039757,
+      "joy": 0.005544802639633417,
+      "sadness": 0.005519304424524307
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Who were you then?",
+    "emotion_scores": {
+      "anger": 0.013606451451778412,
+      "disgust": 0.005036353599280119,
+      "fear": 0.00537378853186965,
+      "joy": 0.0045762439258396626,
+      "sadness": 0.0033264700323343277
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I see . . . can you sit down?",
+    "emotion_scores": {
+      "anger": 0.013802601024508476,
+      "disgust": 0.007067359518259764,
+      "fear": 0.006464348174631596,
+      "joy": 0.023585520684719086,
+      "sadness": 0.021667370572686195
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Do it then.",
+    "emotion_scores": {
+      "anger": 0.11907541751861572,
+      "disgust": 0.03826144337654114,
+      "fear": 0.012480411678552628,
+      "joy": 0.003083762712776661,
+      "sadness": 0.010038773529231548
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I don\u2019t.",
+    "emotion_scores": {
+      "anger": 0.08081427961587906,
+      "disgust": 0.07827182114124298,
+      "fear": 0.04195062071084976,
+      "joy": 0.006187154445797205,
+      "sadness": 0.0496194027364254
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Because every little thing affects them. A slight\ndisorder of the stomach makes them cheat. You may be an\nundigested bit of beef, a blot of mustard, a crumb of cheese, a\nfragment of an underdone potato. There\u2019s more of gravy than\nof grave about you, whatever you are!",
+    "emotion_scores": {
+      "anger": 0.015329449437558651,
+      "disgust": 0.9074005484580994,
+      "fear": 0.0035218216944485903,
+      "joy": 0.0016438455786556005,
+      "sadness": 0.006079906597733498
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Humbug! I tell you: humbug!",
+    "emotion_scores": {
+      "anger": 0.88324332535266876,
+      "disgust": 0.1549777388572693,
+      "fear": 0.006804394535720348,
+      "joy": 0.03814611434936523,
+      "sadness": 0.011937062256038189
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Mercy! Dreadful apparition, mercy! Why, O! why do you\ntrouble me so?",
+    "emotion_scores": {
+      "anger": 0.012289023026823997,
+      "disgust": 0.004722528159618378,
+      "fear": 0.9575873613357544,
+      "joy": 0.0012186322128400207,
+      "sadness": 0.00920944008976221
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I do. I must. But why do spirits such as you walk\nthe earth? And why do they come to me?",
+    "emotion_scores": {
+      "anger": 0.0868433490395546,
+      "disgust": 0.03176981583237648,
+      "fear": 0.15368430316448212,
+      "joy": 0.002580109052360058,
+      "sadness": 0.01151245553046465
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Jacob. Old Jacob Marley, tell me more. Speak\ncomfort to me, Jacob . . .",
+    "emotion_scores": {
+      "anger": 0.014485948719084263,
+      "disgust": 0.12075349688529968,
+      "fear": 0.1411203294992447,
+      "joy": 0.011591962538659573,
+      "sadness": 0.14176338911056519
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "But you were always a good man of business,\nJacob.",
+    "emotion_scores": {
+      "anger": 0.02510291151702404,
+      "disgust": 0.049102939665317535,
+      "fear": 0.004167388658970594,
+      "joy": 0.20087218284606934,
+      "sadness": 0.009609774686396122
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I will, but don\u2019t be hard upon me. And don\u2019t be\nflowery, Jacob! Pray!",
+    "emotion_scores": {
+      "anger": 0.13064172863960266,
+      "disgust": 0.034169286489486694,
+      "fear": 0.06414871662855148,
+      "joy": 0.16872170567512512,
+      "sadness": 0.1479538232088089
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "You were always a good friend to me. Thank\u2019ee!",
+    "emotion_scores": {
+      "anger": 0.004546840209513903,
+      "disgust": 0.0019344129832461476,
+      "fear": 0.0007763861794956028,
+      "joy": 0.9439438581466675,
+      "sadness": 0.0026199286803603172
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Would that be the chance and hope you mentioned,\nJacob?",
+    "emotion_scores": {
+      "anger": 0.00853748433291912,
+      "disgust": 0.0044620586559176445,
+      "fear": 0.005533128976821899,
+      "joy": 0.012637375853955746,
+      "sadness": 0.008800688199698925
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I think I\u2019d rather not.",
+    "emotion_scores": {
+      "anger": 0.018826041370630264,
+      "disgust": 0.06371738761663437,
+      "fear": 0.05951378867030144,
+      "joy": 0.04017432779073715,
+      "sadness": 0.144983172416687
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Couldn\u2019t I take \u2019em all at once, and get it over,\nJacob?",
+    "emotion_scores": {
+      "anger": 0.2841464579105377,
+      "disgust": 0.09096226096153259,
+      "fear": 0.04742719978094101,
+      "joy": 0.005315202288329601,
+      "sadness": 0.12332943826913834
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Jacob! No, Jacob! Don\u2019t\nleave me! I\u2019m frightened!  No one here at all! Did I imagine all that?\nHumbug!  I did imagine it. It only\nhappened in my foulest dream-mind, didn\u2019t it? An\nundigested bit of . . .  Sorry! Sorry!",
+    "emotion_scores": {
+      "anger": 0.07215237617492676,
+      "disgust": 0.07263091951608658,
+      "fear": 0.6217917799949646,
+      "joy": 0.008990268222987652,
+      "sadness": 0.12584301829338074
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Midnight! Why this isn\u2019t possible. It\nwas past two when I went to bed. An icicle must have gotten\ninto the clock\u2019s works! I couldn\u2019t have slept through the\nwhole day and far into another night. It isn\u2019t possible that\nanything has happened to the sun, and this is twelve at noon!\n Night, still.\nQuiet, normal for the season, cold. It is certainly not noon.\nI cannot in any way afford to lose my days. Securities come\ndue, promissory notes, interest on investments: these are\nthings that happen in the daylight! \nWas this a dream?",
+    "emotion_scores": {
+      "anger": 0.0513131208717823,
+      "disgust": 0.024506621062755585,
+      "fear": 0.04453902691602707,
+      "joy": 0.0030007236637175083,
+      "sadness": 0.008507436141371727
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Another quarter and it\u2019ll be one and Marley\u2019s\nghostly friends will come.  Where\u2019s the chime\nfor one?  A quarter past  Half-past!\n A quarter to it! But where\u2019s the heavy bell of the\nhour one? This is a game in which I lose my senses! Perhaps,\nif I allowed myself another short doze . . .",
+    "emotion_scores": {
+      "anger": 0.043925125151872635,
+      "disgust": 0.04056524112820625,
+      "fear": 0.1006534993648529,
+      "joy": 0.024685587733983994,
+      "sadness": 0.21767038106918335
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "A hand! Who owns it! Hello!",
+    "emotion_scores": {
+      "anger": 0.14981432259082794,
+      "disgust": 0.017523830756545067,
+      "fear": 0.00614225072786212,
+      "joy": 0.1449953317642212,
+      "sadness": 0.014909154735505581
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Are you the Spirit, sir, whose coming was foretold to me?",
+    "emotion_scores": {
+      "anger": 0.023111531510949135,
+      "disgust": 0.017632383853197098,
+      "fear": 0.016628915444016457,
+      "joy": 0.007828566245734692,
+      "sadness": 0.005739765707403421
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Who, and what are you?",
+    "emotion_scores": {
+      "anger": 0.05971548706293106,
+      "disgust": 0.009391958825290203,
+      "fear": 0.028532491996884346,
+      "joy": 0.007448466029018164,
+      "sadness": 0.0081022959202528
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Long past?",
+    "emotion_scores": {
+      "anger": 0.011292398907244205,
+      "disgust": 0.017212646082043648,
+      "fear": 0.005659763235598803,
+      "joy": 0.002426588675007224,
+      "sadness": 0.006642632186412811
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "May I ask, please, sir, what business you have here\nwith me?",
+    "emotion_scores": {
+      "anger": 0.054977696388959885,
+      "disgust": 0.08126536756753922,
+      "fear": 0.24463112652301788,
+      "joy": 0.005859332159161568,
+      "sadness": 0.03695286810398102
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Not to sound ungrateful, sir, and really, please do\nunderstand that I am plenty obliged for your concern, but,\nreally, kind spirit, it would have done all the better for my\nwelfare to have been left alone altogether, to have slept\npeacefully through this night.",
+    "emotion_scores": {
+      "anger": 0.1864374727010727,
+      "disgust": 0.05606461688876152,
+      "fear": 0.0017451803432777524,
+      "joy": 0.029939251020550728,
+      "sadness": 0.6620569825172424
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "My what?",
+    "emotion_scores": {
+      "anger": 0.0268185306340456,
+      "disgust": 0.013290595263242722,
+      "fear": 0.011016704142093658,
+      "joy": 0.0028178859502077103,
+      "sadness": 0.006055126897990704
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Fly, but I am a mortal and cannot fly!",
+    "emotion_scores": {
+      "anger": 0.12114256620407104,
+      "disgust": 0.095449298620224,
+      "fear": 0.2813023626804352,
+      "joy": 0.008276914246380329,
+      "sadness": 0.33898213505744934
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Good Heaven! I was bred in this place. I was a\nboy here!",
+    "emotion_scores": {
+      "anger": 0.010760011151432991,
+      "disgust": 0.005948533769696951,
+      "fear": 0.0009657900081947446,
+      "joy": 0.8748387098312378,
+      "sadness": 0.004391687922179699
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Upon my cheek? Nothing . . . a blemish on the skin\nfrom the eating of overmuch grease . . . nothing . . . \nKind Spirit of Christmas Past, lead me where you will, but\nquickly! To be stagnant in this place is, for me, unbearable!\nPast. You recollect the way?",
+    "emotion_scores": {
+      "anger": 0.06781359016895294,
+      "disgust": 0.4227542579174042,
+      "fear": 0.23605498671531677,
+      "joy": 0.0026710161473602057,
+      "sadness": 0.16262149810791016
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Remember it! I would know it blindfolded! My\nbridge, my church, my winding river! ",
+    "emotion_scores": {
+      "anger": 0.1566050499677658,
+      "disgust": 0.026184547692537308,
+      "fear": 0.7190791964530945,
+      "joy": 0.006474447436630726,
+      "sadness": 0.013978925533592701
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Listen! I know these men! I remember the beauty of\ntheir song!",
+    "emotion_scores": {
+      "anger": 0.22714433073997498,
+      "disgust": 0.07556647062301636,
+      "fear": 0.007683196570724249,
+      "joy": 0.33558547496795654,
+      "sadness": 0.016813432797789574
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " None. No good. None . . . ",
+    "emotion_scores": {
+      "anger": 0.18926171958446503,
+      "disgust": 0.6245700716972351,
+      "fear": 0.03523136302828789,
+      "joy": 0.002127352636307478,
+      "sadness": 0.10925133526325226
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I cannot look on him!",
+    "emotion_scores": {
+      "anger": 0.8309074640274048,
+      "disgust": 0.019713057205080986,
+      "fear": 0.1269153356552124,
+      "joy": 0.002574685262516141,
+      "sadness": 0.010480384342372417
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It\u2019s me.  Poor boy. He lived inside his\nhead . . . alone . . .  poor boy.  I wish . . .  ah! it\u2019s too late!\nPast. What is the matter?",
+    "emotion_scores": {
+      "anger": 0.0016882370691746473,
+      "disgust": 0.0010839109309017658,
+      "fear": 0.0018918766872957349,
+      "joy": 0.0028688726015388966,
+      "sadness": 0.9636377096176147
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "There was a boy singing a Christmas Carol outside\nmy door last night. I should like to have given him\nsomething: that\u2019s all.",
+    "emotion_scores": {
+      "anger": 0.009954318404197693,
+      "disgust": 0.021620167419314384,
+      "fear": 0.0045530106872320175,
+      "joy": 0.29216858744621277,
+      "sadness": 0.03936091065406799
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Look! Me, again! Older now!  Oh, yes . . .\nstill alone.",
+    "emotion_scores": {
+      "anger": 0.04844411835074425,
+      "disgust": 0.021663106977939606,
+      "fear": 0.0234482754021883,
+      "joy": 0.10142058879137039,
+      "sadness": 0.3170391023159027
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Yes, sir, I know sir . . .",
+    "emotion_scores": {
+      "anger": 0.025072043761610985,
+      "disgust": 0.052404217422008514,
+      "fear": 0.045298099517822266,
+      "joy": 0.013361053541302681,
+      "sadness": 0.03639727458357811
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh, my dear, dear little sister, Fan . . . how I\nloved her.",
+    "emotion_scores": {
+      "anger": 0.0030280405189841986,
+      "disgust": 0.002512634266167879,
+      "fear": 0.0022099290508776903,
+      "joy": 0.6475956439971924,
+      "sadness": 0.20041178166866302
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "So she had.",
+    "emotion_scores": {
+      "anger": 0.01350591704249382,
+      "disgust": 0.02004748396575451,
+      "fear": 0.0028872089460492134,
+      "joy": 0.0035624406300485134,
+      "sadness": 0.013757169246673584
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "One child.",
+    "emotion_scores": {
+      "anger": 0.02255507931113243,
+      "disgust": 0.06229645386338234,
+      "fear": 0.0027741773519665003,
+      "joy": 0.48635333776474,
+      "sadness": 0.15282516181468964
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Yes.",
+    "emotion_scores": {
+      "anger": 0.0077622137032449245,
+      "disgust": 0.03510213643312454,
+      "fear": 0.014624937437474728,
+      "joy": 0.006465169135481119,
+      "sadness": 0.03374974802136421
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Know it? Wasn\u2019t I apprenticed there?",
+    "emotion_scores": {
+      "anger": 0.03938589617609978,
+      "disgust": 0.020595991984009743,
+      "fear": 0.010243751108646393,
+      "joy": 0.00827447883784771,
+      "sadness": 0.012178788892924786
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Why, it\u2019s old Fezziwig! Bless his heart; it\u2019s\nFezziwig, alive again!",
+    "emotion_scores": {
+      "anger": 0.09590020775794983,
+      "disgust": 0.015289927832782269,
+      "fear": 0.0024985363706946373,
+      "joy": 0.3189696967601776,
+      "sadness": 0.02747555449604988
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Quittin\u2019 time . . .",
+    "emotion_scores": {
+      "anger": 0.01687774620950222,
+      "disgust": 0.011879289522767067,
+      "fear": 0.00686698779463768,
+      "joy": 0.1460130661725998,
+      "sadness": 0.13337458670139313
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Dick Wilkins, to be sure! My fellow-\u2019prentice! Bless\nmy soul, yes. There he is. He was very much attached to me,\nwas Dick. Poor Dick! Dear, dear!",
+    "emotion_scores": {
+      "anger": 0.017573151737451553,
+      "disgust": 0.010938023217022419,
+      "fear": 0.0038524759002029896,
+      "joy": 0.15336698293685913,
+      "sadness": 0.6453332304954529
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Small!",
+    "emotion_scores": {
+      "anger": 0.06481438130140305,
+      "disgust": 0.06405816972255707,
+      "fear": 0.01076236180961132,
+      "joy": 0.024727091193199158,
+      "sadness": 0.028887489810585976
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It isn\u2019t that! It isn\u2019t that, Spirit. Fezziwig had the\npower to make us happy or unhappy; to make our service\nlight or burdensome; a pleasure or a toil. The happiness he\ngave is quite as great as if it cost him a fortune.",
+    "emotion_scores": {
+      "anger": 0.0736185759305954,
+      "disgust": 0.07435198128223419,
+      "fear": 0.0030723768286406994,
+      "joy": 0.3667839467525482,
+      "sadness": 0.16979171335697174
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Nothing particular.",
+    "emotion_scores": {
+      "anger": 0.04247907176613808,
+      "disgust": 0.3450794219970703,
+      "fear": 0.015594356693327427,
+      "joy": 0.0032416596077382565,
+      "sadness": 0.03352491930127144
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No, no. l should like to be able to say a word or two\nto my clerk just now! That\u2019s all!",
+    "emotion_scores": {
+      "anger": 0.12998078763484955,
+      "disgust": 0.048449475318193436,
+      "fear": 0.00741911306977272,
+      "joy": 0.16341091692447662,
+      "sadness": 0.01214268896728754
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No!",
+    "emotion_scores": {
+      "anger": 0.5688468217849731,
+      "disgust": 0.14708589017391205,
+      "fear": 0.039918843656778336,
+      "joy": 0.012694871053099632,
+      "sadness": 0.05059666559100151
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No!",
+    "emotion_scores": {
+      "anger": 0.5688468217849731,
+      "disgust": 0.14708589017391205,
+      "fear": 0.039918843656778336,
+      "joy": 0.012694871053099632,
+      "sadness": 0.05059666559100151
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Don\u2019t release me, madame . . .",
+    "emotion_scores": {
+      "anger": 0.7717428207397461,
+      "disgust": 0.02317402884364128,
+      "fear": 0.09593277424573898,
+      "joy": 0.00418928312137723,
+      "sadness": 0.05456920340657234
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Ah, yes!",
+    "emotion_scores": {
+      "anger": 0.3645685017108917,
+      "disgust": 0.12498760223388672,
+      "fear": 0.036344267427921295,
+      "joy": 0.2339790314435959,
+      "sadness": 0.022282155230641365
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Please, I . . . I . . .",
+    "emotion_scores": {
+      "anger": 0.02654365263879299,
+      "disgust": 0.048793476074934006,
+      "fear": 0.101357601583004,
+      "joy": 0.015101308934390545,
+      "sadness": 0.20508484542369843
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No!",
+    "emotion_scores": {
+      "anger": 0.5688468217849731,
+      "disgust": 0.14708589017391205,
+      "fear": 0.039918843656778336,
+      "joy": 0.012694871053099632,
+      "sadness": 0.05059666559100151
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No!",
+    "emotion_scores": {
+      "anger": 0.5688468217849731,
+      "disgust": 0.14708589017391205,
+      "fear": 0.039918843656778336,
+      "joy": 0.012694871053099632,
+      "sadness": 0.05059666559100151
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Don\u2019t let her go!",
+    "emotion_scores": {
+      "anger": 0.6191097497940063,
+      "disgust": 0.0073861791752278805,
+      "fear": 0.3480079472064972,
+      "joy": 0.0029843004886060953,
+      "sadness": 0.010657618753612041
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No!",
+    "emotion_scores": {
+      "anger": 0.5688468217849731,
+      "disgust": 0.14708589017391205,
+      "fear": 0.039918843656778336,
+      "joy": 0.012694871053099632,
+      "sadness": 0.05059666559100151
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "You fool! Mindless loon! You fool!",
+    "emotion_scores": {
+      "anger": 0.8257787823677063,
+      "disgust": 0.13745157420635223,
+      "fear": 0.005050624255090952,
+      "joy": 0.0031237644143402576,
+      "sadness": 0.009410541504621506
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Don\u2019t say that! Spirit, remove me from this place.",
+    "emotion_scores": {
+      "anger": 0.5512403845787048,
+      "disgust": 0.03917662426829338,
+      "fear": 0.3625554144382477,
+      "joy": 0.0021739411167800426,
+      "sadness": 0.02010333351790905
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Remove me! I cannot bear it!",
+    "emotion_scores": {
+      "anger": 0.8294737339019775,
+      "disgust": 0.0250535998493433,
+      "fear": 0.10450150072574615,
+      "joy": 0.0026940805837512016,
+      "sadness": 0.02355906553566456
+    }
+  },
+  {
+    "act": "Act 1",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Leave me! Take me back! Haunt me no longer!",
+    "emotion_scores": {
+      "anger": 0.28981563448905945,
+      "disgust": 0.01933254487812519,
+      "fear": 0.5994306206703186,
+      "joy": 0.007095691282302141,
+      "sadness": 0.04033227637410164
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "One! One! This is it; time! \nNothing!",
+    "emotion_scores": {
+      "anger": 0.30027398467063904,
+      "disgust": 0.021801000460982323,
+      "fear": 0.06603355705738068,
+      "joy": 0.13901428878307343,
+      "sadness": 0.023025382310152054
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Midnight! How can this be? I\u2019m sleeping backwards.",
+    "emotion_scores": {
+      "anger": 0.043835606426000595,
+      "disgust": 0.02735203318297863,
+      "fear": 0.01076149009168148,
+      "joy": 0.002376764779910445,
+      "sadness": 0.015170520171523094
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Good heavens! One again! I\u2019m sleeping back and forth!\n Nothing! Absolutely nothing!",
+    "emotion_scores": {
+      "anger": 0.026413103565573692,
+      "disgust": 0.010564458556473255,
+      "fear": 0.002379773883149028,
+      "joy": 0.5603229403495789,
+      "sadness": 0.016042714938521385
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What?",
+    "emotion_scores": {
+      "anger": 0.033556707203388214,
+      "disgust": 0.013810660690069199,
+      "fear": 0.009667806327342987,
+      "joy": 0.002519917208701372,
+      "sadness": 0.0043388535268604755
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Just checking to see if anyone is in here.",
+    "emotion_scores": {
+      "anger": 0.0033475777599960566,
+      "disgust": 0.0034362198784947395,
+      "fear": 0.003184266621246934,
+      "joy": 0.007825301960110664,
+      "sadness": 0.005475328769534826
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Hello. How should I call you?",
+    "emotion_scores": {
+      "anger": 0.06932086497545242,
+      "disgust": 0.04168194532394409,
+      "fear": 0.11014395207166672,
+      "joy": 0.0034597967751324177,
+      "sadness": 0.022673409432172775
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Never.",
+    "emotion_scores": {
+      "anger": 0.035021062940359116,
+      "disgust": 0.04287688061594963,
+      "fear": 0.03469957783818245,
+      "joy": 0.006494820583611727,
+      "sadness": 0.06015656515955925
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I don\u2019t think I have. I\u2019m afraid I\u2019ve not. Have you\nhad many brothers, Spirit?",
+    "emotion_scores": {
+      "anger": 0.005788872949779034,
+      "disgust": 0.005336617585271597,
+      "fear": 0.8889161348342896,
+      "joy": 0.0031265700235962868,
+      "sadness": 0.01294559147208929
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 1",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "A tremendous family to provide for!  Spirit, conduct me where you will. I went forth last\nnight on compulsion, and learnt a lesson which is working\nnow. Tonight, if you have aught to teach me, let me profit\nby it.",
+    "emotion_scores": {
+      "anger": 0.19244727492332458,
+      "disgust": 0.04708776995539665,
+      "fear": 0.09608474373817444,
+      "joy": 0.312491238117218,
+      "sadness": 0.03978222236037254
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What is it you sprinkle from your torch?",
+    "emotion_scores": {
+      "anger": 0.04014633595943451,
+      "disgust": 0.05116351693868637,
+      "fear": 0.015045617707073689,
+      "joy": 0.002345218090340495,
+      "sadness": 0.005097127053886652
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Do you sprinkle your kindness on any particular\npeople or on all people?",
+    "emotion_scores": {
+      "anger": 0.06395644694566727,
+      "disgust": 0.1596016138792038,
+      "fear": 0.006484208628535271,
+      "joy": 0.006058918312191963,
+      "sadness": 0.00442873639985919
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 2",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Why to the very poor most?",
+    "emotion_scores": {
+      "anger": 0.03708461672067642,
+      "disgust": 0.12755940854549408,
+      "fear": 0.008088071830570698,
+      "joy": 0.0018974152626469731,
+      "sadness": 0.05820766091346741
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What is this place, Spirit?",
+    "emotion_scores": {
+      "anger": 0.023663373664021492,
+      "disgust": 0.010852723382413387,
+      "fear": 0.010480993427336216,
+      "joy": 0.0029319736640900373,
+      "sadness": 0.004566143732517958
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Do you mean Cratchit, Spirit? Do you mean this is\nCratchit\u2019s home?",
+    "emotion_scores": {
+      "anger": 0.07213949412107468,
+      "disgust": 0.10196810960769653,
+      "fear": 0.01561061106622219,
+      "joy": 0.006799941882491112,
+      "sadness": 0.010336101986467838
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "These children are his?",
+    "emotion_scores": {
+      "anger": 0.029534487053751945,
+      "disgust": 0.017591146752238274,
+      "fear": 0.005210187751799822,
+      "joy": 0.011524215340614319,
+      "sadness": 0.00845350231975317
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "On his meager earnings! What foolishness!",
+    "emotion_scores": {
+      "anger": 0.2815714478492737,
+      "disgust": 0.28260180354118347,
+      "fear": 0.019861118867993355,
+      "joy": 0.006105558015406132,
+      "sadness": 0.26196616888046265
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Wouldn\u2019t you say so? Fifteen shillings4 a week\u2019s\nwhat he gets!",
+    "emotion_scores": {
+      "anger": 0.18787917494773865,
+      "disgust": 0.06635732203722,
+      "fear": 0.0054028513841331005,
+      "joy": 0.025971591472625732,
+      "sadness": 0.011290102265775204
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit, tell me if Tiny Tim will live.",
+    "emotion_scores": {
+      "anger": 0.0038686231710016727,
+      "disgust": 0.004917910788208246,
+      "fear": 0.008367713540792465,
+      "joy": 0.006930571980774403,
+      "sadness": 0.026976177468895912
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "No, no, kind Spirit! Say he will be spared!",
+    "emotion_scores": {
+      "anger": 0.7022044062614441,
+      "disgust": 0.139804869890213,
+      "fear": 0.04635946825146675,
+      "joy": 0.012012905441224575,
+      "sadness": 0.050428204238414764
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Huh? What\u2019s that? Who calls?",
+    "emotion_scores": {
+      "anger": 0.03146238625049591,
+      "disgust": 0.02165326476097107,
+      "fear": 0.0045928871259093285,
+      "joy": 0.0025347780901938677,
+      "sadness": 0.005338194780051708
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Me, Bob? You toast me?",
+    "emotion_scores": {
+      "anger": 0.29329901933670044,
+      "disgust": 0.0746808871626854,
+      "fear": 0.02660752460360527,
+      "joy": 0.032930225133895874,
+      "sadness": 0.014970280230045319
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh. Spirit, must I? . . .",
+    "emotion_scores": {
+      "anger": 0.023461343720555305,
+      "disgust": 0.0408175066113472,
+      "fear": 0.02877330780029297,
+      "joy": 0.012486504390835762,
+      "sadness": 0.06780199706554413
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Just here, kind madam . . . out of sight, out\nof sight . . .",
+    "emotion_scores": {
+      "anger": 0.31824079155921936,
+      "disgust": 0.15685370564460754,
+      "fear": 0.06023313105106354,
+      "joy": 0.008164056576788425,
+      "sadness": 0.07279784232378006
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Thank you, Bob . . . and Mrs. Cratchit, too. No\none else is toasting me, . . . not now . . . not ever. Of that\nI am sure . . .",
+    "emotion_scores": {
+      "anger": 0.009710594080388546,
+      "disgust": 0.015361381694674492,
+      "fear": 0.003418378299102187,
+      "joy": 0.3214974105358124,
+      "sadness": 0.16331349313259125
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 3",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I am listening.  Spirit, it must be time for us to\ntake our leave. I feel in my heart that it is . . . that I must think\non that which I have seen here . . .",
+    "emotion_scores": {
+      "anger": 0.004618779290467501,
+      "disgust": 0.005195152945816517,
+      "fear": 0.013906299136579037,
+      "joy": 0.008297968655824661,
+      "sadness": 0.9089986681938171
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What is this place? We\u2019ve moved from the mines!",
+    "emotion_scores": {
+      "anger": 0.035379808396101,
+      "disgust": 0.023960134014487267,
+      "fear": 0.0066855549812316895,
+      "joy": 0.0036029769107699394,
+      "sadness": 0.005378102418035269
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It is my nephew! . . . and the one he married . . .",
+    "emotion_scores": {
+      "anger": 0.0355207696557045,
+      "disgust": 0.0062585193663835526,
+      "fear": 0.0029155646916478872,
+      "joy": 0.17298747599124908,
+      "sadness": 0.06246485933661461
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It\u2019s me they talk of, isn\u2019t it, Spirit?",
+    "emotion_scores": {
+      "anger": 0.03633112087845802,
+      "disgust": 0.09215912222862244,
+      "fear": 0.014765131287276745,
+      "joy": 0.005459826905280352,
+      "sadness": 0.005234514828771353
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What he says is true, Spirit . . .",
+    "emotion_scores": {
+      "anger": 0.01385465357452631,
+      "disgust": 0.011822427622973919,
+      "fear": 0.0035347696393728256,
+      "joy": 0.00956049095839262,
+      "sadness": 0.0038819846231490374
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit, please, make me visible! Make me audible!\nI want to talk with my nephew and my niece!",
+    "emotion_scores": {
+      "anger": 0.3990148901939392,
+      "disgust": 0.06653156131505966,
+      "fear": 0.4127301275730133,
+      "joy": 0.016029557213187218,
+      "sadness": 0.04895414784550667
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Your hair has gone gray! Your skin, wrinkled! Are\nspirits\u2019 lives so short?",
+    "emotion_scores": {
+      "anger": 0.15711334347724915,
+      "disgust": 0.2864728569984436,
+      "fear": 0.011288858018815517,
+      "joy": 0.006245844531804323,
+      "sadness": 0.22209586203098297
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Tonight?",
+    "emotion_scores": {
+      "anger": 0.009925836697220802,
+      "disgust": 0.009688620455563068,
+      "fear": 0.012214361689984798,
+      "joy": 0.003603893332183361,
+      "sadness": 0.0066607436165213585
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Who are they?",
+    "emotion_scores": {
+      "anger": 0.02223093807697296,
+      "disgust": 0.006387069821357727,
+      "fear": 0.007874809205532074,
+      "joy": 0.0040725525468587875,
+      "sadness": 0.004618991632014513
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Have they no refuge or resource?",
+    "emotion_scores": {
+      "anger": 0.06008271127939224,
+      "disgust": 0.04697034880518913,
+      "fear": 0.05152031406760216,
+      "joy": 0.0013021132908761501,
+      "sadness": 0.0589643195271492
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit, I\u2019m frightened! Don\u2019t leave me! Spirit!",
+    "emotion_scores": {
+      "anger": 0.0013029826804995537,
+      "disgust": 0.0007140688830986619,
+      "fear": 0.9919223785400391,
+      "joy": 0.0008688883972354233,
+      "sadness": 0.0018566829385235906
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Who are you, Phantom? Oh, yes. I think I know\nyou! You are, are you not, the Spirit of Christmas Yet to\nCome?  And you are about to show me the shadows\nof the things that have not yet happened, but will happen in\ntime before us. Is that not so, Spirit?  Oh, Ghost of the Future, I fear you more than any\nSpecter I have seen! But, as I know that your purpose is to do\nme good and as I hope to live to be another man from what I\nwas, I am prepared to bear you company. \nLead on, then, lead on. The night is waning fast, and it is\nprecious time to me. Lead on, Spirit!",
+    "emotion_scores": {
+      "anger": 0.013227238319814205,
+      "disgust": 0.004826165735721588,
+      "fear": 0.928911030292511,
+      "joy": 0.0034979835618287325,
+      "sadness": 0.007432988379150629
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit, why did you show me this? Why do you\nshow me businessmen from my streets as they take the death\nof Jacob Marley? That is a thing past. You are future!",
+    "emotion_scores": {
+      "anger": 0.4627463221549988,
+      "disgust": 0.06677436828613281,
+      "fear": 0.04855911433696747,
+      "joy": 0.004045428242534399,
+      "sadness": 0.013682117685675621
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " OOOOOOOoooooOOOOOoooooOOOOOOOO\noooooOOOOOOoooooOO!",
+    "emotion_scores": {
+      "anger": 0.04739075526595116,
+      "disgust": 0.02053510583937168,
+      "fear": 0.01348835974931717,
+      "joy": 0.1389276385307312,
+      "sadness": 0.1042308434844017
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "OOoooOOoooOOOoooOOOoooOOoooOOoooOOOooo!\n Obscene demons! Why not market the\ncorpse itself, as sell its trimming???  Oh, Spirit, I see\nit, I see it! This unhappy man\u2014this stripped-bare corpse . . .\ncould very well be my own. My life holds parallel! My life\nends that way now!",
+    "emotion_scores": {
+      "anger": 0.041065432131290436,
+      "disgust": 0.053024716675281525,
+      "fear": 0.037978094071149826,
+      "joy": 0.0139946723356843,
+      "sadness": 0.5924025177955627
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit, this is a fearful place. In leaving it, I shall not leave its\nlesson, trust me. Let us go!",
+    "emotion_scores": {
+      "anger": 0.003021651180461049,
+      "disgust": 0.0008789980784058571,
+      "fear": 0.9876388311386108,
+      "joy": 0.0010434776777401567,
+      "sadness": 0.0018385694129392505
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit, let me see some tenderness connected with a death, or\nthat dark chamber, which we just left now, Spirit, will be\nforever present to me.",
+    "emotion_scores": {
+      "anger": 0.00794140249490738,
+      "disgust": 0.07568728923797607,
+      "fear": 0.005973512772470713,
+      "joy": 0.20371080935001373,
+      "sadness": 0.348091185092926
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Huh? Who\nspoke? Who said that?",
+    "emotion_scores": {
+      "anger": 0.02832721173763275,
+      "disgust": 0.016251327469944954,
+      "fear": 0.006791214924305677,
+      "joy": 0.00479460135102272,
+      "sadness": 0.008761124685406685
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Specter, something informs me that our parting\nmoment is at hand. I know it, but I know not how I know it.",
+    "emotion_scores": {
+      "anger": 0.011098737828433514,
+      "disgust": 0.03401509299874306,
+      "fear": 0.057573102414608,
+      "joy": 0.017064515501260757,
+      "sadness": 0.25380977988243103
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Am I that man those ghoulish parasites7 so gloated over?\n Before I draw nearer to that stone to which you\npoint, answer me one question. Are these the shadows\nof things that will be, or the shadows of things that MAY\nbe, only?",
+    "emotion_scores": {
+      "anger": 0.021670008078217506,
+      "disgust": 0.26846587657928467,
+      "fear": 0.20266549289226532,
+      "joy": 0.21247757971286774,
+      "sadness": 0.06181705743074417
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh, no. Spirit! Oh, no, no!",
+    "emotion_scores": {
+      "anger": 0.126347154378891,
+      "disgust": 0.46181365847587585,
+      "fear": 0.07813470810651779,
+      "joy": 0.0101909339427948,
+      "sadness": 0.044298965483903885
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit! Hear me! I am not the man I was. I will not be the man\nI would have been but for this intercourse. Why show me\nthis, if I am past all hope?",
+    "emotion_scores": {
+      "anger": 0.39697495102882385,
+      "disgust": 0.09372004121541977,
+      "fear": 0.24143491685390472,
+      "joy": 0.02870379574596882,
+      "sadness": 0.03570883721113205
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh. Good Spirit, I see by your wavering hand that your good\nnature intercedes for me and pities me. Assure me that I yet\nmay change these shadows that you have shown me by an\naltered life!",
+    "emotion_scores": {
+      "anger": 0.2725614607334137,
+      "disgust": 0.15317878127098083,
+      "fear": 0.10776780545711517,
+      "joy": 0.08984223753213882,
+      "sadness": 0.1720244437456131
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I will honor Christmas in my heart and try to keep it all the\nyear. I will live in the Past, the Present, and the Future. The\nSpirits of all Three shall strive within me. I will not shut out\nthe lessons that they teach. Oh, tell me that I may sponge\naway the writing that is upon this stone!",
+    "emotion_scores": {
+      "anger": 0.21651171147823334,
+      "disgust": 0.05777736008167267,
+      "fear": 0.04107913747429848,
+      "joy": 0.05877077206969261,
+      "sadness": 0.07597148418426514
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 4",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Spirit, dear Spirit, I am praying before you. Give me a\nsign that all is possible. Give me a sign that all hope for me\nis not lost. Oh, Spirit, kind Spirit, I beseech thee: give me\na sign . . .",
+    "emotion_scores": {
+      "anger": 0.01974131166934967,
+      "disgust": 0.013817018829286098,
+      "fear": 0.1325431913137436,
+      "joy": 0.45251149237155914,
+      "sadness": 0.08115878701210022
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " I will live in\nthe Past, in the Present, and in the Future! The Spirits of all\nThree shall strive within me!",
+    "emotion_scores": {
+      "anger": 0.1207984983921051,
+      "disgust": 0.01639404147863388,
+      "fear": 0.04160001873970032,
+      "joy": 0.2477807253599167,
+      "sadness": 0.05068464204668999
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh, Jacob Marley! Wherever you are, Jacob, know\nye that I praise you for this! I praise you . . . and heaven . . .\nand Christmastime!  I say it\nto you on my knees, old Jacob, on my knees!  Not torn down. My bed curtains are not at all\ntorn down! Rings and all, here they are! They are here: I am\nhere: the shadows of things that would have been, may now\nbe dispelled. They will be, Jacob! I know they will be!",
+    "emotion_scores": {
+      "anger": 0.19087301194667816,
+      "disgust": 0.04062832519412041,
+      "fear": 0.0762651339173317,
+      "joy": 0.62984059154987335,
+      "sadness": 0.09753257036209106
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I am light as a feather, I am happy as an angel. I am as merry\nas a schoolboy. \nMerry Christmas to everybody! Merry Christmas to\neverybody! A Happy New Year to all the world! Hallo here!\nWhoop! Whoop! Hallo! Hallo! I don\u2019t know what day of the\nmonth it is! I don\u2019t care! I don\u2019t know anything! I\u2019m quite a\nbaby! I don\u2019t care! I don\u2019t care a fig! I\u2019d much rather be a baby than be an old wreck like me or Marley! (Sorry, Jacob.\nwherever ye be!) Hallo! Hallo there!",
+    "emotion_scores": {
+      "anger": 0.010489743202924728,
+      "disgust": 0.0026141509879380465,
+      "fear": 0.003648008219897747,
+      "joy": 0.9952117466926575,
+      "sadness": 0.023200316354632378
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Hey, you boy!\nWhat\u2019s today? What day of the year is it?",
+    "emotion_scores": {
+      "anger": 0.1361241191625595,
+      "disgust": 0.02566506527364254,
+      "fear": 0.006258710753172636,
+      "joy": 0.3128884732723236,
+      "sadness": 0.03136098012328148
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It\u2019s Christmas Day, is it? Whoop! Well, I haven\u2019t\nmissed it after all, have I? The Spirits did all they did in one\nnight. They can do anything they like, right? Of course they\ncan! Of course they can!",
+    "emotion_scores": {
+      "anger": 0.045860715210437775,
+      "disgust": 0.05952657386660576,
+      "fear": 0.006212818901985884,
+      "joy": 0.417862077802419662,
+      "sadness": 0.023163871839642525
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Huh? Oh, yes, of course. What\u2019s your name, lad?",
+    "emotion_scores": {
+      "anger": 0.05297508463263512,
+      "disgust": 0.08945412933826447,
+      "fear": 0.02111448161303997,
+      "joy": 0.009088546968996525,
+      "sadness": 0.011079330928623676
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Adam! What a fine, strong name! Do you know the\npoulterer\u2019s in the next street but one, at the corner?",
+    "emotion_scores": {
+      "anger": 0.07092531025409698,
+      "disgust": 0.038591671735048294,
+      "fear": 0.005971891805529594,
+      "joy": 0.030583761632442474,
+      "sadness": 0.009555332362651825
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "A remarkable boy! An intelligent boy! Do you\nknow whether the poulterer\u2019s have sold the prize turkey that\nwas hanging up there? I don\u2019t mean the little prize turkey,\nAdam. I mean the big one!",
+    "emotion_scores": {
+      "anger": 0.019309045746922493,
+      "disgust": 0.01297387108206749,
+      "fear": 0.0043577225878834724,
+      "joy": 0.43520422801375389,
+      "sadness": 0.0038804030045866966
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I mean, the turkey the size of Adam: that\u2019s the bird!",
+    "emotion_scores": {
+      "anger": 0.06820761412382126,
+      "disgust": 0.08840098977088928,
+      "fear": 0.005569009110331535,
+      "joy": 0.012826706282794476,
+      "sadness": 0.005399737972766161
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It is? Go and buy it! No, no. I am absolutely in\nearnest. Go and buy it and tell \u2019em to bring it here, so that I\nmay give them the directions to where I want it delivered, as\na gift. Come back here with the man, Adam, and I\u2019ll give you\na shilling. Come back here with him in less than five minutes,\nand I\u2019ll give you half-a-crown!",
+    "emotion_scores": {
+      "anger": 0.02131954431533813,
+      "disgust": 0.08325900882482529,
+      "fear": 0.08475632220506668,
+      "joy": 0.45030384659767151,
+      "sadness": 0.026697129011154175
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "You are truly a champion, Adam . . .",
+    "emotion_scores": {
+      "anger": 0.020663075149059296,
+      "disgust": 0.005801576655358076,
+      "fear": 0.0026023266837000847,
+      "joy": 0.45574271976947784,
+      "sadness": 0.005030391272157431
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh, my, MY!!! Look at the size of that turkey, will\nyou! He never could have stood upon his legs, that bird! He\nwould have snapped them off in a minute, like sticks of sealingwax! Why you\u2019ll never be able to carry that bird to Camden-Town, I\u2019ll give you money for a cab . . .",
+    "emotion_scores": {
+      "anger": 0.06002560257911682,
+      "disgust": 0.08270000666379929,
+      "fear": 0.016433110460639,
+      "joy": 0.647194611243903637,
+      "sadness": 0.017172586172819138
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh, I didn\u2019t tell you? Yes, I\u2019ve written the precise\naddress down just here on this . . .  Bob\nCratchit\u2019s house. Now he\u2019s not to know who sends him this.\nDo you understand me? Not a word . . . ",
+    "emotion_scores": {
+      "anger": 0.06218511238694191,
+      "disgust": 0.07651485502719879,
+      "fear": 0.12637940049171448,
+      "joy": 0.003240054240450263,
+      "sadness": 0.015536066144704819
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Good. There you go then . . . this is for the\nturkey . . .  . . . and this is for the taxi.  . . .\nand this is for your world-record run, Adam . . .",
+    "emotion_scores": {
+      "anger": 0.01241106353700161,
+      "disgust": 0.0051299347542226315,
+      "fear": 0.010134349577128887,
+      "joy": 0.2305528074502945,
+      "sadness": 0.025170322507619858
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Then keep it, my lad. It\u2019s Christmas!",
+    "emotion_scores": {
+      "anger": 0.27126583456993103,
+      "disgust": 0.024061312898993492,
+      "fear": 0.008760523982346058,
+      "joy": 0.5293706089258194,
+      "sadness": 0.021663332358002663
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Of course I have, sir. It\u2019s Christmas!",
+    "emotion_scores": {
+      "anger": 0.04899076744914055,
+      "disgust": 0.009008512832224369,
+      "fear": 0.004194990731775761,
+      "joy": 0.5741615295410156,
+      "sadness": 0.024447698146104813
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Merry Christmas, madam . . .",
+    "emotion_scores": {
+      "anger": 0.007679963018745184,
+      "disgust": 0.0024990583769977093,
+      "fear": 0.0016149773728102446,
+      "joy": 0.7084047913551331,
+      "sadness": 0.10134702920913696
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Merry Christmas, sir.",
+    "emotion_scores": {
+      "anger": 0.007365863770246506,
+      "disgust": 0.0038247196935117245,
+      "fear": 0.0013121026568114758,
+      "joy": 0.7662850737571716,
+      "sadness": 0.03740295022726059
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Oh, you! My dear sir! How do you do? I do hope\nthat you succeeded yesterday! It was very kind of you.\nA Merry Christmas.",
+    "emotion_scores": {
+      "anger": 0.021097641438245773,
+      "disgust": 0.003409318160265684,
+      "fear": 0.0019489206606522202,
+      "joy": 0.8484859943389893,
+      "sadness": 0.0579121895134449
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Yes, Scrooge is my name though I\u2019m afraid you\nmay not find it very pleasant. Allow me to ask your pardon.\nAnd will you have the goodness to\u2014",
+    "emotion_scores": {
+      "anger": 0.013255538418889046,
+      "disgust": 0.017389072105288506,
+      "fear": 0.40511181950569153,
+      "joy": 0.042072903364896774,
+      "sadness": 0.07787556946277618
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "If you please. Not a farthing10 less. A great many\nback payments are included in it, I assure you. Will you do\nme that favor?",
+    "emotion_scores": {
+      "anger": 0.011059670709073544,
+      "disgust": 0.01004373375326395,
+      "fear": 0.00471655884757638,
+      "joy": 0.02232442982494831,
+      "sadness": 0.014810573309659958
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": " Don\u2019t say anything, please. Come\nand see me. Will you?",
+    "emotion_scores": {
+      "anger": 0.107807457447052,
+      "disgust": 0.02628137171268463,
+      "fear": 0.562179446220398,
+      "joy": 0.610045910254120827,
+      "sadness": 0.07453378289937973
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Thank\u2019ee, I am much obliged to you. I thank you\nfifty times. Bless you!",
+    "emotion_scores": {
+      "anger": 0.03175407275557518,
+      "disgust": 0.005171860568225384,
+      "fear": 0.0024615994188934565,
+      "joy": 0.8718003749847412,
+      "sadness": 0.008888011798262596
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Fred!",
+    "emotion_scores": {
+      "anger": 0.3728468716144562,
+      "disgust": 0.028291603550314903,
+      "fear": 0.009982481598854065,
+      "joy": 0.15824854373931885,
+      "sadness": 0.02492329850792885
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "It\u2019s I. Your Uncle Scrooge.",
+    "emotion_scores": {
+      "anger": 0.023277483880519867,
+      "disgust": 0.026898693293333054,
+      "fear": 0.005540958605706692,
+      "joy": 0.12465408444404602,
+      "sadness": 0.028686698526144028
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I have come to dinner. May I come in, Fred?",
+    "emotion_scores": {
+      "anger": 0.007550304755568504,
+      "disgust": 0.012028210796415806,
+      "fear": 0.013722416944801807,
+      "joy": 0.08903346210718155,
+      "sadness": 0.030126407742500305
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "What do you mean by coming in here at this time\nof day, a full eighteen minutes late, Mr. Cratchit? Hallo, sir?\nDo you hear me?",
+    "emotion_scores": {
+      "anger": 0.050481874495744705,
+      "disgust": 0.03151126950979233,
+      "fear": 0.028166640549898148,
+      "joy": 0.0031606447882950306,
+      "sadness": 0.011957996524870396
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "You are? Yes, I certainly think you are. Step this\nway, sir, if you please . . .",
+    "emotion_scores": {
+      "anger": 0.016738837584853172,
+      "disgust": 0.026784362271428108,
+      "fear": 0.013739263638854027,
+      "joy": 0.007606444414705038,
+      "sadness": 0.007383504416793585
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "Now, I\u2019ll tell you what, Cratchit. I am not going to\nstand this sort of thing any longer. And therefore . . .",
+    "emotion_scores": {
+      "anger": 0.16223153471946716,
+      "disgust": 0.19851873815059662,
+      "fear": 0.03535264730453491,
+      "joy": 0.004156536888331175,
+      "sadness": 0.025144526734948158
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "I am . . . about . . . to . . . raise . . . your salary.",
+    "emotion_scores": {
+      "anger": 0.01333029568195343,
+      "disgust": 0.0045877001248300076,
+      "fear": 0.0056325835175812244,
+      "joy": 0.8998982286453247,
+      "sadness": 0.1888025999069214
+    }
+  },
+  {
+    "act": "Act 2",
+    "scene": "Scene 5",
+    "type": "dialogue",
+    "character": "Scrooge",
+    "text": "A Merry Christmas, Bob . . . \nA merrier Christmas, Bob, my good fellow! than I have given\nyou for many a year. I\u2019ll raise your salary and endeavor to\nassist your struggling family and we will discuss your affairs\nthis very afternoon over a bowl of smoking bishop.11 Bob!\nMake up the fires and buy another coal scuttle before you dot\nanother i, Bob. It\u2019s too cold in this place! We need warmth\nand cheer, Bob Cratchit! Do you hear me? DO . . . YOU . . .\nHEAR . . . ME?",
+    "emotion_scores": {
+      "anger": 0.1601373702287674,
+      "disgust": 0.023770080879330635,
+      "fear": 0.044403403997421265,
+      "joy": 0.96625322818756104,
+      "sadness": 0.10820148140192032
+    }
+  }
 ]
