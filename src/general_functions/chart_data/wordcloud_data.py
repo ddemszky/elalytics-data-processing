@@ -90,16 +90,24 @@ def generate_wordcloud_data(input_path, output_path, top_n):
         }
 
     with open(input_path, "r", encoding="utf-8") as file:
+        print("Reading input file...")
         text_data = file.read().replace("\n", " ")
+    print("Tokenizing and filtering stopwords...")
     word_freq_data = word_frequencies(tokenize_and_filter(text_data))
     word_freq_data = dict(word_freq_data)
+
+    print(f"Getting top {top_n} words...")
     word_freq_data = top_n_values(word_freq_data, top_n)
 
     word_cloud_data = []
-    for word_pos_count in word_freq_data.items():
+    print("Translate words and format output process started...")
+    for i, word_pos_count in enumerate(word_freq_data.items()):
         word = process_word(word_pos_count)
         word_cloud_data.append(word)
+        if (i + 1) % 10 == 0:  # print progress every 10 words
+            print(f"Processed {i+1} words...")
 
+    print("Writing to output file...")
     with open(output_path, "w", encoding="utf-8") as file:
         json.dump(word_cloud_data, file, indent=4)
     print(f"Word cloud data saved to {output_path}")
