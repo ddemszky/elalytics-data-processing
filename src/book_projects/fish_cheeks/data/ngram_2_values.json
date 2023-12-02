@@ -1,0 +1,122 @@
+[
+    {
+        "text": "my mother",
+        "value": 4,
+        "category": "2-gram",
+        "translation": "mi madre"
+    },
+    {
+        "text": "the minister",
+        "value": 3,
+        "category": "2-gram",
+        "translation": "el ministro"
+    },
+    {
+        "text": "Christmas Eve",
+        "value": 3,
+        "category": "2-gram",
+        "translation": "Nochebuena"
+    },
+    {
+        "text": "of the",
+        "value": 3,
+        "category": "2-gram",
+        "translation": "del"
+    },
+    {
+        "text": "to be",
+        "value": 3,
+        "category": "2-gram",
+        "translation": "ser"
+    },
+    {
+        "text": "my father",
+        "value": 3,
+        "category": "2-gram",
+        "translation": "mi padre"
+    },
+    {
+        "text": "was not",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "no estaba"
+    },
+    {
+        "text": "For Christmas",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "Para Navidad"
+    },
+    {
+        "text": "that my",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "que mi"
+    },
+    {
+        "text": "s family",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "familia"
+    },
+    {
+        "text": "What would",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "\u00bfQu\u00e9 har\u00eda?"
+    },
+    {
+        "text": "think of",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "pensar en"
+    },
+    {
+        "text": "of our",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "de nuestro"
+    },
+    {
+        "text": "would he",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "\u00e9l"
+    },
+    {
+        "text": "all my",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "toda mi"
+    },
+    {
+        "text": "My relatives",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "Mis parientes"
+    },
+    {
+        "text": "out the",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "fuera de"
+    },
+    {
+        "text": "you are",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "eres"
+    },
+    {
+        "text": "I was",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "Era"
+    },
+    {
+        "text": "I had",
+        "value": 2,
+        "category": "2-gram",
+        "translation": "Yo ten\u00eda"
+    }
+]

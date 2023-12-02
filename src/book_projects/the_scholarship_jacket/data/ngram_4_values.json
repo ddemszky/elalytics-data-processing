@@ -1,0 +1,74 @@
+[
+    {
+        "text": "the highest grades for",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "las calificaciones m\u00e1s altas para"
+    },
+    {
+        "text": "highest grades for eight",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "calificaciones m\u00e1s altas para ocho"
+    },
+    {
+        "text": "grades for eight years",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "calificaciones durante ocho a\u00f1os"
+    },
+    {
+        "text": "I was going to",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "Yo iba a"
+    },
+    {
+        "text": "was going to be",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "iba a ser"
+    },
+    {
+        "text": "the rest of the",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "el resto de"
+    },
+    {
+        "text": "I cried on the",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "llor\u00e9 en el"
+    },
+    {
+        "text": "cried on the walk",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "llor\u00f3 en el camino"
+    },
+    {
+        "text": "on the walk home",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "en el camino a casa"
+    },
+    {
+        "text": "back to the house",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "de vuelta a la casa"
+    },
+    {
+        "text": "I was angry with",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "estaba enojado con"
+    },
+    {
+        "text": "I gave him a",
+        "value": 2,
+        "category": "4-gram",
+        "translation": "le di un"
+    }
+]
