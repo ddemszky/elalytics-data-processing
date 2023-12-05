@@ -1,182 +1,182 @@
 [
-    {
-        "text": "I was",
-        "value": 13,
-        "category": "2-gram",
-        "translation": "Era"
-    },
-    {
-        "text": "was a",
-        "value": 10,
-        "category": "2-gram",
-        "translation": "era un"
-    },
-    {
-        "text": "to the",
-        "value": 9,
-        "category": "2-gram",
-        "translation": "hacia"
-    },
-    {
-        "text": "in the",
-        "value": 9,
-        "category": "2-gram",
-        "translation": "en el"
-    },
-    {
-        "text": "scholarship jacket",
-        "value": 7,
-        "category": "2-gram",
-        "translation": "chaqueta de beca"
-    },
-    {
-        "text": "on the",
-        "value": 7,
-        "category": "2-gram",
-        "translation": "sobre el"
-    },
-    {
-        "text": "and I",
-        "value": 7,
-        "category": "2-gram",
-        "translation": "y yo"
-    },
-    {
-        "text": "I had",
-        "value": 7,
-        "category": "2-gram",
-        "translation": "Yo ten\u00eda"
-    },
-    {
-        "text": "I could",
-        "value": 7,
-        "category": "2-gram",
-        "translation": "pude"
-    },
-    {
-        "text": "I knew",
-        "value": 6,
-        "category": "2-gram",
-        "translation": "yo sab\u00eda"
-    },
-    {
-        "text": "I didn",
-        "value": 6,
-        "category": "2-gram",
-        "translation": "yo lo hice"
-    },
-    {
-        "text": "the jacket",
-        "value": 5,
-        "category": "2-gram",
-        "translation": "la chaqueta"
-    },
-    {
-        "text": "going to",
-        "value": 5,
-        "category": "2-gram",
-        "translation": "ir a"
-    },
-    {
-        "text": "to be",
-        "value": 5,
-        "category": "2-gram",
-        "translation": "ser"
-    },
-    {
-        "text": "in my",
-        "value": 5,
-        "category": "2-gram",
-        "translation": "en mi"
-    },
-    {
-        "text": "the scholarship",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "la beca"
-    },
-    {
-        "text": "I looked",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "Mir\u00e9"
-    },
-    {
-        "text": "and a",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "y un"
-    },
-    {
-        "text": "but I",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "pero yo"
-    },
-    {
-        "text": "with the",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "con el"
-    },
-    {
-        "text": "the Board",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "el tablero"
-    },
-    {
-        "text": "it was",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "fue"
-    },
-    {
-        "text": "of the",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "del"
-    },
-    {
-        "text": "He looked",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "\u00c9l mir\u00f3"
-    },
-    {
-        "text": "he was",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "\u00e9l era"
-    },
-    {
-        "text": "the money",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "el dinero"
-    },
-    {
-        "text": "back to",
-        "value": 4,
-        "category": "2-gram",
-        "translation": "de regreso"
-    },
-    {
-        "text": "that I",
-        "value": 3,
-        "category": "2-gram",
-        "translation": "que yo"
-    },
-    {
-        "text": "I went",
-        "value": 3,
-        "category": "2-gram",
-        "translation": "Fui"
-    },
-    {
-        "text": "had a",
-        "value": 3,
-        "category": "2-gram",
-        "translation": "ten\u00eda un"
-    }
+  {
+    "word": "I was",
+    "value": 13,
+    "category": "2-gram",
+    "translation": "Era"
+  },
+  {
+    "word": "was a",
+    "value": 10,
+    "category": "2-gram",
+    "translation": "era un"
+  },
+  {
+    "word": "to the",
+    "value": 9,
+    "category": "2-gram",
+    "translation": "hacia"
+  },
+  {
+    "word": "in the",
+    "value": 9,
+    "category": "2-gram",
+    "translation": "en el"
+  },
+  {
+    "word": "scholarship jacket",
+    "value": 7,
+    "category": "2-gram",
+    "translation": "chaqueta de beca"
+  },
+  {
+    "word": "on the",
+    "value": 7,
+    "category": "2-gram",
+    "translation": "sobre el"
+  },
+  {
+    "word": "and I",
+    "value": 7,
+    "category": "2-gram",
+    "translation": "y yo"
+  },
+  {
+    "word": "I had",
+    "value": 7,
+    "category": "2-gram",
+    "translation": "Yo ten\u00eda"
+  },
+  {
+    "word": "I could",
+    "value": 7,
+    "category": "2-gram",
+    "translation": "pude"
+  },
+  {
+    "word": "I knew",
+    "value": 6,
+    "category": "2-gram",
+    "translation": "yo sab\u00eda"
+  },
+  {
+    "word": "I didn't",
+    "value": 6,
+    "category": "2-gram",
+    "translation": "yo lo hice"
+  },
+  {
+    "word": "the jacket",
+    "value": 5,
+    "category": "2-gram",
+    "translation": "la chaqueta"
+  },
+  {
+    "word": "going to",
+    "value": 5,
+    "category": "2-gram",
+    "translation": "ir a"
+  },
+  {
+    "word": "to be",
+    "value": 5,
+    "category": "2-gram",
+    "translation": "ser"
+  },
+  {
+    "word": "in my",
+    "value": 5,
+    "category": "2-gram",
+    "translation": "en mi"
+  },
+  {
+    "word": "the scholarship",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "la beca"
+  },
+  {
+    "word": "I looked",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "Mir\u00e9"
+  },
+  {
+    "word": "and a",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "y un"
+  },
+  {
+    "word": "but I",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "pero yo"
+  },
+  {
+    "word": "with the",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "con el"
+  },
+  {
+    "word": "the Board",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "el tablero"
+  },
+  {
+    "word": "it was",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "fue"
+  },
+  {
+    "word": "of the",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "del"
+  },
+  {
+    "word": "He looked",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "\u00c9l mir\u00f3"
+  },
+  {
+    "word": "he was",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "\u00e9l era"
+  },
+  {
+    "word": "the money",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "el dinero"
+  },
+  {
+    "word": "back to",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "de regreso"
+  },
+  {
+    "word": "that I",
+    "value": 3,
+    "category": "2-gram",
+    "translation": "que yo"
+  },
+  {
+    "word": "I went",
+    "value": 3,
+    "category": "2-gram",
+    "translation": "Fui"
+  },
+  {
+    "word": "had a",
+    "value": 3,
+    "category": "2-gram",
+    "translation": "ten\u00eda un"
+  }
 ]
