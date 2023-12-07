@@ -1,94 +1,90 @@
 [
-    {
-        "word": "you",
-        "frequency": 5
-    },
-    {
-        "word": "your",
-        "frequency": 2
-    },
-    {
-        "word": "chinese",
-        "frequency": 2
-    },
-    {
-        "word": "must",
-        "frequency": 2
-    },
-    {
-        "word": "shame",
-        "frequency": 2
-    },
-    {
-        "word": "amy",
-        "frequency": 1
-    },
-    {
-        "word": "favorite",
-        "frequency": 1
-    },
-    {
-        "word": "it\u2019s",
-        "frequency": 1
-    },
-    {
-        "word": "polite",
-        "frequency": 1
-    },
-    {
-        "word": "custom",
-        "frequency": 1
-    },
-    {
-        "word": "show",
-        "frequency": 1
-    },
-    {
-        "word": "satisfied",
-        "frequency": 1
-    },
-    {
-        "word": "want",
-        "frequency": 1
-    },
-    {
-        "word": "same",
-        "frequency": 1
-    },
-    {
-        "word": "american",
-        "frequency": 1
-    },
-    {
-        "word": "girls",
-        "frequency": 1
-    },
-    {
-        "word": "outside",
-        "frequency": 1
-    },
-    {
-        "word": "but",
-        "frequency": 1
-    },
-    {
-        "word": "inside",
-        "frequency": 1
-    },
-    {
-        "word": "always",
-        "frequency": 1
-    },
-    {
-        "word": "proud",
-        "frequency": 1
-    },
-    {
-        "word": "different",
-        "frequency": 1
-    },
-    {
-        "word": "only",
-        "frequency": 1
-    }
+  {
+    "word": "you",
+    "frequency": 5
+  },
+  {
+    "word": "your",
+    "frequency": 2
+  },
+  {
+    "word": "chinese",
+    "frequency": 2
+  },
+  {
+    "word": "must",
+    "frequency": 2
+  },
+  {
+    "word": "shame",
+    "frequency": 2
+  },
+  {
+    "word": "amy",
+    "frequency": 1
+  },
+  {
+    "word": "favorite",
+    "frequency": 1
+  },
+  {
+    "word": "polite",
+    "frequency": 1
+  },
+  {
+    "word": "custom",
+    "frequency": 1
+  },
+  {
+    "word": "show",
+    "frequency": 1
+  },
+  {
+    "word": "satisfied",
+    "frequency": 1
+  },
+  {
+    "word": "want",
+    "frequency": 1
+  },
+  {
+    "word": "same",
+    "frequency": 1
+  },
+  {
+    "word": "american",
+    "frequency": 1
+  },
+  {
+    "word": "girls",
+    "frequency": 1
+  },
+  {
+    "word": "outside",
+    "frequency": 1
+  },
+  {
+    "word": "but",
+    "frequency": 1
+  },
+  {
+    "word": "inside",
+    "frequency": 1
+  },
+  {
+    "word": "always",
+    "frequency": 1
+  },
+  {
+    "word": "proud",
+    "frequency": 1
+  },
+  {
+    "word": "different",
+    "frequency": 1
+  },
+  {
+    "word": "only",
+    "frequency": 1
+  }
 ]
