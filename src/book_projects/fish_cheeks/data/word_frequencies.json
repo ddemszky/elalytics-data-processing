@@ -4,27 +4,11 @@
         "frequency": 5
     },
     {
-        "word": "to",
-        "frequency": 3
-    },
-    {
-        "word": "be",
-        "frequency": 3
-    },
-    {
         "word": "your",
         "frequency": 2
     },
     {
         "word": "chinese",
-        "frequency": 2
-    },
-    {
-        "word": "are",
-        "frequency": 2
-    },
-    {
-        "word": "the",
         "frequency": 2
     },
     {
@@ -45,10 +29,6 @@
     },
     {
         "word": "it\u2019s",
-        "frequency": 1
-    },
-    {
-        "word": "a",
         "frequency": 1
     },
     {
@@ -76,19 +56,11 @@
         "frequency": 1
     },
     {
-        "word": "as",
-        "frequency": 1
-    },
-    {
         "word": "american",
         "frequency": 1
     },
     {
         "word": "girls",
-        "frequency": 1
-    },
-    {
-        "word": "on",
         "frequency": 1
     },
     {
@@ -117,14 +89,6 @@
     },
     {
         "word": "only",
-        "frequency": 1
-    },
-    {
-        "word": "is",
-        "frequency": 1
-    },
-    {
-        "word": "have",
         "frequency": 1
     }
 ]
