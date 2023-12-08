@@ -6,40 +6,10 @@
     "translation": "Era"
   },
   {
-    "word": "was a",
-    "value": 10,
-    "category": "2-gram",
-    "translation": "era un"
-  },
-  {
-    "word": "to the",
-    "value": 9,
-    "category": "2-gram",
-    "translation": "hacia"
-  },
-  {
-    "word": "in the",
-    "value": 9,
-    "category": "2-gram",
-    "translation": "en el"
-  },
-  {
     "word": "scholarship jacket",
     "value": 7,
     "category": "2-gram",
     "translation": "chaqueta de beca"
-  },
-  {
-    "word": "on the",
-    "value": 7,
-    "category": "2-gram",
-    "translation": "sobre el"
-  },
-  {
-    "word": "and I",
-    "value": 7,
-    "category": "2-gram",
-    "translation": "y yo"
   },
   {
     "word": "I had",
@@ -78,12 +48,6 @@
     "translation": "ir a"
   },
   {
-    "word": "to be",
-    "value": 5,
-    "category": "2-gram",
-    "translation": "ser"
-  },
-  {
     "word": "in my",
     "value": 5,
     "category": "2-gram",
@@ -102,40 +66,10 @@
     "translation": "Mir\u00e9"
   },
   {
-    "word": "and a",
-    "value": 4,
-    "category": "2-gram",
-    "translation": "y un"
-  },
-  {
-    "word": "but I",
-    "value": 4,
-    "category": "2-gram",
-    "translation": "pero yo"
-  },
-  {
-    "word": "with the",
-    "value": 4,
-    "category": "2-gram",
-    "translation": "con el"
-  },
-  {
     "word": "the Board",
     "value": 4,
     "category": "2-gram",
     "translation": "el tablero"
-  },
-  {
-    "word": "it was",
-    "value": 4,
-    "category": "2-gram",
-    "translation": "fue"
-  },
-  {
-    "word": "of the",
-    "value": 4,
-    "category": "2-gram",
-    "translation": "del"
   },
   {
     "word": "He looked",
@@ -172,11 +106,5 @@
     "value": 3,
     "category": "2-gram",
     "translation": "Fui"
-  },
-  {
-    "word": "had a",
-    "value": 3,
-    "category": "2-gram",
-    "translation": "ten\u00eda un"
   }
 ]

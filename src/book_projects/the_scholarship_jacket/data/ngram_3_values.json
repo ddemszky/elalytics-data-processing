@@ -12,12 +12,6 @@
     "translation": "tuve que"
   },
   {
-    "word": "going to be",
-    "value": 3,
-    "category": "3-gram",
-    "translation": "va a ser"
-  },
-  {
     "word": "pay the fifteen",
     "value": 3,
     "category": "3-gram",
@@ -48,12 +42,6 @@
     "translation": "Por ocho a\u00f1os"
   },
   {
-    "word": "s what I",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "es lo que yo"
-  },
-  {
     "word": "was coming up",
     "value": 2,
     "category": "3-gram",
@@ -66,34 +54,10 @@
     "translation": "estaba casi"
   },
   {
-    "word": "and I was",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "y yo estaba"
-  },
-  {
     "word": "I was going",
     "value": 2,
     "category": "3-gram",
     "translation": "iba"
-  },
-  {
-    "word": "was going to",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "iba a"
-  },
-  {
-    "word": "but I didn",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "pero lo hice"
-  },
-  {
-    "word": "the rest of",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "el resto de"
   },
   {
     "word": "rest of the",
@@ -106,12 +70,6 @@
     "value": 2,
     "category": "3-gram",
     "translation": "unos minutos"
-  },
-  {
-    "word": "t say anything",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "No digo nada"
   },
   {
     "word": "very sad and",
@@ -144,12 +102,6 @@
     "translation": "llor\u00e9"
   },
   {
-    "word": "cried on the",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "llor\u00f3 en el"
-  },
-  {
     "word": "on the walk",
     "value": 2,
     "category": "3-gram",
@@ -166,12 +118,6 @@
     "value": 2,
     "category": "3-gram",
     "translation": "entre las filas"
-  },
-  {
-    "word": "it was my",
-    "value": 2,
-    "category": "3-gram",
-    "translation": "era mi"
   },
   {
     "word": "a scholarship jacket",

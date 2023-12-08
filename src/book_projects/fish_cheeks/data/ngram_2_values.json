@@ -18,28 +18,10 @@
     "translation": "Nochebuena"
   },
   {
-    "word": "of the",
-    "value": 3,
-    "category": "2-gram",
-    "translation": "del"
-  },
-  {
-    "word": "to be",
-    "value": 3,
-    "category": "2-gram",
-    "translation": "ser"
-  },
-  {
     "word": "my father",
     "value": 3,
     "category": "2-gram",
     "translation": "mi padre"
-  },
-  {
-    "word": "was not",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "no estaba"
   },
   {
     "word": "For Christmas",
@@ -48,40 +30,10 @@
     "translation": "Para Navidad"
   },
   {
-    "word": "that my",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "que mi"
-  },
-  {
-    "word": "s family",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "familia"
-  },
-  {
-    "word": "What would",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "\u00bfQu\u00e9 har\u00eda?"
-  },
-  {
     "word": "think of",
     "value": 2,
     "category": "2-gram",
     "translation": "pensar en"
-  },
-  {
-    "word": "of our",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "de nuestro"
-  },
-  {
-    "word": "would he",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "\u00e9l"
   },
   {
     "word": "all my",
@@ -94,29 +46,5 @@
     "value": 2,
     "category": "2-gram",
     "translation": "Mis parientes"
-  },
-  {
-    "word": "out the",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "fuera de"
-  },
-  {
-    "word": "you are",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "eres"
-  },
-  {
-    "word": "I was",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "Era"
-  },
-  {
-    "word": "I had",
-    "value": 2,
-    "category": "2-gram",
-    "translation": "Yo ten\u00eda"
   }
 ]
