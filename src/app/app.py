@@ -91,22 +91,25 @@ def generate_wordcloud_data(input_text, top_n):
         }
 
     text_data = input_text
-    print("Tokenizing and filtering stopwords...")
+    status_box = st.status(label="Generating word cloud data...", state="running")
     word_freq_data = word_frequencies(tokenize_and_filter(text_data))
     word_freq_data = dict(word_freq_data)
 
-    print(f"Getting top {top_n} words...")
     word_freq_data = top_n_values(word_freq_data, top_n)
 
     word_cloud_data = []
-    print("Translate words and format output process started...")
-    for i, word_pos_count in enumerate(word_freq_data.items()):
-        word = process_word(word_pos_count)
-        word_cloud_data.append(word)
-        if (i + 1) % 10 == 0:  # print progress every 10 words
-            print(f"Processed {i+1} words...")
+    my_bar = st.progress(0)
+    with status_box:
+        st.write("Translate words and format output process started...")
 
-    print("Writing to output file...")
+        for i, word_pos_count in enumerate(word_freq_data.items()):
+            word = process_word(word_pos_count)
+            word_cloud_data.append(word)
+            if (i + 1) % 10 == 0:  # print progress every 10 words
+                st.write(f"Processed {i+1} words...")
+            my_bar.progress((i + 1) / top_n)
+    status_box.update(label="Generating word cloud data... Done!", state="success")
+
     return word_cloud_data
 
 
@@ -121,6 +124,6 @@ if uploaded_file is not None:
             unsafe_allow_html=True,
         )
     st.write("Generating word cloud...")
-    word_cloud_data = generate_wordcloud_data(file_text, 100)
+    word_cloud_data = generate_wordcloud_data(file_text, 50)
     st.write("Word cloud generated!")
     st.write(word_cloud_data)
