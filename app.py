@@ -1,5 +1,6 @@
 import streamlit as st
 import nltk
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 from collections import Counter
 import heapq
