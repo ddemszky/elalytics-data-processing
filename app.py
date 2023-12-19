@@ -5,7 +5,18 @@ from collections import Counter
 import heapq
 import json
 import time
-from general_functions.translation import translate_to_spanish
+from deep_translator import GoogleTranslator
+
+
+def translate_to_spanish(text):
+    """Translate text to spanish
+    Args:
+        text (str): The text to be translated
+    Returns:
+        str: The translated text
+    """
+    translated_text = GoogleTranslator(source='english', target='spanish').translate(text)
+    return translated_text
 
 
 def generate_wordcloud_data(input_text, top_n):
