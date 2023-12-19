@@ -108,7 +108,7 @@ def generate_wordcloud_data(input_text, top_n):
             if (i + 1) % 10 == 0:  # print progress every 10 words
                 st.write(f"Processed {i+1} words...")
             my_bar.progress((i + 1) / top_n)
-    status_box.update(label="Generating word cloud data... Done!", state="success")
+    status_box.update(label="Generating word cloud data... Done!", state="complete")
 
     return word_cloud_data
 
