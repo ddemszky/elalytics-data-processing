@@ -131,8 +131,8 @@ def generate_wordcloud_data(input_text, top_n, categoriesToInclude=["Noun", "Ver
 
     return word_cloud_data
 
-def addDataToFirestore(documentName,data):
-    db.collection("wordclouds").document(documentName).set({"data":data})
+def addDataToFirestore(chart_title, documentName,data):
+    db.collection("wordclouds").document(documentName).set({"chartTitle":chart_title,"data":data})
 
 def checkIfDocumentExists(documentName):
     doc_ref = db.collection("wordclouds").document(documentName)
@@ -144,6 +144,7 @@ def checkIfDocumentExists(documentName):
 
 st.title("Elalytics Chart Creator")
 uploaded_file = st.file_uploader("Upload a text file", type=["txt"])
+chart_title = st.text_input("Chart Title", value="")
 word_count = st.number_input("Number of words to include in word cloud", min_value=1, max_value=250, value=30)
 options = st.multiselect(
     'Select the POS Categories to include in the word cloud',
@@ -162,7 +163,7 @@ if start_button:
     while checkIfDocumentExists(document_name):
         random_number = random.randint(100000, 999999)
         document_name = f"w{random_number}"
-    addDataToFirestore(document_name,word_cloud_data)
+    addDataToFirestore(chart_title,document_name,word_cloud_data)
 
     st.write("Word Cloud Generated!")
     st.write("View your word cloud here:")
