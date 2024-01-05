@@ -9,6 +9,8 @@ import heapq
 import json
 import time
 from deep_translator import GoogleTranslator
+from firestore_app import db
+import random
 
 
 def translate_to_spanish(text):
@@ -22,14 +24,14 @@ def translate_to_spanish(text):
     return translated_text
 
 
-def generate_wordcloud_data(input_text, top_n):
+def generate_wordcloud_data(input_text, top_n, categoriesToInclude=["Noun", "Verb", "Adjective"]):
     """
     Generates a word cloud data file from a text file
 
     Parameters:
     input_path (str): Path to the input text file
-    output_path (str): Path to the output json file
     top_n (int): Number of words to include in the word cloud
+    categoriesToInclude (list): List of word categories to include in the word cloud
     """
 
     def top_n_values(dictionary, n):
@@ -80,6 +82,9 @@ def generate_wordcloud_data(input_text, top_n):
         pos_tagged_words = [
             (word, pos_tag_mapping.get(pos, pos)) for word, pos in pos_tagged_words
         ]
+        pos_tagged_words = [
+            (word, pos) for word, pos in pos_tagged_words if pos in categoriesToInclude
+        ]
         return [
             (word.lower(), pos)
             for word, pos in pos_tagged_words
@@ -126,18 +131,42 @@ def generate_wordcloud_data(input_text, top_n):
 
     return word_cloud_data
 
+def addDataToFirestore(documentName,data):
+    db.collection("wordclouds").document(documentName).set({"data":data})
+
+def checkIfDocumentExists(documentName):
+    doc_ref = db.collection("wordclouds").document(documentName)
+    doc = doc_ref.get()
+    if doc.exists:
+        return True
+    else:
+        return False
 
 st.title("Elalytics Chart Creator")
 uploaded_file = st.file_uploader("Upload a text file", type=["txt"])
-if uploaded_file is not None:
+word_count = st.number_input("Number of words to include in word cloud", min_value=1, max_value=250, value=30)
+options = st.multiselect(
+    'Select the POS Categories to include in the word cloud',
+    ['Adjective', 'Adverb', 'Conjunction', 'Determiner', 'Existential', 'Foreign Word', 'Interjection', 'List Marker', 'Modal', 'Noun', 'Numeral', 'Particle', 'Possessive Ending', 'Possessive Wh-Pronoun', 'Preposition', 'Predeterminer', 'Pronoun', 'To', 'Verb', 'Wh-Adverb', 'Wh-Determiner', 'Wh-Pronoun']
+,
+    ['Adjective', 'Noun', 'Verb', 'Adverb'])
+start_button = st.button('Generate Word Cloud Page', disabled=uploaded_file is None)
+if start_button:
     file_text = uploaded_file.read().decode("utf-8")
-    text_container = st.container()
-    with text_container:
-        st.markdown(
-            f"""<div style="height:300px;overflow-y:auto;padding:10px">{file_text}</div>""",
-            unsafe_allow_html=True,
-        )
     st.write("Generating word cloud...")
-    word_cloud_data = generate_wordcloud_data(file_text, 50)
-    st.write("Word cloud generated!")
-    st.write(word_cloud_data)
+    word_cloud_data = generate_wordcloud_data(file_text, word_count, options)
+    st.write("Adding word cloud to firestore...")
+
+    random_number = random.randint(100000, 999999)
+    document_name = f"w{random_number}"
+    while checkIfDocumentExists(document_name):
+        random_number = random.randint(100000, 999999)
+        document_name = f"w{random_number}"
+    addDataToFirestore(document_name,word_cloud_data)
+
+    st.write("Word Cloud Generated!")
+    st.write("View your word cloud here:")
+    st.markdown(f"https://elalytics.vercel.app/wordcloud/{document_name}")
+
+
+
