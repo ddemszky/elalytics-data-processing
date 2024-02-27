@@ -1,0 +1,431 @@
+[
+    {
+        "label": "Paragraph 1",
+        "text": "Well, I came top of the class again. One hundred out of one hundred for Maths. And one hundred out of one hundred for English. I\u2019m just a natural brain, the best there is. There isn\u2019t one kid in the class who can come near me. Next to me they are all dumb.",
+        "emotion_scores": {
+            "anger": 0.061121102422475815,
+            "disgust": 0.1624094545841217,
+            "fear": 0.0036539114080369473,
+            "joy": 0.017596734687685966,
+            "sadness": 0.012301611714065075,
+            "surprise": 0.0462549589574337,
+            "neutral": 0.6966623067855835
+        }
+    },
+    {
+        "label": "Paragraph 2",
+        "text": "Even when I was a baby I was smart. The day that I was born my mother started tickling me. \u2018Bub, bub, bub,\u2019 she said.",
+        "emotion_scores": {
+            "anger": 0.047312233597040176,
+            "disgust": 0.7471774816513062,
+            "fear": 0.06216191127896309,
+            "joy": 0.017305484041571617,
+            "sadness": 0.01235452201217413,
+            "surprise": 0.006468527019023895,
+            "neutral": 0.10721975564956665
+        }
+    },
+    {
+        "label": "Paragraph 3",
+        "text": "\u2018Cut it out, Mum,\u2019 I told her. \u2018That tickles.\u2019 She nearly fell out of bed when I said that. I was very advanced for my age.",
+        "emotion_scores": {
+            "anger": 0.05594383180141449,
+            "disgust": 0.031675875186920166,
+            "fear": 0.6720975637435913,
+            "joy": 0.00470755435526371,
+            "sadness": 0.02849448099732399,
+            "surprise": 0.08600738644599915,
+            "neutral": 0.12107332795858383
+        }
+    },
+    {
+        "label": "Paragraph 4",
+        "text": "Every year I win a lot of prizes: top of the class, top of the school, stuff like that. I won a prize for spelling when I was only three years old. I am a terrific speller. If you can say it, I can spell it. Nobody can trick me on spelling. I can spell every word there is.",
+        "emotion_scores": {
+            "anger": 0.019762996584177017,
+            "disgust": 0.0077076079323887825,
+            "fear": 0.003795105963945389,
+            "joy": 0.7127604484558105,
+            "sadness": 0.0028452896513044834,
+            "surprise": 0.03611927479505539,
+            "neutral": 0.2170092910528183
+        }
+    },
+    {
+        "label": "Paragraph 5",
+        "text": "Some kids don\u2019t like me; I know that for a fact. They say I\u2019m a show-off. I don\u2019t care. They are just jealous because they are not as clever as me. I\u2019m good looking too. That\u2019s another reason why they are jealous.",
+        "emotion_scores": {
+            "anger": 0.4269248843193054,
+            "disgust": 0.40751492977142334,
+            "fear": 0.0032996900845319033,
+            "joy": 0.008397840894758701,
+            "sadness": 0.015511106699705124,
+            "surprise": 0.005923749879002571,
+            "neutral": 0.13242778182029724
+        }
+    },
+    {
+        "label": "Paragraph 6",
+        "text": "Last week something bad happened. Another kid got one hundred out of one hundred for Maths too. That never happened before \u2013 no one has ever done as well as me. I am always first on my own. A kid called Jerome Dadian beat me. He must have cheated. I was sure he cheated. It had something to do with that ice-cream. I was sure of it. I decided to find out what was going on; I wasn\u2019t going to let anyone pull a fast one on me.",
+        "emotion_scores": {
+            "anger": 0.09062987565994263,
+            "disgust": 0.2462458312511444,
+            "fear": 0.015705708414316177,
+            "joy": 0.0073558492586016655,
+            "sadness": 0.17525741457939148,
+            "surprise": 0.046422962099313736,
+            "neutral": 0.4183822572231293
+        }
+    },
+    {
+        "label": "Paragraph 7",
+        "text": "It all started with the ice-cream man, Mr Peppi. The old fool had a van which he parked outside the school. He sold ice-cream, all different types. He had every flavour there is, and some that I had never heard of before.",
+        "emotion_scores": {
+            "anger": 0.03627457469701767,
+            "disgust": 0.06511352211236954,
+            "fear": 0.003754586214199662,
+            "joy": 0.013944718986749649,
+            "sadness": 0.008052636869251728,
+            "surprise": 0.04961642622947693,
+            "neutral": 0.8232435584068298
+        }
+    },
+    {
+        "label": "Paragraph 8",
+        "text": "He didn\u2019t like me very much. He told me off once. \u2018Go to the back of the queue,\u2019 he said. \u2018You pushed in.\u2019",
+        "emotion_scores": {
+            "anger": 0.4934183359146118,
+            "disgust": 0.42040279507637024,
+            "fear": 0.02040635235607624,
+            "joy": 0.00261469348333776,
+            "sadness": 0.02175050601363182,
+            "surprise": 0.005206712055951357,
+            "neutral": 0.03620056062936783
+        }
+    },
+    {
+        "label": "Paragraph 9",
+        "text": "\u2018Mind your own business, Pop,\u2019 I told him. \u2018Just hand over the ice-cream.\u2019",
+        "emotion_scores": {
+            "anger": 0.28528761863708496,
+            "disgust": 0.19391173124313354,
+            "fear": 0.027685653418302536,
+            "joy": 0.004302013665437698,
+            "sadness": 0.010867143981158733,
+            "surprise": 0.0035820072516798973,
+            "neutral": 0.4743638038635254
+        }
+    },
+    {
+        "label": "Paragraph 10",
+        "text": "\u2018No,\u2019 he said. \u2018I won\u2019t serve you unless you go to the back.\u2019",
+        "emotion_scores": {
+            "anger": 0.25892335176467896,
+            "disgust": 0.15082259476184845,
+            "fear": 0.06164214387536049,
+            "joy": 0.005124514922499657,
+            "sadness": 0.02724871039390564,
+            "surprise": 0.001544805709272623,
+            "neutral": 0.49469393491744995
+        }
+    },
+    {
+        "label": "Paragraph 11",
+        "text": "I went round to the back of the van, but I didn\u2019t get in the queue. I took out a nail and made a long scratch on his rotten old van. He had just had it painted. Peppi came and had a look. Tears came into his eyes. \u2018You are a bad boy,\u2019 he said. \u2018One day you will get into trouble. You think you are smart. One day you will be too smart.\u2019",
+        "emotion_scores": {
+            "anger": 0.15053753554821014,
+            "disgust": 0.6383970379829407,
+            "fear": 0.02254342846572399,
+            "joy": 0.0026588423643261194,
+            "sadness": 0.08253514021635056,
+            "surprise": 0.008457144722342491,
+            "neutral": 0.094870924949646
+        }
+    },
+    {
+        "label": "Paragraph 12",
+        "text": "I just laughed and walked off. I knew he wouldn\u2019t do anything. He was too soft-hearted. He was always giving free ice-creams to kids that had no money. He felt sorry for poor people. The silly fool.",
+        "emotion_scores": {
+            "anger": 0.018529623746871948,
+            "disgust": 0.24524188041687012,
+            "fear": 0.0033771523740142584,
+            "joy": 0.015711141750216484,
+            "sadness": 0.5616965293884277,
+            "surprise": 0.007546320557594299,
+            "neutral": 0.14789734780788422
+        }
+    },
+    {
+        "label": "Paragraph 13",
+        "text": "There were a lot of stories going round about that ice-cream. People said that it was good for you. Some kids said that it made you better when you were sick. One of the teachers called it \u2018Happy Ice-Cream\u2019. I didn\u2019t believe it; it never made me happy.",
+        "emotion_scores": {
+            "anger": 0.06275780498981476,
+            "disgust": 0.044847406446933746,
+            "fear": 0.005981961265206337,
+            "joy": 0.06218650937080383,
+            "sadness": 0.02505502849817276,
+            "surprise": 0.7131021022796631,
+            "neutral": 0.08606915175914764
+        }
+    },
+    {
+        "label": "Paragraph 14",
+        "text": "All the same, there was something strange about it. Take Pimples Peterson for example. That wasn\u2019t his real name \u2013 I just called him that because he had a lot of pimples. Anyway, Peppi heard me calling Peterson \u2018Pimples\u2019. \u2018You are a real mean boy,\u2019 he said. \u2018You are always picking on someone else, just because they are not like you.\u2019",
+        "emotion_scores": {
+            "anger": 0.21375426650047302,
+            "disgust": 0.7084333896636963,
+            "fear": 0.015915777534246445,
+            "joy": 0.0016134264878928661,
+            "sadness": 0.006717361975461245,
+            "surprise": 0.01788698323071003,
+            "neutral": 0.03567870333790779
+        }
+    },
+    {
+        "label": "Paragraph 15",
+        "text": "\u2018Get lost, Peppi,\u2019 I said. \u2018Go and flog your ice-cream somewhere else.\u2019",
+        "emotion_scores": {
+            "anger": 0.06684570759534836,
+            "disgust": 0.09435227513313293,
+            "fear": 0.05915851518511772,
+            "joy": 0.006917761638760567,
+            "sadness": 0.032549891620874405,
+            "surprise": 0.0035813157446682453,
+            "neutral": 0.736594557762146
+        }
+    },
+    {
+        "label": "Paragraph 16",
+        "text": "Peppi didn\u2019t answer me. Instead he spoke to Pimples. \u2018Here, eat this,\u2019 he told him. He handed Peterson an ice-cream. It was the biggest ice-cream I had ever seen. It was coloured purple. Peterson wasn\u2019t too sure about it. He didn\u2019t think he had enough money for such a big ice-cream.",
+        "emotion_scores": {
+            "anger": 0.022317709401249886,
+            "disgust": 0.04112662374973297,
+            "fear": 0.00547304330393672,
+            "joy": 0.0028841146267950535,
+            "sadness": 0.004259591922163963,
+            "surprise": 0.800971508026123,
+            "neutral": 0.12296747416257858
+        }
+    },
+    {
+        "label": "Paragraph 17",
+        "text": "\u2018Go on,\u2019 said Mr Peppi. \u2018Eat it. I am giving it to you for nothing. It will get rid of your pimples.\u2019",
+        "emotion_scores": {
+            "anger": 0.45472392439842224,
+            "disgust": 0.2698207199573517,
+            "fear": 0.055476199835538864,
+            "joy": 0.00430882116779685,
+            "sadness": 0.023861045017838478,
+            "surprise": 0.0022632498294115067,
+            "neutral": 0.18954592943191528
+        }
+    },
+    {
+        "label": "Paragraph 18",
+        "text": "I laughed and laughed. Ice-cream doesn\u2019t get rid of pimples, it gives you pimples. Anyway, the next day when Peterson came to school he had no pimples. Not one. I couldn\u2019t believe it. The ice-cream had cured his pimples.",
+        "emotion_scores": {
+            "anger": 0.030524319037795067,
+            "disgust": 0.053618136793375015,
+            "fear": 0.004086585715413094,
+            "joy": 0.06039227545261383,
+            "sadness": 0.008094791322946548,
+            "surprise": 0.7725231051445007,
+            "neutral": 0.07076078653335571
+        }
+    },
+    {
+        "label": "Paragraph 19",
+        "text": "There were some other strange things that happened too. There was a kid at the school who had a long nose. Boy, was it long. He looked like Pinocchio. When he blew it you could hear it a mile away. I called him \u2018Snozzle\u2019. He didn\u2019t like being called Snozzle. He used to go red in the face when I said it, and that was every time that I saw him. He didn\u2019t say anything back \u2013 he was scared that I would punch him up.",
+        "emotion_scores": {
+            "anger": 0.03993955999612808,
+            "disgust": 0.2062392234802246,
+            "fear": 0.4057552218437195,
+            "joy": 0.003846521954983473,
+            "sadness": 0.011250772513449192,
+            "surprise": 0.05947641655802727,
+            "neutral": 0.2734921872615814
+        }
+    },
+    {
+        "label": "Paragraph 20",
+        "text": "Peppi felt sorry for Snozzle too. He gave him a small green ice-cream every morning, for nothing. What a jerk. He never gave me a free ice-cream.",
+        "emotion_scores": {
+            "anger": 0.01252773031592369,
+            "disgust": 0.052668653428554535,
+            "fear": 0.002982228994369507,
+            "joy": 0.002811254933476448,
+            "sadness": 0.878413736820221,
+            "surprise": 0.011864309199154377,
+            "neutral": 0.038732048124074936
+        }
+    },
+    {
+        "label": "Paragraph 21",
+        "text": "You won\u2019t believe what happened but I swear it\u2019s true. Snozzle\u2019s nose began to grow smaller. Every day it grew a bit smaller. In the end it was just a normal nose. When it was the right size Peppi stopped giving him the green ice-creams.",
+        "emotion_scores": {
+            "anger": 0.03204343095421791,
+            "disgust": 0.15512605011463165,
+            "fear": 0.009926334954798222,
+            "joy": 0.0030204071663320065,
+            "sadness": 0.01660754159092903,
+            "surprise": 0.36592429876327515,
+            "neutral": 0.41735193133354187
+        }
+    },
+    {
+        "label": "Paragraph 22",
+        "text": "I made up my mind to put a stop to this ice-cream business. Jerome Dadian had been eating ice-cream the day he got one hundred for Maths. It must have been the ice-cream making him smart. I wasn\u2019t going to have anyone doing as well as me. I was the smartest kid in the school, and that\u2019s the way I wanted it to stay. I wanted to get a look inside that ice-cream van to find out what was going on.",
+        "emotion_scores": {
+            "anger": 0.027686774730682373,
+            "disgust": 0.024797679856419563,
+            "fear": 0.002379918470978737,
+            "joy": 0.023106468841433525,
+            "sadness": 0.005871448200196028,
+            "surprise": 0.022723790258169174,
+            "neutral": 0.8934338688850403
+        }
+    },
+    {
+        "label": "Paragraph 23",
+        "text": "I knew where Peppi kept his van at night \u2013 he left it in a small lane behind his house. I waited until about eleven o\u2019clock at night. Then I crept out of the house and down to Peppi\u2019s van. I took a crowbar, a bucket of sand, a torch and some bolt cutters with me.",
+        "emotion_scores": {
+            "anger": 0.023039447143673897,
+            "disgust": 0.014855067245662212,
+            "fear": 0.7906290292739868,
+            "joy": 0.0029905398841947317,
+            "sadness": 0.008046599105000496,
+            "surprise": 0.019993385300040245,
+            "neutral": 0.14044588804244995
+        }
+    },
+    {
+        "label": "Paragraph 24",
+        "text": "There was no one around when I reached the van. I sprang the door open with the crowbar and shone my torch around inside. I had never seen so many tubs of ice-cream before. There was every flavour you could think of: there was apple and banana, cherry and mango, blackberry and watermelon and about fifty other flavours. Right at the end of the van were four bins with locks on them. I went over and had a look. It was just as I thought \u2013 these were his special flavours. Each one had writing on the top. This is what they said:",
+        "emotion_scores": {
+            "anger": 0.016071055084466934,
+            "disgust": 0.02515665628015995,
+            "fear": 0.004900379106402397,
+            "joy": 0.010278628207743168,
+            "sadness": 0.0024025936145335436,
+            "surprise": 0.1173258125782013,
+            "neutral": 0.8238648772239685
+        }
+    },
+    {
+        "label": "Paragraph 25",
+        "text": "HAPPY ICE-CREAM for cheering people up.",
+        "emotion_scores": {
+            "anger": 0.0031546661630272865,
+            "disgust": 0.0011506821028888226,
+            "fear": 0.0008153502130880952,
+            "joy": 0.9645912051200867,
+            "sadness": 0.002007545903325081,
+            "surprise": 0.008048653602600098,
+            "neutral": 0.02023189142346382
+        }
+    },
+    {
+        "label": "Paragraph 26",
+        "text": "NOSE ICE-CREAM for long noses.",
+        "emotion_scores": {
+            "anger": 0.12856236100196838,
+            "disgust": 0.12518884241580963,
+            "fear": 0.06424649804830551,
+            "joy": 0.0019706974271684885,
+            "sadness": 0.024922015145421028,
+            "surprise": 0.007549742236733437,
+            "neutral": 0.6475598216056824
+        }
+    },
+    {
+        "label": "Paragraph 27",
+        "text": "PIMPLE ICE-CREAM for removing pimples.",
+        "emotion_scores": {
+            "anger": 0.12810620665550232,
+            "disgust": 0.11326246708631516,
+            "fear": 0.0655469223856926,
+            "joy": 0.0063112578354775906,
+            "sadness": 0.015082557685673237,
+            "surprise": 0.010134722106158733,
+            "neutral": 0.661555826663971
+        }
+    },
+    {
+        "label": "Paragraph 28",
+        "text": "SMART ICE-CREAM for smart alecs.",
+        "emotion_scores": {
+            "anger": 0.02757107838988304,
+            "disgust": 0.004437061492353678,
+            "fear": 0.04397042095661163,
+            "joy": 0.004051146563142538,
+            "sadness": 0.0038986699655652046,
+            "surprise": 0.05076200142502785,
+            "neutral": 0.8653096556663513
+        }
+    },
+    {
+        "label": "Paragraph 29",
+        "text": "Now I knew his secret. That rat Dadian had been eating Smart Ice-cream; that\u2019s how he got one hundred for Maths. I knew there couldn\u2019t be anyone as clever as me. I decided to fix Peppi up once and for all. I took out the bolt cutters and cut the locks off the four bins; then I put sand into every bin in the van. Except for the Smart Ice-cream. I didn\u2019t put any sand in that.",
+        "emotion_scores": {
+            "anger": 0.05251326039433479,
+            "disgust": 0.05799752473831177,
+            "fear": 0.0027798181399703026,
+            "joy": 0.010382375679910183,
+            "sadness": 0.012224015779793262,
+            "surprise": 0.0260207150131464,
+            "neutral": 0.8380821943283081
+        }
+    },
+    {
+        "label": "Paragraph 30",
+        "text": "I laughed to myself. Peppi wouldn\u2019t sell much ice-cream now. Not unless he started a new flavour \u2013 Sand Ice-cream. I looked at the Smart Ice-cream. I decided to eat some; it couldn\u2019t do any harm. Not that I needed it \u2013 I was already about as smart as you could get. Anyway, I gave it a try. I ate the lot. Once I started I couldn\u2019t stop. It tasted good. It was delicious.",
+        "emotion_scores": {
+            "anger": 0.012876851484179497,
+            "disgust": 0.07533524930477142,
+            "fear": 0.0020504386629909277,
+            "joy": 0.48872455954551697,
+            "sadness": 0.007817515172064304,
+            "surprise": 0.006795541848987341,
+            "neutral": 0.40639984607696533
+        }
+    },
+    {
+        "label": "Paragraph 31",
+        "text": "I left the van and went home to bed, but I couldn\u2019t sleep. To tell the truth, I didn\u2019t feel too good. So I decided to write this. Then if any funny business has been going on you people will know what happened. I think I have made a mistake. I don\u2019t think Dadian did get any Smart Ice-Cream.",
+        "emotion_scores": {
+            "anger": 0.012987523339688778,
+            "disgust": 0.06274326145648956,
+            "fear": 0.01977476291358471,
+            "joy": 0.025223450735211372,
+            "sadness": 0.5130172967910767,
+            "surprise": 0.14916108548641205,
+            "neutral": 0.21709267795085907
+        }
+    },
+    {
+        "label": "Paragraph 32",
+        "text": "*  *  *  *  *",
+        "emotion_scores": {
+            "anger": 0.042519304901361465,
+            "disgust": 0.023716958239674568,
+            "fear": 0.0521092414855957,
+            "joy": 0.21786023676395416,
+            "sadness": 0.1500152051448822,
+            "surprise": 0.23210525512695312,
+            "neutral": 0.281673789024353
+        }
+    },
+    {
+        "label": "Paragraph 33",
+        "text": "It iz the nekst day now. Somefing iz hapening to me. I don\u2019t feal quite az smart. I have bean trying to do a reel hard sum. It iz wun and wun. Wot duz wun and wun make? Iz it free or iz it for?",
+        "emotion_scores": {
+            "anger": 0.014090171083807945,
+            "disgust": 0.005144030321389437,
+            "fear": 0.008222411386668682,
+            "joy": 0.03130174055695534,
+            "sadness": 0.05442165955901146,
+            "surprise": 0.38544973731040955,
+            "neutral": 0.5013701915740967
+        }
+    }
+]

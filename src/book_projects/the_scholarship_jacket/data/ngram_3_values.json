@@ -1,0 +1,128 @@
+[
+  {
+    "word": "the scholarship jacket",
+    "value": 4,
+    "category": "3-gram",
+    "translation": "la chaqueta de beca"
+  },
+  {
+    "word": "I had to",
+    "value": 3,
+    "category": "3-gram",
+    "translation": "tuve que"
+  },
+  {
+    "word": "pay the fifteen",
+    "value": 3,
+    "category": "3-gram",
+    "translation": "paga los quince"
+  },
+  {
+    "word": "the highest grades",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "las calificaciones m\u00e1s altas"
+  },
+  {
+    "word": "highest grades for",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "calificaciones m\u00e1s altas para"
+  },
+  {
+    "word": "grades for eight",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "grados para ocho"
+  },
+  {
+    "word": "for eight years",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "Por ocho a\u00f1os"
+  },
+  {
+    "word": "was coming up",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "estaba subiendo"
+  },
+  {
+    "word": "I was almost",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "estaba casi"
+  },
+  {
+    "word": "I was going",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "iba"
+  },
+  {
+    "word": "rest of the",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "El resto de"
+  },
+  {
+    "word": "a few minutes",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "unos minutos"
+  },
+  {
+    "word": "very sad and",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "muy triste y"
+  },
+  {
+    "word": "in the eyes",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "en los ojos"
+  },
+  {
+    "word": "for the jacket",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "para la chaqueta"
+  },
+  {
+    "word": "be given to",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "ser dado a"
+  },
+  {
+    "word": "I cried on",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "llor\u00e9"
+  },
+  {
+    "word": "on the walk",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "en el paseo"
+  },
+  {
+    "word": "the walk home",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "el camino a casa"
+  },
+  {
+    "word": "between the rows",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "entre las filas"
+  },
+  {
+    "word": "a scholarship jacket",
+    "value": 2,
+    "category": "3-gram",
+    "translation": "una chaqueta de beca"
+  }
+]

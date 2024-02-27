@@ -1,0 +1,50 @@
+[
+  {
+    "word": "my mother",
+    "value": 4,
+    "category": "2-gram",
+    "translation": "mi madre"
+  },
+  {
+    "word": "the minister",
+    "value": 3,
+    "category": "2-gram",
+    "translation": "el ministro"
+  },
+  {
+    "word": "Christmas Eve",
+    "value": 3,
+    "category": "2-gram",
+    "translation": "Nochebuena"
+  },
+  {
+    "word": "my father",
+    "value": 3,
+    "category": "2-gram",
+    "translation": "mi padre"
+  },
+  {
+    "word": "For Christmas",
+    "value": 2,
+    "category": "2-gram",
+    "translation": "Para Navidad"
+  },
+  {
+    "word": "think of",
+    "value": 2,
+    "category": "2-gram",
+    "translation": "pensar en"
+  },
+  {
+    "word": "all my",
+    "value": 2,
+    "category": "2-gram",
+    "translation": "toda mi"
+  },
+  {
+    "word": "My relatives",
+    "value": 2,
+    "category": "2-gram",
+    "translation": "Mis parientes"
+  }
+]

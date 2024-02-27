@@ -1,0 +1,57 @@
+[
+  {
+    "word": "highest grades for eight",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "calificaciones m\u00e1s altas para ocho"
+  },
+  {
+    "word": "grades for eight years",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "calificaciones durante ocho a\u00f1os"
+  },
+  {
+    "word": "I was going to",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "Yo iba a"
+  },
+  {
+    "word": "the rest of the",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "el resto de"
+  },
+  {
+    "word": "I cried on the",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "llor\u00e9 en el"
+  },
+
+  {
+    "word": "on the walk home",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "en el camino a casa"
+  },
+  {
+    "word": "back to the house",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "de vuelta a la casa"
+  },
+  {
+    "word": "I was angry with",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "estaba enojado con"
+  },
+  {
+    "word": "I gave him a",
+    "value": 2,
+    "category": "4-gram",
+    "translation": "le di un"
+  }
+]

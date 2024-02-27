@@ -1,0 +1,902 @@
+[
+    {
+        "word": "i",
+        "value": 119,
+        "category": "Pronoun",
+        "translation": "i"
+    },
+    {
+        "word": "he",
+        "value": 18,
+        "category": "Pronoun",
+        "translation": "\u00e9l"
+    },
+    {
+        "word": "jacket",
+        "value": 16,
+        "category": "Noun",
+        "translation": "chaqueta"
+    },
+    {
+        "word": "looked",
+        "value": 14,
+        "category": "Verb",
+        "translation": "mir\u00f3"
+    },
+    {
+        "word": "said",
+        "value": 10,
+        "category": "Verb",
+        "translation": "dicho"
+    },
+    {
+        "word": "grandpa",
+        "value": 10,
+        "category": "Noun",
+        "translation": "abuelo"
+    },
+    {
+        "word": "back",
+        "value": 9,
+        "category": "Adverb",
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "the",
+        "value": 8,
+        "category": "Determiner",
+        "translation": "el"
+    },
+    {
+        "word": "scholarship",
+        "value": 8,
+        "category": "Noun",
+        "translation": "beca"
+    },
+    {
+        "word": "knew",
+        "value": 8,
+        "category": "Verb",
+        "translation": "sab\u00eda"
+    },
+    {
+        "word": "could",
+        "value": 8,
+        "category": "Modal",
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "it",
+        "value": 8,
+        "category": "Pronoun",
+        "translation": "\u00e9l"
+    },
+    {
+        "word": "went",
+        "value": 7,
+        "category": "Verb",
+        "translation": "fue"
+    },
+    {
+        "word": "money",
+        "value": 6,
+        "category": "Noun",
+        "translation": "dinero"
+    },
+    {
+        "word": "say",
+        "value": 6,
+        "category": "Verb",
+        "translation": "decir"
+    },
+    {
+        "word": "see",
+        "value": 6,
+        "category": "Verb",
+        "translation": "ver"
+    },
+    {
+        "word": "school",
+        "value": 5,
+        "category": "Noun",
+        "translation": "escuela"
+    },
+    {
+        "word": "year",
+        "value": 5,
+        "category": "Noun",
+        "translation": "a\u00f1o"
+    },
+    {
+        "word": "time",
+        "value": 5,
+        "category": "Noun",
+        "translation": "tiempo"
+    },
+    {
+        "word": "still",
+        "value": 5,
+        "category": "Adverb",
+        "translation": "a\u00fan"
+    },
+    {
+        "word": "going",
+        "value": 5,
+        "category": "Verb",
+        "translation": "yendo"
+    },
+    {
+        "word": "know",
+        "value": 5,
+        "category": "Verb",
+        "translation": "saber"
+    },
+    {
+        "word": "waited",
+        "value": 5,
+        "category": "Verb",
+        "translation": "esper\u00f3"
+    },
+    {
+        "word": "principal",
+        "value": 5,
+        "category": "Noun",
+        "translation": "principal"
+    },
+    {
+        "word": "eyes",
+        "value": 5,
+        "category": "Noun",
+        "translation": "ojos"
+    },
+    {
+        "word": "fifteen",
+        "value": 5,
+        "category": "Adjective",
+        "translation": "quince"
+    },
+    {
+        "word": "pay",
+        "value": 5,
+        "category": "Verb",
+        "translation": "pagar"
+    },
+    {
+        "word": "ask",
+        "value": 5,
+        "category": "Verb",
+        "translation": "preguntar"
+    },
+    {
+        "word": "eight",
+        "value": 4,
+        "category": "Numeral",
+        "translation": "ocho"
+    },
+    {
+        "word": "years",
+        "value": 4,
+        "category": "Noun",
+        "translation": "a\u00f1os"
+    },
+    {
+        "word": "big",
+        "value": 4,
+        "category": "Adjective",
+        "translation": "grande"
+    },
+    {
+        "word": "straight",
+        "value": 4,
+        "category": "Adverb",
+        "translation": "derecho"
+    },
+    {
+        "word": "even",
+        "value": 4,
+        "category": "Adverb",
+        "translation": "incluso"
+    },
+    {
+        "word": "schmidt",
+        "value": 4,
+        "category": "Noun",
+        "translation": "Schmidt"
+    },
+    {
+        "word": "martha",
+        "value": 4,
+        "category": "Noun",
+        "translation": "marta"
+    },
+    {
+        "word": "board",
+        "value": 4,
+        "category": "Noun",
+        "translation": "junta"
+    },
+    {
+        "word": "day",
+        "value": 4,
+        "category": "Noun",
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "next",
+        "value": 4,
+        "category": "Adjective",
+        "translation": "pr\u00f3ximo"
+    },
+    {
+        "word": "grandfather",
+        "value": 4,
+        "category": "Noun",
+        "translation": "abuelo"
+    },
+    {
+        "word": "little",
+        "value": 4,
+        "category": "Adjective",
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "tell",
+        "value": 4,
+        "category": "Verb",
+        "translation": "decir"
+    },
+    {
+        "word": "something",
+        "value": 4,
+        "category": "Noun",
+        "translation": "algo"
+    },
+    {
+        "word": "stood",
+        "value": 4,
+        "category": "Verb",
+        "translation": "permaneci\u00f3"
+    },
+    {
+        "word": "small",
+        "value": 3,
+        "category": "Adjective",
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "graduation",
+        "value": 3,
+        "category": "Noun",
+        "translation": "graduaci\u00f3n"
+    },
+    {
+        "word": "gold",
+        "value": 3,
+        "category": "Noun",
+        "translation": "oro"
+    },
+    {
+        "word": "class",
+        "value": 3,
+        "category": "Noun",
+        "translation": "clase"
+    },
+    {
+        "word": "grades",
+        "value": 3,
+        "category": "Noun",
+        "translation": "Los grados"
+    },
+    {
+        "word": "last",
+        "value": 3,
+        "category": "Adjective",
+        "translation": "\u00faltimo"
+    },
+    {
+        "word": "father",
+        "value": 3,
+        "category": "Noun",
+        "translation": "padre"
+    },
+    {
+        "word": "given",
+        "value": 3,
+        "category": "Verb",
+        "translation": "dado"
+    },
+    {
+        "word": "this",
+        "value": 3,
+        "category": "Determiner",
+        "translation": "este"
+    },
+    {
+        "word": "chance",
+        "value": 3,
+        "category": "Noun",
+        "translation": "oportunidad"
+    },
+    {
+        "word": "usual",
+        "value": 3,
+        "category": "Adjective",
+        "translation": "habitual"
+    },
+    {
+        "word": "one",
+        "value": 3,
+        "category": "Noun",
+        "translation": "uno"
+    },
+    {
+        "word": "desk",
+        "value": 3,
+        "category": "Noun",
+        "translation": "escritorio"
+    },
+    {
+        "word": "grandma",
+        "value": 3,
+        "category": "Noun",
+        "translation": "abuela"
+    },
+    {
+        "word": "late",
+        "value": 3,
+        "category": "Adjective",
+        "translation": "tarde"
+    },
+    {
+        "word": "boone",
+        "value": 3,
+        "category": "Noun",
+        "translation": "boone"
+    },
+    {
+        "word": "angry",
+        "value": 3,
+        "category": "Adjective",
+        "translation": "enojado"
+    },
+    {
+        "word": "words",
+        "value": 3,
+        "category": "Noun",
+        "translation": "palabras"
+    },
+    {
+        "word": "came",
+        "value": 3,
+        "category": "Verb",
+        "translation": "vino"
+    },
+    {
+        "word": "anything",
+        "value": 3,
+        "category": "Noun",
+        "translation": "cualquier cosa"
+    },
+    {
+        "word": "cried",
+        "value": 3,
+        "category": "Verb",
+        "translation": "llorado"
+    },
+    {
+        "word": "throat",
+        "value": 3,
+        "category": "Noun",
+        "translation": "garganta"
+    },
+    {
+        "word": "dollars",
+        "value": 3,
+        "category": "Noun",
+        "translation": "dolares"
+    },
+    {
+        "word": "looking",
+        "value": 3,
+        "category": "Verb",
+        "translation": "mirando"
+    },
+    {
+        "word": "asked",
+        "value": 3,
+        "category": "Verb",
+        "translation": "pregunt\u00f3"
+    },
+    {
+        "word": "plants",
+        "value": 3,
+        "category": "Noun",
+        "translation": "plantas"
+    },
+    {
+        "word": "walked",
+        "value": 3,
+        "category": "Verb",
+        "translation": "camin\u00f3"
+    },
+    {
+        "word": "turned",
+        "value": 3,
+        "category": "Verb",
+        "translation": "transformado"
+    },
+    {
+        "word": "what",
+        "value": 3,
+        "category": "Wh-Pronoun",
+        "translation": "qu\u00e9"
+    },
+    {
+        "word": "weeds",
+        "value": 3,
+        "category": "Noun",
+        "translation": "malas hierbas"
+    },
+    {
+        "word": "ran",
+        "value": 3,
+        "category": "Verb",
+        "translation": "corri\u00f3"
+    },
+    {
+        "word": "gave",
+        "value": 3,
+        "category": "Verb",
+        "translation": "dio"
+    },
+    {
+        "word": "carried",
+        "value": 2,
+        "category": "Verb",
+        "translation": "transportado"
+    },
+    {
+        "word": "every",
+        "value": 2,
+        "category": "Determiner",
+        "translation": "cada"
+    },
+    {
+        "word": "green",
+        "value": 2,
+        "category": "Adjective",
+        "translation": "verde"
+    },
+    {
+        "word": "student",
+        "value": 2,
+        "category": "Noun",
+        "translation": "alumno"
+    },
+    {
+        "word": "highest",
+        "value": 2,
+        "category": "Adjective",
+        "translation": "m\u00e1s alto"
+    },
+    {
+        "word": "written",
+        "value": 2,
+        "category": "Verb",
+        "translation": "escrito"
+    },
+    {
+        "word": "pocket",
+        "value": 2,
+        "category": "Noun",
+        "translation": "bolsillo"
+    },
+    {
+        "word": "my",
+        "value": 2,
+        "category": "Pronoun",
+        "translation": "mi"
+    },
+    {
+        "word": "expected",
+        "value": 2,
+        "category": "Verb",
+        "translation": "esperado"
+    },
+    {
+        "word": "grade",
+        "value": 2,
+        "category": "Noun",
+        "translation": "calificaci\u00f3n"
+    },
+    {
+        "word": "we",
+        "value": 2,
+        "category": "Pronoun",
+        "translation": "nosotros"
+    },
+    {
+        "word": "sports",
+        "value": 2,
+        "category": "Noun",
+        "translation": "Deportes"
+    },
+    {
+        "word": "town",
+        "value": 2,
+        "category": "Noun",
+        "translation": "ciudad"
+    },
+    {
+        "word": "though",
+        "value": 2,
+        "category": "Preposition",
+        "translation": "aunque"
+    },
+    {
+        "word": "would",
+        "value": 2,
+        "category": "Modal",
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "stared",
+        "value": 2,
+        "category": "Verb",
+        "translation": "mir\u00f3 fijamente"
+    },
+    {
+        "word": "called",
+        "value": 2,
+        "category": "Verb",
+        "translation": "llamado"
+    },
+    {
+        "word": "bean",
+        "value": 2,
+        "category": "Noun",
+        "translation": "frijol"
+    },
+    {
+        "word": "flat",
+        "value": 2,
+        "category": "Adjective",
+        "translation": "departamento"
+    },
+    {
+        "word": "chest",
+        "value": 2,
+        "category": "Noun",
+        "translation": "pecho"
+    },
+    {
+        "word": "much",
+        "value": 2,
+        "category": "Adverb",
+        "translation": "mucho"
+    },
+    {
+        "word": "history",
+        "value": 2,
+        "category": "Noun",
+        "translation": "historia"
+    },
+    {
+        "word": "coming",
+        "value": 2,
+        "category": "Verb",
+        "translation": "pr\u00f3ximo"
+    },
+    {
+        "word": "then",
+        "value": 2,
+        "category": "Adverb",
+        "translation": "entonces"
+    },
+    {
+        "word": "shorts",
+        "value": 2,
+        "category": "Noun",
+        "translation": "bermudas"
+    },
+    {
+        "word": "bag",
+        "value": 2,
+        "category": "Noun",
+        "translation": "bolsa"
+    },
+    {
+        "word": "way",
+        "value": 2,
+        "category": "Noun",
+        "translation": "forma"
+    },
+    {
+        "word": "get",
+        "value": 2,
+        "category": "Verb",
+        "translation": "conseguir"
+    },
+    {
+        "word": "someone",
+        "value": 2,
+        "category": "Noun",
+        "translation": "alguien"
+    },
+    {
+        "word": "she",
+        "value": 2,
+        "category": "Pronoun",
+        "translation": "ella"
+    },
+    {
+        "word": "tried",
+        "value": 2,
+        "category": "Verb",
+        "translation": "intent\u00f3"
+    },
+    {
+        "word": "almost",
+        "value": 2,
+        "category": "Adverb",
+        "translation": "casi"
+    },
+    {
+        "word": "door",
+        "value": 2,
+        "category": "Noun",
+        "translation": "puerta"
+    },
+    {
+        "word": "voices",
+        "value": 2,
+        "category": "Noun",
+        "translation": "voces"
+    },
+    {
+        "word": "argument",
+        "value": 2,
+        "category": "Noun",
+        "translation": "argumento"
+    },
+    {
+        "word": "stopped",
+        "value": 2,
+        "category": "Verb",
+        "translation": "interrumpido"
+    },
+    {
+        "word": "mean",
+        "value": 2,
+        "category": "Noun",
+        "translation": "significar"
+    },
+    {
+        "word": "want",
+        "value": 2,
+        "category": "Verb",
+        "translation": "desear"
+    },
+    {
+        "word": "teacher",
+        "value": 2,
+        "category": "Noun",
+        "translation": "maestro"
+    },
+    {
+        "word": "seemed",
+        "value": 2,
+        "category": "Verb",
+        "translation": "pareci\u00f3"
+    },
+    {
+        "word": "believe",
+        "value": 2,
+        "category": "Verb",
+        "translation": "creer"
+    },
+    {
+        "word": "remember",
+        "value": 2,
+        "category": "Verb",
+        "translation": "recordar"
+    },
+    {
+        "word": "shock",
+        "value": 2,
+        "category": "Noun",
+        "translation": "choque"
+    },
+    {
+        "word": "trying",
+        "value": 2,
+        "category": "Verb",
+        "translation": "intentando"
+    },
+    {
+        "word": "sounded",
+        "value": 2,
+        "category": "Verb",
+        "translation": "son\u00f3"
+    },
+    {
+        "word": "look",
+        "value": 2,
+        "category": "Noun",
+        "translation": "mirar"
+    },
+    {
+        "word": "owns",
+        "value": 2,
+        "category": "Verb",
+        "translation": "posee"
+    },
+    {
+        "word": "ears",
+        "value": 2,
+        "category": "Noun",
+        "translation": "orejas"
+    },
+    {
+        "word": "rest",
+        "value": 2,
+        "category": "Noun",
+        "translation": "descansar"
+    },
+    {
+        "word": "shaking",
+        "value": 2,
+        "category": "Verb",
+        "translation": "sacudida"
+    },
+    {
+        "word": "minutes",
+        "value": 2,
+        "category": "Noun",
+        "translation": "minutos"
+    },
+    {
+        "word": "got",
+        "value": 2,
+        "category": "Verb",
+        "translation": "consigui\u00f3"
+    },
+    {
+        "word": "home",
+        "value": 2,
+        "category": "Adverb",
+        "translation": "hogar"
+    },
+    {
+        "word": "sad",
+        "value": 2,
+        "category": "Adjective",
+        "translation": "triste"
+    },
+    {
+        "word": "night",
+        "value": 2,
+        "category": "Noun",
+        "translation": "noche"
+    },
+    {
+        "word": "grandmother",
+        "value": 2,
+        "category": "Noun",
+        "translation": "abuela"
+    },
+    {
+        "word": "office",
+        "value": 2,
+        "category": "Noun",
+        "translation": "oficina"
+    },
+    {
+        "word": "decided",
+        "value": 2,
+        "category": "Verb",
+        "translation": "decidido"
+    },
+    {
+        "word": "make",
+        "value": 2,
+        "category": "Verb",
+        "translation": "hacer"
+    },
+    {
+        "word": "always",
+        "value": 2,
+        "category": "Adverb",
+        "translation": "siempre"
+    },
+    {
+        "word": "cleared",
+        "value": 2,
+        "category": "Verb",
+        "translation": "despejado"
+    },
+    {
+        "word": "need",
+        "value": 2,
+        "category": "Verb",
+        "translation": "necesidad"
+    },
+    {
+        "word": "sir",
+        "value": 2,
+        "category": "Verb",
+        "translation": "Se\u00f1or"
+    },
+    {
+        "word": "walk",
+        "value": 2,
+        "category": "Noun",
+        "translation": "caminar"
+    },
+    {
+        "word": "home",
+        "value": 2,
+        "category": "Noun",
+        "translation": "hogar"
+    },
+    {
+        "word": "bus",
+        "value": 2,
+        "category": "Noun",
+        "translation": "autob\u00fas"
+    },
+    {
+        "word": "dirt",
+        "value": 2,
+        "category": "Noun",
+        "translation": "suciedad"
+    },
+    {
+        "word": "mile",
+        "value": 2,
+        "category": "Noun",
+        "translation": "milla"
+    },
+    {
+        "word": "red",
+        "value": 2,
+        "category": "Adjective",
+        "translation": "rojo"
+    },
+    {
+        "word": "crying",
+        "value": 2,
+        "category": "Verb",
+        "translation": "llanto"
+    },
+    {
+        "word": "think",
+        "value": 2,
+        "category": "Verb",
+        "translation": "pensar"
+    },
+    {
+        "word": "working",
+        "value": 2,
+        "category": "Verb",
+        "translation": "laboral"
+    },
+    {
+        "word": "bean",
+        "value": 2,
+        "category": "Adjective",
+        "translation": "frijol"
+    },
+    {
+        "word": "outside",
+        "value": 2,
+        "category": "Adjective",
+        "translation": "afuera"
+    },
+    {
+        "word": "there",
+        "value": 2,
+        "category": "Existential",
+        "translation": "all\u00e1"
+    }
+]

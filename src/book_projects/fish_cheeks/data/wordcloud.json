@@ -1,0 +1,897 @@
+[
+  {
+    "word": "i",
+    "value": 14,
+    "category": "Pronoun",
+    "translation": "i"
+  },
+  {
+    "word": "robert",
+    "value": 7,
+    "category": "Noun",
+    "translation": "roberto"
+  },
+  {
+    "word": "christmas",
+    "value": 6,
+    "category": "Noun",
+    "translation": "Navidad"
+  },
+
+  {
+    "word": "minister",
+    "value": 4,
+    "category": "Noun",
+    "translation": "ministro"
+  },
+  {
+    "word": "relatives",
+    "value": 4,
+    "category": "Noun",
+    "translation": "parientes"
+  },
+  {
+    "word": "mother",
+    "value": 4,
+    "category": "Noun",
+    "translation": "madre"
+  },
+  {
+    "word": "american",
+    "value": 3,
+    "category": "Adjective",
+    "translation": "americano"
+  },
+  {
+    "word": "family",
+    "value": 3,
+    "category": "Noun",
+    "translation": "familia"
+  },
+  {
+    "word": "eve",
+    "value": 3,
+    "category": "Noun",
+    "translation": "v\u00edspera"
+  },
+  {
+    "word": "dinner",
+    "value": 3,
+    "category": "Noun",
+    "translation": "cena"
+  },
+  {
+    "word": "what",
+    "value": 3,
+    "category": "Wh-Pronoun",
+    "translation": "qu\u00e9"
+  },
+  {
+    "word": "would",
+    "value": 3,
+    "category": "Modal",
+    "translation": "har\u00eda"
+  },
+  {
+    "word": "food",
+    "value": 3,
+    "category": "Noun",
+    "translation": "alimento"
+  },
+  {
+    "word": "a",
+    "value": 3,
+    "category": "Determiner",
+    "translation": "a"
+  },
+  {
+    "word": "father",
+    "value": 3,
+    "category": "Noun",
+    "translation": "padre"
+  },
+  {
+    "word": "it",
+    "value": 3,
+    "category": "Pronoun",
+    "translation": "\u00e9l"
+  },
+  {
+    "word": "white",
+    "value": 2,
+    "category": "Adjective",
+    "translation": "blanco"
+  },
+  {
+    "word": "for",
+    "value": 2,
+    "category": "Preposition",
+    "translation": "para"
+  },
+  {
+    "word": "think",
+    "value": 2,
+    "category": "Verb",
+    "translation": "pensar"
+  },
+  {
+    "word": "menu",
+    "value": 2,
+    "category": "Noun",
+    "translation": "men\u00fa"
+  },
+  {
+    "word": "she",
+    "value": 2,
+    "category": "Pronoun",
+    "translation": "ella"
+  },
+  {
+    "word": "backs",
+    "value": 2,
+    "category": "Noun",
+    "translation": "espaldas"
+  },
+  {
+    "word": "the",
+    "value": 2,
+    "category": "Determiner",
+    "translation": "el"
+  },
+  {
+    "word": "back",
+    "value": 2,
+    "category": "Adverb",
+    "translation": "atr\u00e1s"
+  },
+  {
+    "word": "plate",
+    "value": 2,
+    "category": "Noun",
+    "translation": "l\u00e1mina"
+  },
+  {
+    "word": "and",
+    "value": 2,
+    "category": "Conjunction",
+    "translation": "y"
+  },
+  {
+    "word": "my",
+    "value": 2,
+    "category": "Pronoun",
+    "translation": "mi"
+  },
+  {
+    "word": "chopsticks",
+    "value": 2,
+    "category": "Noun",
+    "translation": "palillos"
+  },
+  {
+    "word": "fish",
+    "value": 2,
+    "category": "Adjective",
+    "translation": "pez"
+  },
+  {
+    "word": "favorite",
+    "value": 2,
+    "category": "Adjective",
+    "translation": "favorito"
+  },
+  {
+    "word": "said",
+    "value": 2,
+    "category": "Verb",
+    "translation": "dicho"
+  },
+  {
+    "word": "you",
+    "value": 2,
+    "category": "Pronoun",
+    "translation": "t\u00fa"
+  },
+  {
+    "word": "must",
+    "value": 2,
+    "category": "Modal",
+    "translation": "debe"
+  },
+  {
+    "word": "year",
+    "value": 2,
+    "category": "Noun",
+    "translation": "a\u00f1o"
+  },
+  {
+    "word": "fell",
+    "value": 1,
+    "category": "Verb",
+    "translation": "cay\u00f3"
+  },
+  {
+    "word": "love",
+    "value": 1,
+    "category": "Noun",
+    "translation": "amar"
+  },
+  {
+    "word": "son",
+    "value": 1,
+    "category": "Noun",
+    "translation": "hijo"
+  },
+  {
+    "word": "winter",
+    "value": 1,
+    "category": "Noun",
+    "translation": "invierno"
+  },
+  {
+    "word": "turned",
+    "value": 1,
+    "category": "Verb",
+    "translation": "transformado"
+  },
+  {
+    "word": "fourteen",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "catorce"
+  },
+  {
+    "word": "he",
+    "value": 1,
+    "category": "Pronoun",
+    "translation": "\u00e9l"
+  },
+  {
+    "word": "mary",
+    "value": 1,
+    "category": "Noun",
+    "translation": "Mar\u00eda"
+  },
+  {
+    "word": "manger",
+    "value": 1,
+    "category": "Noun",
+    "translation": "pesebre"
+  },
+  {
+    "word": "prayed",
+    "value": 1,
+    "category": "Verb",
+    "translation": "or\u00f3"
+  },
+  {
+    "word": "boy",
+    "value": 1,
+    "category": "Noun",
+    "translation": "chico"
+  },
+  {
+    "word": "slim",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "delgado"
+  },
+  {
+    "word": "new",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "nuevo"
+  },
+  {
+    "word": "nose",
+    "value": 1,
+    "category": "Noun",
+    "translation": "nariz"
+  },
+  {
+    "word": "when",
+    "value": 1,
+    "category": "Wh-Adverb",
+    "translation": "cuando"
+  },
+  {
+    "word": "found",
+    "value": 1,
+    "category": "Verb",
+    "translation": "encontr\u00f3"
+  },
+  {
+    "word": "parents",
+    "value": 1,
+    "category": "Noun",
+    "translation": "padres"
+  },
+  {
+    "word": "invited",
+    "value": 1,
+    "category": "Verb",
+    "translation": "invitado"
+  },
+  {
+    "word": "cried",
+    "value": 1,
+    "category": "Verb",
+    "translation": "llorado"
+  },
+  {
+    "word": "shabby",
+    "value": 1,
+    "category": "Noun",
+    "translation": "en mal estado"
+  },
+  {
+    "word": "chinese",
+    "value": 6,
+    "category": "Adjective",
+    "translation": "chino"
+  },
+  {
+    "word": "noisy",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "ruidoso"
+  },
+  {
+    "word": "lacked",
+    "value": 1,
+    "category": "Verb",
+    "translation": "faltaba"
+  },
+  {
+    "word": "proper",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "adecuado"
+  },
+  {
+    "word": "manners",
+    "value": 1,
+    "category": "Noun",
+    "translation": "modales"
+  },
+  {
+    "word": "terrible",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "horrible"
+  },
+  {
+    "word": "feel",
+    "value": 1,
+    "category": "Verb",
+    "translation": "sentir"
+  },
+  {
+    "word": "upon",
+    "value": 1,
+    "category": "Preposition",
+    "translation": "al"
+  },
+  {
+    "word": "seeing",
+    "value": 1,
+    "category": "Verb",
+    "translation": "vidente"
+  },
+  {
+    "word": "roasted",
+    "value": 1,
+    "category": "Verb",
+    "translation": "asado"
+  },
+  {
+    "word": "turkey",
+    "value": 1,
+    "category": "Noun",
+    "translation": "pavo"
+  },
+  {
+    "word": "sweet",
+    "value": 1,
+    "category": "Noun",
+    "translation": "dulce"
+  },
+  {
+    "word": "potatoes",
+    "value": 1,
+    "category": "Noun",
+    "translation": "papas"
+  },
+  {
+    "word": "on",
+    "value": 1,
+    "category": "Preposition",
+    "translation": "en"
+  },
+  {
+    "word": "saw",
+    "value": 1,
+    "category": "Verb",
+    "translation": "sierra"
+  },
+  {
+    "word": "outdone",
+    "value": 1,
+    "category": "Verb",
+    "translation": "superado"
+  },
+  {
+    "word": "creating",
+    "value": 1,
+    "category": "Verb",
+    "translation": "creando"
+  },
+  {
+    "word": "strange",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "extra\u00f1o"
+  },
+  {
+    "word": "pulling",
+    "value": 1,
+    "category": "Verb",
+    "translation": "tracci\u00f3n"
+  },
+  {
+    "word": "black",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "negro"
+  },
+  {
+    "word": "veins",
+    "value": 1,
+    "category": "Noun",
+    "translation": "venas"
+  },
+  {
+    "word": "fleshy",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "carnoso"
+  },
+  {
+    "word": "prawns",
+    "value": 1,
+    "category": "Noun",
+    "translation": "langostinos"
+  },
+  {
+    "word": "kitchen",
+    "value": 1,
+    "category": "Noun",
+    "translation": "cocina"
+  },
+  {
+    "word": "littered",
+    "value": 1,
+    "category": "Verb",
+    "translation": "lleno de basura"
+  },
+  {
+    "word": "appalling",
+    "value": 1,
+    "category": "Verb",
+    "translation": "p\u00e9simo"
+  },
+  {
+    "word": "mounds",
+    "value": 1,
+    "category": "Noun",
+    "translation": "mont\u00edculos"
+  },
+  {
+    "word": "raw",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "crudo"
+  },
+  {
+    "word": "slimy",
+    "value": 1,
+    "category": "Noun",
+    "translation": "baboso"
+  },
+  {
+    "word": "rock",
+    "value": 1,
+    "category": "Noun",
+    "translation": "roca"
+  },
+  {
+    "word": "cod",
+    "value": 1,
+    "category": "Noun",
+    "translation": "bacalao"
+  },
+  {
+    "word": "bulging",
+    "value": 1,
+    "category": "Verb",
+    "translation": "abultado"
+  },
+  {
+    "word": "eyes",
+    "value": 1,
+    "category": "Noun",
+    "translation": "ojos"
+  },
+  {
+    "word": "pleaded",
+    "value": 1,
+    "category": "Verb",
+    "translation": "suplic\u00f3"
+  },
+  {
+    "word": "thrown",
+    "value": 1,
+    "category": "Verb",
+    "translation": "arrojado"
+  },
+  {
+    "word": "pan",
+    "value": 1,
+    "category": "Noun",
+    "translation": "cacerola"
+  },
+  {
+    "word": "hot",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "caliente"
+  },
+  {
+    "word": "oil",
+    "value": 1,
+    "category": "Noun",
+    "translation": "aceite"
+  },
+  {
+    "word": "tofu",
+    "value": 1,
+    "category": "Noun",
+    "translation": "tofu"
+  },
+  {
+    "word": "looked",
+    "value": 1,
+    "category": "Verb",
+    "translation": "mir\u00f3"
+  },
+  {
+    "word": "like",
+    "value": 1,
+    "category": "Preposition",
+    "translation": "como"
+  },
+  {
+    "word": "stacked",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "apilados"
+  },
+  {
+    "word": "wedges",
+    "value": 1,
+    "category": "Noun",
+    "translation": "porciones"
+  },
+  {
+    "word": "rubbery",
+    "value": 1,
+    "category": "Noun",
+    "translation": "gomoso"
+  },
+  {
+    "word": "sponges",
+    "value": 1,
+    "category": "Noun",
+    "translation": "esponjas"
+  },
+  {
+    "word": "bowl",
+    "value": 1,
+    "category": "Noun",
+    "translation": "bol"
+  },
+  {
+    "word": "soaking",
+    "value": 1,
+    "category": "Verb",
+    "translation": "remojo"
+  },
+  {
+    "word": "dried",
+    "value": 1,
+    "category": "Verb",
+    "translation": "seco"
+  },
+  {
+    "word": "fungus",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "hongo"
+  },
+  {
+    "word": "life",
+    "value": 1,
+    "category": "Noun",
+    "translation": "vida"
+  },
+  {
+    "word": "squid",
+    "value": 1,
+    "category": "Noun",
+    "translation": "calamar"
+  },
+  {
+    "word": "crisscrossed",
+    "value": 1,
+    "category": "Verb",
+    "translation": "entrecruzado"
+  },
+  {
+    "word": "knife",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "cuchillo"
+  },
+  {
+    "word": "markings",
+    "value": 1,
+    "category": "Noun",
+    "translation": "marcas"
+  },
+  {
+    "word": "resembled",
+    "value": 1,
+    "category": "Verb",
+    "translation": "se parec\u00eda"
+  },
+  {
+    "word": "bicycle",
+    "value": 1,
+    "category": "Noun",
+    "translation": "bicicleta"
+  },
+  {
+    "word": "tires",
+    "value": 1,
+    "category": "Noun",
+    "translation": "llantas"
+  },
+  {
+    "word": "arrived",
+    "value": 1,
+    "category": "Verb",
+    "translation": "lleg\u00f3"
+  },
+  {
+    "word": "clamor",
+    "value": 1,
+    "category": "Noun",
+    "translation": "clamor"
+  },
+  {
+    "word": "doorbells",
+    "value": 1,
+    "category": "Noun",
+    "translation": "timbres"
+  },
+  {
+    "word": "rumpled",
+    "value": 1,
+    "category": "Verb",
+    "translation": "arrugado"
+  },
+  {
+    "word": "packages",
+    "value": 1,
+    "category": "Noun",
+    "translation": "paquetes"
+  },
+  {
+    "word": "grunted",
+    "value": 1,
+    "category": "Verb",
+    "translation": "gru\u00f1\u00f3"
+  },
+  {
+    "word": "hello",
+    "value": 1,
+    "category": "Noun",
+    "translation": "Hola"
+  },
+  {
+    "word": "pretended",
+    "value": 1,
+    "category": "Verb",
+    "translation": "fingido"
+  },
+  {
+    "word": "worthy",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "valioso"
+  },
+  {
+    "word": "existence",
+    "value": 1,
+    "category": "Noun",
+    "translation": "existencia"
+  },
+  {
+    "word": "threw",
+    "value": 1,
+    "category": "Verb",
+    "translation": "lanzar"
+  },
+  {
+    "word": "deeper",
+    "value": 1,
+    "category": "Verb",
+    "translation": "M\u00e1s adentro"
+  },
+  {
+    "word": "despair",
+    "value": 1,
+    "category": "Noun",
+    "translation": "desesperaci\u00f3n"
+  },
+  {
+    "word": "licked",
+    "value": 1,
+    "category": "Verb",
+    "translation": "lamido"
+  },
+  {
+    "word": "ends",
+    "value": 1,
+    "category": "Noun",
+    "translation": "termina"
+  },
+  {
+    "word": "reached",
+    "value": 1,
+    "category": "Verb",
+    "translation": "alcanz\u00f3"
+  },
+  {
+    "word": "across",
+    "value": 1,
+    "category": "Preposition",
+    "translation": "al otro lado de"
+  },
+  {
+    "word": "table",
+    "value": 1,
+    "category": "Noun",
+    "translation": "mesa"
+  },
+  {
+    "word": "dipping",
+    "value": 1,
+    "category": "Verb",
+    "translation": "inmersi\u00f3n"
+  },
+  {
+    "word": "dozen",
+    "value": 1,
+    "category": "Noun",
+    "translation": "docena"
+  },
+  {
+    "word": "plates",
+    "value": 1,
+    "category": "Noun",
+    "translation": "platos"
+  },
+  {
+    "word": "waited",
+    "value": 1,
+    "category": "Verb",
+    "translation": "esper\u00f3"
+  },
+  {
+    "word": "patiently",
+    "value": 1,
+    "category": "Adverb",
+    "translation": "pacientemente"
+  },
+  {
+    "word": "platters",
+    "value": 1,
+    "category": "Noun",
+    "translation": "platos"
+  },
+  {
+    "word": "passed",
+    "value": 1,
+    "category": "Verb",
+    "translation": "aprobado"
+  },
+  {
+    "word": "murmured",
+    "value": 1,
+    "category": "Verb",
+    "translation": "murmur\u00f3"
+  },
+  {
+    "word": "pleasure",
+    "value": 1,
+    "category": "Noun",
+    "translation": "placer"
+  },
+  {
+    "word": "brought",
+    "value": 1,
+    "category": "Verb",
+    "translation": "trajo"
+  },
+  {
+    "word": "whole",
+    "value": 1,
+    "category": "Noun",
+    "translation": "entero"
+  },
+  {
+    "word": "steamed",
+    "value": 1,
+    "category": "Verb",
+    "translation": "al vapor"
+  },
+  {
+    "word": "grimaced",
+    "value": 1,
+    "category": "Verb",
+    "translation": "hizo una mueca"
+  },
+  {
+    "word": "then",
+    "value": 1,
+    "category": "Adverb",
+    "translation": "entonces"
+  },
+  {
+    "word": "poked",
+    "value": 1,
+    "category": "Verb",
+    "translation": "empujado"
+  },
+  {
+    "word": "eye",
+    "value": 1,
+    "category": "Noun",
+    "translation": "ojo"
+  },
+  {
+    "word": "plucked",
+    "value": 1,
+    "category": "Verb",
+    "translation": "desplumado"
+  },
+  {
+    "word": "soft",
+    "value": 1,
+    "category": "Adjective",
+    "translation": "suave"
+  },
+  {
+    "word": "meat",
+    "value": 1,
+    "category": "Noun",
+    "translation": "carne"
+  },
+  {
+    "word": "amy",
+    "value": 1,
+    "category": "Noun",
+    "translation": "amy"
+  }
+]
