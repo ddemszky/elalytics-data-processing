@@ -1,197 +1,59 @@
 {
-    "labels": [
-        "00 - EL CAZO",
-        "01 - LA CALAVERA",
-        "02 - EL P\u00c1JARO",
-        "03 - LA ESTRELLA",
-        "04 - EL VENADO",
-        "05 - EL MUNDO",
-        "06 - LA MANO",
-        "07 - EL \u00c1RBOL",
-        "08 - LA SIRENA",
-        "09 - LA ARA\u00d1A",
-        "10 - LA GARZA",
-        "11 - EL ALACR\u00c1N",
-        "12 - LA MUERTE",
-        "13 - LAS JARAS",
-        "14 - EL DIABLITO",
-        "15 - LA DAMA",
-        "16 - EL NOPAL",
-        "17 - LA CHALUPA",
-        "18 - EL CORAZ\u00d3N",
-        "19 - EL M\u00daSICO",
-        "20 - LA ROSA",
-        "21 - LA CORONA",
-        "22 - LA LUNA"
-    ],
-    "datasets": [
-        {
-            "label": "Odilia",
-            "data": [
-                0,
-                1,
-                6,
-                4,
-                0,
-                1,
-                3,
-                4,
-                0,
-                5,
-                0,
-                2,
-                0,
-                0,
-                4,
-                1,
-                1,
-                0,
-                2,
-                1,
-                1,
-                1,
-                3
-            ]
-        },
-        {
-            "label": "Nagual",
-            "data": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                3,
-                6,
-                16,
-                3,
-                0,
-                1,
-                1,
-                0,
-                0,
-                0,
-                0,
-                0,
-                1
-            ]
-        },
-        {
-            "label": "El Nagual",
-            "data": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                3,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ]
-        },
-        {
-            "label": "La Llorona",
-            "data": [
-                0,
-                1,
-                0,
-                31,
-                8,
-                0,
-                4,
-                3,
-                2,
-                29,
-                5,
-                2,
-                1,
-                7,
-                2,
-                2,
-                0,
-                1,
-                0,
-                0,
-                2,
-                12,
-                7
-            ]
-        },
-        {
-            "label": "Cecilia",
-            "data": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                25,
-                37,
-                8,
-                0,
-                1,
-                3,
-                0,
-                1,
-                1,
-                0,
-                1,
-                0,
-                0,
-                0,
-                0
-            ]
-        },
-        {
-            "label": "Chupacabras",
-            "data": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                4,
-                0,
-                0,
-                0,
-                40,
-                7,
-                0,
-                0,
-                1,
-                0,
-                0,
-                0,
-                1
-            ]
-        }
-    ]
+  "labels": [
+    "00 - EL CAZO",
+    "01 - LA CALAVERA",
+    "02 - EL P\u00c1JARO",
+    "03 - LA ESTRELLA",
+    "04 - EL VENADO",
+    "05 - EL MUNDO",
+    "06 - LA MANO",
+    "07 - EL \u00c1RBOL",
+    "08 - LA SIRENA",
+    "09 - LA ARA\u00d1A",
+    "10 - LA GARZA",
+    "11 - EL ALACR\u00c1N",
+    "12 - LA MUERTE",
+    "13 - LAS JARAS",
+    "14 - EL DIABLITO",
+    "15 - LA DAMA",
+    "16 - EL NOPAL",
+    "17 - LA CHALUPA",
+    "18 - EL CORAZ\u00d3N",
+    "19 - EL M\u00daSICO",
+    "20 - LA ROSA",
+    "21 - LA CORONA",
+    "22 - LA LUNA"
+  ],
+  "datasets": [
+    {
+      "label": "Odilia",
+      "data": [
+        0, 1, 6, 4, 0, 1, 3, 4, 0, 5, 0, 2, 0, 0, 4, 1, 1, 0, 2, 1, 1, 1, 3
+      ]
+    },
+    {
+      "label": "Nagual",
+      "data": [
+        0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 3, 6, 16, 3, 0, 1, 1, 0, 0, 0, 0, 0, 1
+      ]
+    },
+    {
+      "label": "La Llorona",
+      "data": [
+        0, 1, 0, 31, 8, 0, 4, 3, 2, 29, 5, 2, 1, 7, 2, 2, 0, 1, 0, 0, 2, 12, 7
+      ]
+    },
+    {
+      "label": "Cecilia",
+      "data": [
+        0, 0, 0, 0, 0, 0, 1, 0, 25, 37, 8, 0, 1, 3, 0, 1, 1, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "label": "Chupacabras",
+      "data": [
+        0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0, 0, 40, 7, 0, 0, 1, 0, 0, 0, 1
+      ]
+    }
+  ]
 }
