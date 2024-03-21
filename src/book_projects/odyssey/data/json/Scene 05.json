@@ -1,0 +1,407 @@
+[
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "So after many days at sea, the stores of food are depleted, and the men begin to gaze longingly at the horizon, wondering how long before they starve."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "And they begin to think of mutiny."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 1",
+            "text": "I say we take over this ship. Odysseus is mad. We have been waiting for our homecoming for years. We have no food, just chunks of old bread."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 2",
+            "text": "Odysseus has been a decent leader\u2014he is determined to get home. I\u2019ll stick by him. We\u2019re all hungry\u2014including him."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 3",
+            "text": "But how do we know he is taking us in the right direction? He could be leading us to some new and wretched adventure."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 4",
+            "text": "Look, there is an island on the horizon!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "All rush to the ship\u2019s edge, and indeed, they see an inhospitable land with very few trees and very big rocks."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "So Odysseus and twelve men form a landing party to search for a source of food and water."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Come on, men\u2014I think I smell roast lamb."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 5",
+            "text": "It\u2019s coming from the direction of those caves over there, sir."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 1",
+            "text": "I see some movement up there among the boulders."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "The empty bellies of the men made them mad for nourishment, and the savory aroma led them to the mouth of a great cave."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Little did they know that the cave was home to one of the Cyclopes\u2014a fierce race of man-eating giants that had at one time the highest honor of making thunderbolts for Zeus himself."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "I, Polyphemus, love stormy weather because it dashes ships upon the rocks. The sea throws up drowning sailors. Today\u2019s choice morsels cannot resist a hot meal. My lambs on a spit will lure them to their deaths\u2014and to my supper. (He hides inside the cave.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 1",
+            "text": "Look sir, roast lamb. Hot. My mouth waters just thinking of it."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 2",
+            "text": "And look, great baskets of cheeses."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 3",
+            "text": "I must eat. I haven\u2019t had food for three days. Let me by. (He rushes past them. They all run after him into the cave and up to the fire.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Men, control yourselves. Remember the others. We must temper our cravings and\u2014"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "But before he can finish his sentence, Polyphemus rolls a rock in front of the cave entrance and comes after them."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "He picks up two men, bashes them together, and eats them ravenously. The other men cower in a corner, whimpering."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 4",
+            "text": "Can the gods be so cruel? We are doomed, oh . . ."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 5",
+            "text": "Oh, why did I agree to come ashore?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Control yourselves. The only way to survive is by our wits and to come up with a plan. We must keep our heads!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "So with the sounds of bone-crunching chews to inspire him, Odysseus tries to come up with a plan."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Oh, Great One, whom shall we thank for the kindness of your hospitality?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "I am Polyphemus, son of Poseidon, God of the Sea."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "For so generous a host, may I present for your enjoyment a deliciously sweet wine\u2014very like ambrosia to one\u2019s palate."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Odysseus leaves a cask of wine near the fire and retreats back into the shadows."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "My little friend, it will please me to relax a while before I nourish myself with your bones. In return for your generosity, I will eat you last. What is your name? (He drinks from the cask.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Nobody. I am Nobody."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "How right you are. Delicious wine, Nobody. You are a man with distinctive tastes."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "If it pleases you, enjoy it in its entirety. Often the best drops are on the bottom, where you find the sediment of a thousand sweet grapes."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "Mmmm! Good drink! I\u2019ll stoke this fire so it will be well hot when I awake from a little rest. Then, I\u2019ll roast you on a spit like a suckling pig. And now, a nap."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Odysseus, seeing his opportunity, hands a stick of firewood to one of the men and instructs him to make it into a weapon."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "The others keep careful watch over the sleeping one-eyed giant."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Take this beam of olive wood and whittle away at the end. We need it good and sharp."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 6",
+            "text": "How is this?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Excellent. Now, let us put it in the fire and get it scorching hot."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "The poker burns white in the fire as the one-eyed giant sleeps."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "And when it reaches the maximum heat possible before it begins to burn itself, Odysseus takes it out of the flames, holds it over Polyphemus\u2014and plunges the point into his one and only eye."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "Aaahh! Blinded\u2014I\u2019ve been blinded!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "As he flails about in pain, he rolls the boulder aside from the cave entrance. And as his hands search frantically for the men who blinded him, he hears some neighboring Cyclopes passing by the mouth of his cave with their own herds."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "Help, help! I\u2019ve been blinded!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "And the frightened men, hoping to escape the dangerous situation, follow Odysseus\u2019s orders and mix in with Polyphemus\u2019s sheep to avoid his hands, searching frantically about the cave."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "CYCLOPES 1",
+            "text": "What is it, Polyphemus? Why do you cry out? You disturb the sheep!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "CYCLOPES 2",
+            "text": "You said blinded? Who has done this to you?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "Nobody, Nobody has hurt me."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "CYCLOPS 1",
+            "text": "Then stop your howling and pray to your father, Poseidon, to deliver you from your pain."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Meanwhile, Odysseus and his men grasp the shaggy wool underbellies of the sheep and hold on with all their might."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Thinking it would be easier to catch them in an empty cave, Polyphemus\u2014still in agony\u2014counts his sheep one by one then herds them out into the warm sunshine, unwittingly releasing his prisoners."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS (to his men)",
+            "text": "When we clear this bank of trees, run for your lives to the beach."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "Where are you, trickster\u2014thief who has stolen my sight? Who has done this damage?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Run to the ship, everyone! Here I am, foolish one. You who dared to harm guests in your own home have paid the price. More than anything, hospitality is the keystone to a civilized society. May you be cursed!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Polyphemus breaks off the top of a tall mountain and hurls it into the sea."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "A tidal wave pitches the ships violently."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "I, Odysseus, King of Ithaka, am your tormentor. Do not forget my name."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POLYPHEMUS",
+            "text": "Poseidon, great father of the deep,  hear your son. I raise my arms in supplication. Let not this man reach his homeland, but if it pleases the gods that he may, destroy his companions and let him come to a land that does not know him or want him."
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": ""
+        }
+    }
+]

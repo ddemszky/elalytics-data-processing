@@ -1,0 +1,278 @@
+[
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Refreshed and comfortable, Odysseus returns to the great hall and gives the queen his voice and his story."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "And so with rapt attention, the leaders of Scheria listen as the great warrior tells of his adventures and wanderings."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "His story begins at the end of the reign of King Priam and the end of the Trojan kingdom. Odysseus, eager to make a crushing blow to end the long war, supervises the building of a hollow-bellied giant wooden horse and hides inside with a group of Greek soldiers. The Trojans think the horse is a gift and accept it since they see no sign of the Greek forces, who are hiding off the coast."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "King Priam of Troy and his queen, Hecuba, bring it through the gates of Troy and into their city. After the evening of celebration has ended, the Greek soldiers sneak out of the horse, according to Odysseus\u2019s plan."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "AGAMEMNON",
+            "text": "You, soldier, light a fire to signal the ships that the time is at hand."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "MENELAUS",
+            "text": "Soon, the forces will enter the walls and Troy will be destroyed."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "The chiefs wait for the soldiers to arrive."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "And when they do, Odysseus opens the gates to the sleeping city, lets in the other soldiers, and the carnage begins."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "AGAMEMNON",
+            "text": "Round up the royal family. Burn the city so that nothing left standing is higher than my knee!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Death and destruction befall the ancient city of Troy, and it is razed to the ground."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Afterward, a funeral takes place for the great Achilles with a sacrifice on his tomb of the Trojan Princess Polyxena, who had betrayed his trust. The Greeks waste no time in preparing for their homeward journeys."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "The women of Troy are brought before the Greek warriors. Their men killed, they are at the mercy of the victors and taken as slaves."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "They are loaded on the ships along with the gold from the royal treasury, jewels, silks, and furs. Anxious to get home after ten long years of battle, Agamemnon, Odysseus, Menelaus, Diomedes, and the others go their separate ways on separate ships."
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": "(Soldiers shake hands, slap each other on the back, and all exit\u2014Odysseus and his crew return to the stage.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "It won\u2019t be long until the shores of Ithaka are insight and our homes and families restored to us."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 1",
+            "text": "The entire wealth of the Trojan kingdom is onboard our ships. What a change it will bring to our people."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Having food for only several days, Odysseus and his men hug the coast in their three ships"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "We are beginning to take water. We cannot sacrifice the essentials, but we must drop some of our load."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 4",
+            "text": "The Trojan gold weighs the most."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 5",
+            "text": "But it is most valuable!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "I am afraid the gemstones must be thrown overboard."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Rubies, emeralds, sapphires, and moonstones are dumped over the side of the ship."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Rubies flash in the foam, sink in the waves, and flutter deep and catch the eyes of the naiads, the lovely sea nymphs, relaxing in the sea palace of their father, Poseidon."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NAIAD 1",
+            "text": "Sea sisters, how beautiful!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NAIAD 2",
+            "text": "Look at the colors!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NAIAD 3",
+            "text": "Look how they catch the light!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NAIAD 4",
+            "text": "Sweet warriors, come beneath the waves and we will bring you great happiness."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "SOLDIER 1",
+            "text": "Look! Beneath the waves!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NAIAD 5",
+            "text": "Join us, oh, men of war, and rest here in our palace deep."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Poseidon, the great god of the sea, is awakened by the tinkling laughter of his naiads."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POSEIDON",
+            "text": "Who dares to lure off my gentle nymphs? They are not for mortal men."
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": "(Naiads scatter.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Poseidon calls to his son, King Aeolus, keeper of the winds."
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": "(Poseidon beckons to the distant horizon.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Aeolus billows in on a great cloud."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "KING AEOLUS",
+            "text": "Yes, father. What is it you desire from your loyal son?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "POSEIDON",
+            "text": "These mortals, brazen, and bold, have greatly offended my kingdom. Send them a gale wind of such force that for many days they are delayed in their journey."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Aeolus sends a fierce blast."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Our ship veers off course. Take down the sails. They are no match for this wind. We are being forced south. Oh, fair Penelope, will I never reach home?"
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": ""
+        }
+    }
+]

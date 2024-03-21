@@ -1,0 +1,13 @@
+[
+  {
+    "isDialogue": true,
+    "content": {
+      "speaker": "NARRATOR 1",
+      "text": "The story you are about to hear is one of homesickness and hardship and the lengths one man took to reach his wife and family."
+    }
+  },
+  {
+    "isDialogue": false,
+    "content": { "text": "(Enter suitors.)" }
+  }
+]

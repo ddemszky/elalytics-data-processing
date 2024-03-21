@@ -1,0 +1,106 @@
+[
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "The leaders of Scheria look at Odysseus amazed. For never have they heard such tales of persistence."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Taking advantage of a break in the story, two maidservants refresh Odysseus\u2019s cup and lay before him sweet figs and almonds."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "KING ALKINOOS",
+            "text": "How came you to our shores? Aurora is just now tinting the horizon for her master, the sun god Apollo. You can\u2019t have had more obstacles to overcome."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "QUEEN ARETE",
+            "text": "Surely your trials did not end there. Tell us about Calypso. Who was she and how did she treat you? (Odysseus takes a deep breath and shakes his head sadly.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Beaten down I was. I had lost everything, and yet . . . Calypso is a nymph. Her home is the island of Ogygia where I washed up ten days after losing my companions. She was kindhearted and gentle and indeed restored me to health. The hurt in me lay deep, and she knew. She gave me time and care, and I recovered."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "QUEEN ARETE",
+            "text": "And how did she help you heal such wounds?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Calypso with the lovely hair had a garden the measure of which would turn anyone\u2019s pain to gladness. Deep in a wood with fragrant trees all around and birds of all kinds that nested peacefully there ... fountains with musical, trickling water,  grapevines bearing fruit, and a gentle meadow in a clearing."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NAUSICAA",
+            "text": "How lovely it must have been!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "KING ALKINOOS",
+            "text": "It grieves me to think how many years lay between you and your family."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "QUEEN ARETE",
+            "text": "How long were you on this island?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "For seven years Calypso gave me all I could wish, save deliverance from this yearning for my homeland. The gods were merciful and put it to her that I should be on my way. And with her help, I constructed a sturdy raft. And with her blessing took to the wine-blue sea. After twenty sun-scorched days and brutal nights, my raft was lost to the swells and I washed up here, at the feet of your lovely daughter Nausicaa."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "KING ALKINOOS",
+            "text": "Odysseus, your story has touched me to my very soul. Depend upon me for safe passage to Ithaka. Let it be known that this, our kingdom, is the last stop on your journey. We feast tonight, for tomorrow we outfit a ship as able as any on the Aegean!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "QUEEN ARETE",
+            "text": "You have your deliverance, Odysseus."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "And Odysseus in his gratitude bows deeply to the King and Queen of Scheria."
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": ""
+        }
+    }
+]

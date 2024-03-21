@@ -1,0 +1,78 @@
+[
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "And so with gentle winds to guide the ship and a strong crew to man her, Odysseus, before long, finds himself deposited on the shores of Ithaka."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Athena, his protector, appears to him on the beach and tells him the story of Penelope\u2019s trials."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ATHENA",
+            "text": "Odysseus, you have returned at last to your kingdom. But hasten not to your palace and your wife, for though she awaits your return, heavy is her heart and deep are her sorrows. For many years suitors for her hand in marriage have camped out in your home. Great are their numbers, and they stand as the finest of youths."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "And what of my son, Telemachus?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ATHENA",
+            "text": "Telemachus has been searching for you,  fearing the time draws near when his mother must take a new husband."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Penelope would never lose faith in my return."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ATHENA",
+            "text": "She has done all that is honorable and all that is wise."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "How has she fared these many years?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ATHENA",
+            "text": "By her wits, she has survived. You chose a clever wife to match your clever self. But let us cease this talk as time is short. I will turn you into a  beggar so that none may know you. Telemachus is near, and I will bring him to you."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "And with that, Athena changes Odysseus into an old and feeble man with gray hair and a tattered cloak."
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": ""
+        }
+    }
+]

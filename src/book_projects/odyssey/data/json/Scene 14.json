@@ -1,0 +1,78 @@
+[
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Eurykleia comes before the man she raised as her own son. Odysseus takes her hand."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Kind nurse, the time has come to tell your lady the truth of what has happened here today.  Go to her in her chamber and tell her that her husband has come home."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "EURYKLEIA",
+            "text": "I will do as you bid, with joy in my heart at your homecoming. NARRATOR 1: Odysseus and his son wait. And when Telemachus sees his mother enter the room, he knows to step back into the shadows while his parents talk. Penelope sits down and stares at Odysseus in silence for a long while."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "PENELOPE",
+            "text": "My nurse tells me you claim you are my husband. What proof can you give?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Dear lady, surely, to look at me is all."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "PENELOPE",
+            "text": "Perhaps after a rest, you will be more inclined to show us proof. Let me call my nurse.  She will prepare a bed for you outside this chamber. Indeed, it is the very bed that Odysseus himself built."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Your words cannot be true! It would be impossible to move the bed that I made. The bed that I built could only be moved by a god. No man could move it! It is carved from an ancient olive tree with roots deep in the earth. I built the room around it. There is an inlay of ivory and gold and silver."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "PENELOPE (rushing to him)",
+            "text": "It is true! Only Odysseus would know such things! How many years I have waited!"
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": "(They embrace.)"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "And after a few minutes, Eurykleia and Telemachus step back into the room."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "For they, too, wish to welcome him home."
+        }
+    }
+]

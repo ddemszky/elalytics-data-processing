@@ -1,0 +1,92 @@
+[
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "Late that evening, Odysseus prepares to bathe before bedtime."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "An old nurse pours hot water into a tub for him."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "EURYKLEIA",
+            "text": "I have been here at this palace for many years. I was in the room when Odysseus himself was born and received him in my arms before his own mother did."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Kind woman, you have been of great service to this household."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "EURYKLEIA",
+            "text": "I even raised up young Telemachus. The misery I have seen in this home since the master left so many years ago for Troy to fight! All because of a woman named Helen! My lady\u2019s heart is weary."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Tomorrow will be the end of her sorrows."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 2",
+            "text": "The old woman looks up from her work and notices a scar on Odysseus\u2019 knee. She jumps back and looks into his eyes."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "EURYKLEIA",
+            "text": "Only one person could have a scar like that. How did you get that scar?"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "A wild boar tore into my leg when I was young."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "EURYKLEIA",
+            "text": "You were on a hunt with your father . . . Odysseus? Odysseus! Great Zeus, we have been delivered!"
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "NARRATOR 1",
+            "text": "Eurykleia throws her arms around Odysseus and welcomes him home."
+        }
+    },
+    {
+        "isDialogue": true,
+        "content": {
+            "speaker": "ODYSSEUS",
+            "text": "Come, dear lady, let me tell you how you can help us with our plan. (They exit.)"
+        }
+    },
+    {
+        "isDialogue": false,
+        "content": {
+            "text": ""
+        }
+    }
+]

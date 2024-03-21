@@ -1,4 +1,3 @@
-SCENE 1:
 NARRATOR 1: The story you are about to hear is one of homesickness and hardship and the lengths one man took to reach his wife and family. 
 NARRATOR 2: The main character in our story is the mastermind behind the wooden horse and the Greeks’ final assault in the ten-year war against Troy. Odysseus, King of Ithaka, spends an additional ten years trying to return home. 
 NARRATOR 1: Let’s look in on Penelope, shining among women, and Telemachus, on their island home. 
@@ -16,8 +15,7 @@ ATHENA: Telemachus, you must journey far and wide and learn news of your father.
 TELEMACHUS: Lead me, great lady, and I will follow. 
 ATHENA: First, you must speak to the suitors. Gather them together in an assembly and demand that they leave this place.  
 TELEMACHUS: Taking leave of the palace would spare what little stores remain. For four years now they have eaten all our food and drunk all our wine. If my father ever returns, there will be nothing left of his kingdom. 
-ATHENA: His kingdom lies in his lovely wife, Penelope, and you, his splendid son.
-After you have addressed these noblemen, gather all of your wits, for you must journey across the seas. 
+ATHENA: His kingdom lies in his lovely wife, Penelope, and you, his splendid son. After you have addressed these noblemen, gather all of your wits, for you must journey across the seas. 
 NARRATOR 2: With that, Athena returns to Mount Olympus to watch her scheme unfold.
 (Enter suitors.)
 TELEMACHUS: Worthy men, take leave of our household, for I fear our supplies are nearly wasted. Take turns feasting at your own palaces until my mother’s mind has settled and she finishes the woven burial shroud for my grandfather. 
