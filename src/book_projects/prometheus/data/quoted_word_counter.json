@@ -1,13 +1,5 @@
 [
     {
-        "word": "him",
-        "count": {
-            "Prometheus": 5,
-            "Zeus": 3
-        },
-        "total_count": 8
-    },
-    {
         "word": "not",
         "count": {
             "Prometheus": 2,
@@ -48,36 +40,12 @@
         "total_count": 6
     },
     {
-        "word": "i",
-        "count": {
-            "Prometheus": 2,
-            "Zeus": 3
-        },
-        "total_count": 5
-    },
-    {
         "word": "have",
         "count": {
             "Prometheus": 2,
             "Zeus": 3
         },
         "total_count": 5
-    },
-    {
-        "word": "me",
-        "count": {
-            "Prometheus": 2,
-            "Zeus": 3
-        },
-        "total_count": 5
-    },
-    {
-        "word": "in",
-        "count": {
-            "Prometheus": 3,
-            "Zeus": 1
-        },
-        "total_count": 4
     },
     {
         "word": "must",
@@ -136,14 +104,6 @@
         "total_count": 3
     },
     {
-        "word": "his",
-        "count": {
-            "Prometheus": 1,
-            "Zeus": 2
-        },
-        "total_count": 3
-    },
-    {
         "word": "why",
         "count": {
             "Prometheus": 2,
@@ -180,14 +140,6 @@
         "count": {
             "Prometheus": 2,
             "Zeus": 1
-        },
-        "total_count": 3
-    },
-    {
-        "word": "our",
-        "count": {
-            "Prometheus": 0,
-            "Zeus": 3
         },
         "total_count": 3
     },
@@ -257,14 +209,6 @@
     },
     {
         "word": "call",
-        "count": {
-            "Prometheus": 0,
-            "Zeus": 2
-        },
-        "total_count": 2
-    },
-    {
-        "word": "my",
         "count": {
             "Prometheus": 0,
             "Zeus": 2
@@ -364,14 +308,6 @@
         "count": {
             "Prometheus": 1,
             "Zeus": 1
-        },
-        "total_count": 2
-    },
-    {
-        "word": "we",
-        "count": {
-            "Prometheus": 0,
-            "Zeus": 2
         },
         "total_count": 2
     },
