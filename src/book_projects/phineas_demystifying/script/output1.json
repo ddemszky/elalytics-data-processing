@@ -1,0 +1,2344 @@
+{
+    "brain": [
+        {
+            "word": "c",
+            "connections": 19
+        },
+        {
+            "word": "demystifi",
+            "connections": 1
+        },
+        {
+            "word": "adolesc",
+            "connections": 36
+        },
+        {
+            "word": "laurenc",
+            "connections": 1
+        },
+        {
+            "word": "steinberg",
+            "connections": 1
+        },
+        {
+            "word": "matur",
+            "connections": 12
+        },
+        {
+            "word": "one",
+            "connections": 3
+        },
+        {
+            "word": "moment",
+            "connections": 1
+        },
+        {
+            "word": "frustratingli",
+            "connections": 1
+        },
+        {
+            "word": "immatur",
+            "connections": 1
+        },
+        {
+            "word": "next",
+            "connections": 1
+        },
+        {
+            "word": "natur",
+            "connections": 2
+        },
+        {
+            "word": "develop",
+            "connections": 19
+        },
+        {
+            "word": "help",
+            "connections": 2
+        },
+        {
+            "word": "explain",
+            "connections": 2
+        },
+        {
+            "word": "addit",
+            "connections": 1
+        },
+        {
+            "word": "transit",
+            "connections": 1
+        },
+        {
+            "word": "time",
+            "connections": 5
+        },
+        {
+            "word": "ofimport",
+            "connections": 1
+        },
+        {
+            "word": "chang",
+            "connections": 14
+        },
+        {
+            "word": "structur",
+            "connections": 9
+        },
+        {
+            "word": "function",
+            "connections": 11
+        },
+        {
+            "word": "scientist",
+            "connections": 6
+        },
+        {
+            "word": "begin",
+            "connections": 1
+        },
+        {
+            "word": "understand",
+            "connections": 5
+        },
+        {
+            "word": "psycholog",
+            "connections": 2
+        },
+        {
+            "word": "link",
+            "connections": 2
+        },
+        {
+            "word": "brain",
+            "connections": 30
+        },
+        {
+            "word": "imag",
+            "connections": 3
+        },
+        {
+            "word": "technolog",
+            "connections": 2
+        },
+        {
+            "word": "could",
+            "connections": 2
+        },
+        {
+            "word": "specula",
+            "connections": 2
+        },
+        {
+            "word": "work",
+            "connections": 4
+        },
+        {
+            "word": "howev",
+            "connections": 3
+        },
+        {
+            "word": "scanner",
+            "connections": 3
+        },
+        {
+            "word": "use",
+            "connections": 10
+        },
+        {
+            "word": "identifi",
+            "connections": 1
+        },
+        {
+            "word": "tumor",
+            "connections": 1
+        },
+        {
+            "word": "ligament",
+            "connections": 1
+        },
+        {
+            "word": "research",
+            "connections": 8
+        },
+        {
+            "word": "see",
+            "connections": 1
+        },
+        {
+            "word": "insid",
+            "connections": 2
+        },
+        {
+            "word": "watch",
+            "connections": 2
+        },
+        {
+            "word": "happen",
+            "connections": 1
+        },
+        {
+            "word": "teenag",
+            "connections": 2
+        },
+        {
+            "word": "think",
+            "connections": 6
+        },
+        {
+            "word": "know",
+            "connections": 1
+        },
+        {
+            "word": "life",
+            "connections": 1
+        },
+        {
+            "word": "period",
+            "connections": 1
+        },
+        {
+            "word": "character",
+            "connections": 1
+        },
+        {
+            "word": "dramat",
+            "connections": 1
+        },
+        {
+            "word": "weve",
+            "connections": 2
+        },
+        {
+            "word": "learn",
+            "connections": 1
+        },
+        {
+            "word": "fmri",
+            "connections": 5
+        },
+        {
+            "word": "greater",
+            "connections": 1
+        },
+        {
+            "word": "interconnected",
+            "connections": 1
+        },
+        {
+            "word": "among",
+            "connections": 4
+        },
+        {
+            "word": "variou",
+            "connections": 1
+        },
+        {
+            "word": "region",
+            "connections": 8
+        },
+        {
+            "word": "allow",
+            "connections": 1
+        },
+        {
+            "word": "better",
+            "connections": 2
+        },
+        {
+            "word": "commun",
+            "connections": 1
+        },
+        {
+            "word": "part",
+            "connections": 8
+        },
+        {
+            "word": "associ",
+            "connections": 1
+        },
+        {
+            "word": "differ",
+            "connections": 10
+        },
+        {
+            "word": "exampl",
+            "connections": 3
+        },
+        {
+            "word": "connect",
+            "connections": 3
+        },
+        {
+            "word": "respons",
+            "connections": 5
+        },
+        {
+            "word": "logic",
+            "connections": 1
+        },
+        {
+            "word": "reason",
+            "connections": 2
+        },
+        {
+            "word": "becom",
+            "connections": 1
+        },
+        {
+            "word": "sinc",
+            "connections": 1
+        },
+        {
+            "word": "explos",
+            "connections": 1
+        },
+        {
+            "word": "grown",
+            "connections": 2
+        },
+        {
+            "word": "breathtak",
+            "connections": 1
+        },
+        {
+            "word": "speed",
+            "connections": 1
+        },
+        {
+            "word": "major",
+            "connections": 1
+        },
+        {
+            "word": "sort",
+            "connections": 1
+        },
+        {
+            "word": "neuroscientist",
+            "connections": 2
+        },
+        {
+            "word": "individu",
+            "connections": 4
+        },
+        {
+            "word": "compar",
+            "connections": 2
+        },
+        {
+            "word": "anatomi",
+            "connections": 3
+        },
+        {
+            "word": "refer",
+            "connections": 3
+        },
+        {
+            "word": "test",
+            "connections": 2
+        },
+        {
+            "word": "examin",
+            "connections": 3
+        },
+        {
+            "word": "pattern",
+            "connections": 7
+        },
+        {
+            "word": "reflect",
+            "connections": 6
+        },
+        {
+            "word": "instanc",
+            "connections": 3
+        },
+        {
+            "word": "certain",
+            "connections": 2
+        },
+        {
+            "word": "rel",
+            "connections": 3
+        },
+        {
+            "word": "smaller",
+            "connections": 1
+        },
+        {
+            "word": "childhood",
+            "connections": 2
+        },
+        {
+            "word": "wherea",
+            "connections": 2
+        },
+        {
+            "word": "larger",
+            "connections": 4
+        },
+        {
+            "word": "aspect",
+            "connections": 5
+        },
+        {
+            "word": "may",
+            "connections": 3
+        },
+        {
+            "word": "children",
+            "connections": 1
+        },
+        {
+            "word": "perform",
+            "connections": 6
+        },
+        {
+            "word": "task",
+            "connections": 7
+        },
+        {
+            "word": "whether",
+            "connections": 3
+        },
+        {
+            "word": "way",
+            "connections": 2
+        },
+        {
+            "word": "presenc",
+            "connections": 1
+        },
+        {
+            "word": "friend",
+            "connections": 3
+        },
+        {
+            "word": "activ",
+            "connections": 12
+        },
+        {
+            "word": "adult",
+            "connections": 8
+        },
+        {
+            "word": "side",
+            "connections": 1
+        },
+        {
+            "word": "ith",
+            "connections": 1
+        },
+        {
+            "word": "unprun",
+            "connections": 1
+        },
+        {
+            "word": "peopl",
+            "connections": 2
+        },
+        {
+            "word": "discov",
+            "connections": 1
+        },
+        {
+            "word": "path",
+            "connections": 1
+        },
+        {
+            "word": "synaps",
+            "connections": 3
+        },
+        {
+            "word": "continu",
+            "connections": 1
+        },
+        {
+            "word": "key",
+            "connections": 1
+        },
+        {
+            "word": "process",
+            "connections": 2
+        },
+        {
+            "word": "earli",
+            "connections": 5
+        },
+        {
+            "word": "connectionssynaps",
+            "connections": 1
+        },
+        {
+            "word": "neuron",
+            "connections": 3
+        },
+        {
+            "word": "age",
+            "connections": 3
+        },
+        {
+            "word": "prune",
+            "connections": 9
+        },
+        {
+            "word": "although",
+            "connections": 2
+        },
+        {
+            "word": "synapt",
+            "connections": 3
+        },
+        {
+            "word": "initi",
+            "connections": 1
+        },
+        {
+            "word": "produc",
+            "connections": 1
+        },
+        {
+            "word": "mani",
+            "connections": 5
+        },
+        {
+            "word": "cell",
+            "connections": 3
+        },
+        {
+            "word": "number",
+            "connections": 4
+        },
+        {
+            "word": "lyearold",
+            "connections": 2
+        },
+        {
+            "word": "unit",
+            "connections": 6
+        },
+        {
+            "word": "7e",
+            "connections": 4
+        },
+        {
+            "word": "scienc",
+            "connections": 8
+        },
+        {
+            "word": "mean",
+            "connections": 6
+        },
+        {
+            "word": "myelin",
+            "connections": 4
+        },
+        {
+            "word": "act",
+            "connections": 1
+        },
+        {
+            "word": "like",
+            "connections": 2
+        },
+        {
+            "word": "plastic",
+            "connections": 3
+        },
+        {
+            "word": "insul",
+            "connections": 1
+        },
+        {
+            "word": "read",
+            "connections": 3
+        },
+        {
+            "word": "behind",
+            "connections": 2
+        },
+        {
+            "word": "make",
+            "connections": 4
+        },
+        {
+            "word": "riski",
+            "connections": 1
+        },
+        {
+            "word": "thing",
+            "connections": 3
+        },
+        {
+            "word": "throughout",
+            "connections": 1
+        },
+        {
+            "word": "passion",
+            "connections": 1
+        },
+        {
+            "word": "kiss",
+            "connections": 1
+        },
+        {
+            "word": "thought",
+            "connections": 2
+        },
+        {
+            "word": "chemic",
+            "connections": 2
+        },
+        {
+            "word": "substanc",
+            "connections": 1
+        },
+        {
+            "word": "call",
+            "connections": 3
+        },
+        {
+            "word": "dopamin",
+            "connections": 2
+        },
+        {
+            "word": "feel",
+            "connections": 2
+        },
+        {
+            "word": "adolescencein",
+            "connections": 1
+        },
+        {
+            "word": "fact",
+            "connections": 1
+        },
+        {
+            "word": "multipl",
+            "connections": 1
+        },
+        {
+            "word": "simultan",
+            "connections": 1
+        },
+        {
+            "word": "reward",
+            "connections": 3
+        },
+        {
+            "word": "center",
+            "connections": 2
+        },
+        {
+            "word": "area",
+            "connections": 1
+        },
+        {
+            "word": "limbic",
+            "connections": 1
+        },
+        {
+            "word": "system",
+            "connections": 4
+        },
+        {
+            "word": "pleasur",
+            "connections": 1
+        },
+        {
+            "word": "driver",
+            "connections": 1
+        },
+        {
+            "word": "wheel",
+            "connections": 1
+        },
+        {
+            "word": "implic",
+            "connections": 1
+        },
+        {
+            "word": "hard",
+            "connections": 1
+        },
+        {
+            "word": "answer",
+            "connections": 1
+        },
+        {
+            "word": "basi",
+            "connections": 1
+        },
+        {
+            "word": "alon",
+            "connections": 2
+        },
+        {
+            "word": "depend",
+            "connections": 1
+        },
+        {
+            "word": "concern",
+            "connections": 1
+        },
+        {
+            "word": "averag",
+            "connections": 1
+        },
+        {
+            "word": "indic",
+            "connections": 1
+        },
+        {
+            "word": "sophist",
+            "connections": 1
+        },
+        {
+            "word": "psychologist",
+            "connections": 1
+        },
+        {
+            "word": "throw",
+            "connections": 1
+        },
+        {
+            "word": "import",
+            "connections": 6
+        },
+        {
+            "word": "keep",
+            "connections": 1
+        },
+        {
+            "word": "mind",
+            "connections": 1
+        },
+        {
+            "word": "malleabl",
+            "connections": 1
+        },
+        {
+            "word": "affect",
+            "connections": 1
+        },
+        {
+            "word": "experi",
+            "connections": 3
+        },
+        {
+            "word": "need",
+            "connections": 1
+        },
+        {
+            "word": "respond",
+            "connections": 1
+        },
+        {
+            "word": "gradual",
+            "connections": 1
+        },
+        {
+            "word": "infanc",
+            "connections": 3
+        },
+        {
+            "word": "believ",
+            "connections": 1
+        },
+        {
+            "word": "ahead",
+            "connections": 1
+        },
+        {
+            "word": "control",
+            "connections": 3
+        },
+        {
+            "word": "welldocu",
+            "connections": 1
+        },
+        {
+            "word": "find",
+            "connections": 1
+        },
+        {
+            "word": "practic",
+            "connections": 1
+        },
+        {
+            "word": "someth",
+            "connections": 1
+        },
+        {
+            "word": "strengthen",
+            "connections": 1
+        },
+        {
+            "word": "circuit",
+            "connections": 1
+        },
+        {
+            "word": "behavior",
+            "connections": 4
+        },
+        {
+            "word": "educ",
+            "connections": 1
+        },
+        {
+            "word": "would",
+            "connections": 1
+        },
+        {
+            "word": "size",
+            "connections": 4
+        },
+        {
+            "word": "reach",
+            "connections": 2
+        },
+        {
+            "word": "result",
+            "connections": 1
+        },
+        {
+            "word": "sheer",
+            "connections": 1
+        },
+        {
+            "word": "increas",
+            "connections": 1
+        },
+        {
+            "word": "experienc",
+            "connections": 1
+        },
+        {
+            "word": "intens",
+            "connections": 1
+        },
+        {
+            "word": "emot",
+            "connections": 1
+        },
+        {
+            "word": "take",
+            "connections": 7
+        },
+        {
+            "word": "pictur",
+            "connections": 1
+        },
+        {
+            "word": "studi",
+            "connections": 5
+        },
+        {
+            "word": "f",
+            "connections": 2
+        },
+        {
+            "word": "comput",
+            "connections": 1
+        },
+        {
+            "word": "lie",
+            "connections": 1
+        },
+        {
+            "word": "setup",
+            "connections": 2
+        },
+        {
+            "word": "possibl",
+            "connections": 2
+        },
+        {
+            "word": "oppos",
+            "connections": 1
+        },
+        {
+            "word": "show",
+            "connections": 1
+        },
+        {
+            "word": "place",
+            "connections": 4
+        },
+        {
+            "word": "templ",
+            "connections": 3
+        },
+        {
+            "word": "univers",
+            "connections": 3
+        },
+        {
+            "word": "vari",
+            "connections": 1
+        },
+        {
+            "word": "either",
+            "connections": 1
+        },
+        {
+            "word": "primer",
+            "connections": 1
+        },
+        {
+            "word": "twice",
+            "connections": 3
+        },
+        {
+            "word": "human",
+            "connections": 2
+        },
+        {
+            "word": "contain",
+            "connections": 2
+        },
+        {
+            "word": "approxim",
+            "connections": 2
+        },
+        {
+            "word": "billion",
+            "connections": 2
+        },
+        {
+            "word": "inform",
+            "connections": 1
+        },
+        {
+            "word": "transmit",
+            "connections": 1
+        },
+        {
+            "word": "electr",
+            "connections": 1
+        },
+        {
+            "word": "charg",
+            "connections": 1
+        },
+        {
+            "word": "within",
+            "connections": 1
+        },
+        {
+            "word": "neurotransmitt",
+            "connections": 1
+        },
+        {
+            "word": "flower",
+            "connections": 1
+        },
+        {
+            "word": "enhanc",
+            "connections": 2
+        },
+        {
+            "word": "effici",
+            "connections": 2
+        },
+        {
+            "word": "transform",
+            "connections": 2
+        },
+        {
+            "word": "unwieldi",
+            "connections": 1
+        },
+        {
+            "word": "network",
+            "connections": 1
+        },
+        {
+            "word": "small",
+            "connections": 1
+        },
+        {
+            "word": "point",
+            "connections": 2
+        },
+        {
+            "word": "rule",
+            "connections": 2
+        },
+        {
+            "word": "particular",
+            "connections": 2
+        },
+        {
+            "word": "punish",
+            "connections": 1
+        },
+        {
+            "word": "remodel",
+            "connections": 1
+        },
+        {
+            "word": "someon",
+            "connections": 3
+        },
+        {
+            "word": "facial",
+            "connections": 2
+        },
+        {
+            "word": "express",
+            "connections": 2
+        },
+        {
+            "word": "judg",
+            "connections": 1
+        },
+        {
+            "word": "person",
+            "connections": 1
+        },
+        {
+            "word": "us",
+            "connections": 1
+        },
+        {
+            "word": "prefront",
+            "connections": 2
+        },
+        {
+            "word": "cortex",
+            "connections": 1
+        },
+        {
+            "word": "ofth",
+            "connections": 1
+        },
+        {
+            "word": "directli",
+            "connections": 1
+        },
+        {
+            "word": "risk",
+            "connections": 2
+        },
+        {
+            "word": "e",
+            "connections": 1
+        },
+        {
+            "word": "capabl",
+            "connections": 1
+        },
+        {
+            "word": "also",
+            "connections": 1
+        },
+        {
+            "word": "coordin",
+            "connections": 1
+        },
+        {
+            "word": "especi",
+            "connections": 1
+        },
+        {
+            "word": "7c",
+            "connections": 3
+        },
+        {
+            "word": "middl",
+            "connections": 1
+        },
+        {
+            "word": "school",
+            "connections": 1
+        },
+        {
+            "word": "year",
+            "connections": 1
+        },
+        {
+            "word": "punch",
+            "connections": 1
+        },
+        {
+            "word": "insult",
+            "connections": 1
+        },
+        {
+            "word": "girlfriend",
+            "connections": 1
+        },
+        {
+            "word": "cold",
+            "connections": 1
+        },
+        {
+            "word": "cognit",
+            "connections": 1
+        },
+        {
+            "word": "dumb",
+            "connections": 1
+        },
+        {
+            "word": "buddi",
+            "connections": 1
+        },
+        {
+            "word": "decis",
+            "connections": 1
+        },
+        {
+            "word": "plan",
+            "connections": 1
+        },
+        {
+            "word": "carri",
+            "connections": 1
+        },
+        {
+            "word": "stimul",
+            "connections": 1
+        },
+        {
+            "word": "enabl",
+            "connections": 1
+        },
+        {
+            "word": "selfregul",
+            "connections": 1
+        },
+        {
+            "word": "young",
+            "connections": 1
+        },
+        {
+            "word": "improv",
+            "connections": 1
+        }
+    ],
+    "adolesc": [],
+    "develop": [
+        {
+            "word": "frustratingli",
+            "connections": 1
+        },
+        {
+            "word": "immatur",
+            "connections": 1
+        },
+        {
+            "word": "next",
+            "connections": 1
+        },
+        {
+            "word": "natur",
+            "connections": 2
+        },
+        {
+            "word": "brain",
+            "connections": 19
+        },
+        {
+            "word": "help",
+            "connections": 2
+        },
+        {
+            "word": "explain",
+            "connections": 2
+        },
+        {
+            "word": "addit",
+            "connections": 1
+        },
+        {
+            "word": "transit",
+            "connections": 1
+        },
+        {
+            "word": "time",
+            "connections": 3
+        },
+        {
+            "word": "physic",
+            "connections": 1
+        },
+        {
+            "word": "intellectu",
+            "connections": 1
+        },
+        {
+            "word": "emot",
+            "connections": 1
+        },
+        {
+            "word": "social",
+            "connections": 1
+        },
+        {
+            "word": "adolesc",
+            "connections": 11
+        },
+        {
+            "word": "ofimport",
+            "connections": 1
+        },
+        {
+            "word": "chang",
+            "connections": 7
+        },
+        {
+            "word": "structur",
+            "connections": 2
+        },
+        {
+            "word": "link",
+            "connections": 1
+        },
+        {
+            "word": "matur",
+            "connections": 2
+        },
+        {
+            "word": "imag",
+            "connections": 1
+        },
+        {
+            "word": "technolog",
+            "connections": 1
+        },
+        {
+            "word": "scientist",
+            "connections": 3
+        },
+        {
+            "word": "could",
+            "connections": 1
+        },
+        {
+            "word": "first",
+            "connections": 1
+        },
+        {
+            "word": "three",
+            "connections": 1
+        },
+        {
+            "word": "year",
+            "connections": 2
+        },
+        {
+            "word": "life",
+            "connections": 1
+        },
+        {
+            "word": "period",
+            "connections": 2
+        },
+        {
+            "word": "character",
+            "connections": 2
+        },
+        {
+            "word": "dramat",
+            "connections": 2
+        },
+        {
+            "word": "explos",
+            "connections": 1
+        },
+        {
+            "word": "research",
+            "connections": 1
+        },
+        {
+            "word": "understand",
+            "connections": 3
+        },
+        {
+            "word": "grown",
+            "connections": 1
+        },
+        {
+            "word": "breathtak",
+            "connections": 1
+        },
+        {
+            "word": "part",
+            "connections": 1
+        },
+        {
+            "word": "rel",
+            "connections": 1
+        },
+        {
+            "word": "larger",
+            "connections": 1
+        },
+        {
+            "word": "aspect",
+            "connections": 2
+        },
+        {
+            "word": "reflect",
+            "connections": 1
+        },
+        {
+            "word": "function",
+            "connections": 3
+        },
+        {
+            "word": "instanc",
+            "connections": 1
+        },
+        {
+            "word": "continu",
+            "connections": 2
+        },
+        {
+            "word": "key",
+            "connections": 2
+        },
+        {
+            "word": "process",
+            "connections": 2
+        },
+        {
+            "word": "earli",
+            "connections": 3
+        },
+        {
+            "word": "develop",
+            "connections": 2
+        },
+        {
+            "word": "connectionssynaps",
+            "connections": 2
+        },
+        {
+            "word": "neuron",
+            "connections": 4
+        },
+        {
+            "word": "age",
+            "connections": 4
+        },
+        {
+            "word": "singl",
+            "connections": 2
+        },
+        {
+            "word": "peak",
+            "connections": 1
+        },
+        {
+            "word": "slow",
+            "connections": 1
+        },
+        {
+            "word": "childhood",
+            "connections": 1
+        },
+        {
+            "word": "new",
+            "connections": 2
+        },
+        {
+            "word": "synaps",
+            "connections": 2
+        },
+        {
+            "word": "memori",
+            "connections": 1
+        },
+        {
+            "word": "acquir",
+            "connections": 1
+        },
+        {
+            "word": "synapt",
+            "connections": 2
+        },
+        {
+            "word": "prune",
+            "connections": 5
+        },
+        {
+            "word": "examin",
+            "connections": 1
+        },
+        {
+            "word": "myelin",
+            "connections": 2
+        },
+        {
+            "word": "occur",
+            "connections": 1
+        },
+        {
+            "word": "white",
+            "connections": 1
+        },
+        {
+            "word": "fatti",
+            "connections": 1
+        },
+        {
+            "word": "tissu",
+            "connections": 1
+        },
+        {
+            "word": "call",
+            "connections": 1
+        },
+        {
+            "word": "e",
+            "connections": 1
+        },
+        {
+            "word": "cortex",
+            "connections": 1
+        },
+        {
+            "word": "c",
+            "connections": 5
+        },
+        {
+            "word": "thought",
+            "connections": 1
+        },
+        {
+            "word": "chemic",
+            "connections": 1
+        },
+        {
+            "word": "substanc",
+            "connections": 1
+        },
+        {
+            "word": "implic",
+            "connections": 1
+        },
+        {
+            "word": "still",
+            "connections": 3
+        },
+        {
+            "word": "subject",
+            "connections": 1
+        },
+        {
+            "word": "great",
+            "connections": 1
+        },
+        {
+            "word": "deal",
+            "connections": 1
+        },
+        {
+            "word": "ongo",
+            "connections": 1
+        },
+        {
+            "word": "keep",
+            "connections": 1
+        },
+        {
+            "word": "mind",
+            "connections": 1
+        },
+        {
+            "word": "malleabl",
+            "connections": 1
+        },
+        {
+            "word": "plastic",
+            "connections": 1
+        },
+        {
+            "word": "affect",
+            "connections": 1
+        },
+        {
+            "word": "experi",
+            "connections": 1
+        },
+        {
+            "word": "well",
+            "connections": 2
+        },
+        {
+            "word": "biolog",
+            "connections": 1
+        },
+        {
+            "word": "take",
+            "connections": 3
+        },
+        {
+            "word": "pictur",
+            "connections": 1
+        },
+        {
+            "word": "studi",
+            "connections": 1
+        },
+        {
+            "word": "f",
+            "connections": 1
+        },
+        {
+            "word": "fmri",
+            "connections": 1
+        },
+        {
+            "word": "activ",
+            "connections": 2
+        },
+        {
+            "word": "individu",
+            "connections": 1
+        },
+        {
+            "word": "perform",
+            "connections": 1
+        },
+        {
+            "word": "specif",
+            "connections": 1
+        },
+        {
+            "word": "itch",
+            "connections": 1
+        },
+        {
+            "word": "came",
+            "connections": 1
+        },
+        {
+            "word": "normal",
+            "connections": 1
+        },
+        {
+            "word": "necessari",
+            "connections": 1
+        },
+        {
+            "word": "rose",
+            "connections": 1
+        },
+        {
+            "word": "bushcut",
+            "connections": 1
+        },
+        {
+            "word": "weak",
+            "connections": 1
+        },
+        {
+            "word": "learn",
+            "connections": 1
+        },
+        {
+            "word": "skill",
+            "connections": 1
+        },
+        {
+            "word": "build",
+            "connections": 1
+        },
+        {
+            "word": "gener",
+            "connections": 1
+        },
+        {
+            "word": "growth",
+            "connections": 1
+        },
+        {
+            "word": "iwhen",
+            "connections": 1
+        },
+        {
+            "word": "region",
+            "connections": 3
+        },
+        {
+            "word": "differ",
+            "connections": 1
+        },
+        {
+            "word": "point",
+            "connections": 3
+        },
+        {
+            "word": "rule",
+            "connections": 1
+        },
+        {
+            "word": "place",
+            "connections": 1
+        },
+        {
+            "word": "particular",
+            "connections": 2
+        },
+        {
+            "word": "associ",
+            "connections": 1
+        },
+        {
+            "word": "greatest",
+            "connections": 1
+        },
+        {
+            "word": "cognit",
+            "connections": 2
+        },
+        {
+            "word": "cours",
+            "connections": 1
+        },
+        {
+            "word": "encas",
+            "connections": 1
+        },
+        {
+            "word": "project",
+            "connections": 1
+        },
+        {
+            "word": "interconnect",
+            "connections": 1
+        },
+        {
+            "word": "school",
+            "connections": 1
+        },
+        {
+            "word": "vacil",
+            "connections": 1
+        },
+        {
+            "word": "risk",
+            "connections": 1
+        },
+        {
+            "word": "reward",
+            "connections": 1
+        },
+        {
+            "word": "control",
+            "connections": 1
+        },
+        {
+            "word": "impuls",
+            "connections": 1
+        },
+        {
+            "word": "think",
+            "connections": 1
+        },
+        {
+            "word": "someth",
+            "connections": 1
+        },
+        {
+            "word": "make",
+            "connections": 1
+        },
+        {
+            "word": "us",
+            "connections": 1
+        },
+        {
+            "word": "hot",
+            "connections": 1
+        },
+        {
+            "word": "arent",
+            "connections": 1
+        },
+        {
+            "word": "theyr",
+            "connections": 1
+        },
+        {
+            "word": "teenag",
+            "connections": 1
+        },
+        {
+            "word": "get",
+            "connections": 1
+        },
+        {
+            "word": "havent",
+            "connections": 1
+        },
+        {
+            "word": "given",
+            "connections": 1
+        },
+        {
+            "word": "mani",
+            "connections": 1
+        },
+        {
+            "word": "opportun",
+            "connections": 1
+        },
+        {
+            "word": "capabl",
+            "connections": 1
+        },
+        {
+            "word": "may",
+            "connections": 1
+        },
+        {
+            "word": "alway",
+            "connections": 1
+        },
+        {
+            "word": "succeed",
+            "connections": 1
+        },
+        {
+            "word": "patient",
+            "connections": 1
+        }
+    ],
+    "matur": [],
+    "prune": [],
+    "teenag": [],
+    "chang": [],
+    "myelin": [
+        {
+            "word": "brain",
+            "connections": 4
+        },
+        {
+            "word": "scienc",
+            "connections": 1
+        },
+        {
+            "word": "mean",
+            "connections": 2
+        },
+        {
+            "word": "adolesc",
+            "connections": 4
+        },
+        {
+            "word": "act",
+            "connections": 1
+        },
+        {
+            "word": "like",
+            "connections": 1
+        },
+        {
+            "word": "plastic",
+            "connections": 1
+        },
+        {
+            "word": "insul",
+            "connections": 1
+        },
+        {
+            "word": "around",
+            "connections": 1
+        },
+        {
+            "word": "neural",
+            "connections": 2
+        },
+        {
+            "word": "impuls",
+            "connections": 1
+        },
+        {
+            "word": "improv",
+            "connections": 1
+        },
+        {
+            "word": "inform",
+            "connections": 2
+        },
+        {
+            "word": "c",
+            "connections": 8
+        },
+        {
+            "word": "adulthood",
+            "connections": 2
+        },
+        {
+            "word": "synapt",
+            "connections": 4
+        },
+        {
+            "word": "prune",
+            "connections": 6
+        },
+        {
+            "word": "examin",
+            "connections": 2
+        },
+        {
+            "word": "myelin",
+            "connections": 2
+        },
+        {
+            "word": "occur",
+            "connections": 2
+        },
+        {
+            "word": "develop",
+            "connections": 2
+        },
+        {
+            "word": "white",
+            "connections": 1
+        },
+        {
+            "word": "fatti",
+            "connections": 1
+        },
+        {
+            "word": "tissu",
+            "connections": 1
+        },
+        {
+            "word": "social",
+            "connections": 1
+        },
+        {
+            "word": "read",
+            "connections": 1
+        },
+        {
+            "word": "becom",
+            "connections": 1
+        },
+        {
+            "word": "reward",
+            "connections": 1
+        },
+        {
+            "word": "also",
+            "connections": 1
+        },
+        {
+            "word": "continu",
+            "connections": 1
+        },
+        {
+            "word": "chang",
+            "connections": 2
+        },
+        {
+            "word": "way",
+            "connections": 1
+        },
+        {
+            "word": "make",
+            "connections": 1
+        },
+        {
+            "word": "riski",
+            "connections": 1
+        },
+        {
+            "word": "experi",
+            "connections": 2
+        },
+        {
+            "word": "well",
+            "connections": 1
+        },
+        {
+            "word": "biolog",
+            "connections": 1
+        },
+        {
+            "word": "influenc",
+            "connections": 1
+        },
+        {
+            "word": "repeat",
+            "connections": 1
+        },
+        {
+            "word": "activ",
+            "connections": 1
+        },
+        {
+            "word": "specif",
+            "connections": 1
+        },
+        {
+            "word": "cognit",
+            "connections": 1
+        },
+        {
+            "word": "function",
+            "connections": 1
+        },
+        {
+            "word": "stage",
+            "connections": 1
+        },
+        {
+            "word": "transmiss",
+            "connections": 1
+        },
+        {
+            "word": "wave",
+            "connections": 1
+        },
+        {
+            "word": "begin",
+            "connections": 1
+        },
+        {
+            "word": "prenat",
+            "connections": 1
+        },
+        {
+            "word": "dramat",
+            "connections": 1
+        },
+        {
+            "word": "particular",
+            "connections": 1
+        },
+        {
+            "word": "point",
+            "connections": 1
+        },
+        {
+            "word": "encas",
+            "connections": 1
+        },
+        {
+            "word": "project",
+            "connections": 2
+        },
+        {
+            "word": "neuron",
+            "connections": 2
+        },
+        {
+            "word": "interconnect",
+            "connections": 2
+        },
+        {
+            "word": "process",
+            "connections": 2
+        },
+        {
+            "word": "call",
+            "connections": 1
+        },
+        {
+            "word": "practic",
+            "connections": 1
+        },
+        {
+            "word": "synaps",
+            "connections": 1
+        },
+        {
+            "word": "circuit",
+            "connections": 1
+        },
+        {
+            "word": "abil",
+            "connections": 1
+        },
+        {
+            "word": "exercis",
+            "connections": 1
+        },
+        {
+            "word": "matur",
+            "connections": 1
+        },
+        {
+            "word": "control",
+            "connections": 1
+        }
+    ],
+    "activ": [],
+    "function": [
+        {
+            "word": "adolesc",
+            "connections": 5
+        },
+        {
+            "word": "time",
+            "connections": 1
+        },
+        {
+            "word": "ofimport",
+            "connections": 1
+        },
+        {
+            "word": "chang",
+            "connections": 7
+        },
+        {
+            "word": "structur",
+            "connections": 3
+        },
+        {
+            "word": "brain",
+            "connections": 11
+        },
+        {
+            "word": "scientist",
+            "connections": 2
+        },
+        {
+            "word": "begin",
+            "connections": 1
+        },
+        {
+            "word": "understand",
+            "connections": 2
+        },
+        {
+            "word": "psycholog",
+            "connections": 1
+        },
+        {
+            "word": "better",
+            "connections": 1
+        },
+        {
+            "word": "commun",
+            "connections": 1
+        },
+        {
+            "word": "part",
+            "connections": 1
+        },
+        {
+            "word": "associ",
+            "connections": 2
+        },
+        {
+            "word": "differ",
+            "connections": 2
+        },
+        {
+            "word": "exampl",
+            "connections": 1
+        },
+        {
+            "word": "connect",
+            "connections": 2
+        },
+        {
+            "word": "region",
+            "connections": 2
+        },
+        {
+            "word": "respons",
+            "connections": 2
+        },
+        {
+            "word": "refer",
+            "connections": 1
+        },
+        {
+            "word": "use",
+            "connections": 4
+        },
+        {
+            "word": "test",
+            "connections": 1
+        },
+        {
+            "word": "examin",
+            "connections": 2
+        },
+        {
+            "word": "anatomi",
+            "connections": 1
+        },
+        {
+            "word": "research",
+            "connections": 1
+        },
+        {
+            "word": "fmri",
+            "connections": 3
+        },
+        {
+            "word": "develop",
+            "connections": 3
+        },
+        {
+            "word": "reflect",
+            "connections": 2
+        },
+        {
+            "word": "instanc",
+            "connections": 1
+        },
+        {
+            "word": "may",
+            "connections": 1
+        },
+        {
+            "word": "e",
+            "connections": 1
+        },
+        {
+            "word": "provid",
+            "connections": 1
+        },
+        {
+            "word": "clue",
+            "connections": 1
+        },
+        {
+            "word": "aspect",
+            "connections": 2
+        },
+        {
+            "word": "cognit",
+            "connections": 2
+        },
+        {
+            "word": "stage",
+            "connections": 2
+        },
+        {
+            "word": "c",
+            "connections": 5
+        },
+        {
+            "word": "advanc",
+            "connections": 1
+        },
+        {
+            "word": "call",
+            "connections": 1
+        },
+        {
+            "word": "dopamin",
+            "connections": 1
+        },
+        {
+            "word": "feel",
+            "connections": 1
+        },
+        {
+            "word": "prefront",
+            "connections": 1
+        },
+        {
+            "word": "cortex",
+            "connections": 1
+        },
+        {
+            "word": "experi",
+            "connections": 1
+        },
+        {
+            "word": "skill",
+            "connections": 1
+        },
+        {
+            "word": "driver",
+            "connections": 1
+        },
+        {
+            "word": "behind",
+            "connections": 1
+        },
+        {
+            "word": "wheel",
+            "connections": 1
+        },
+        {
+            "word": "implic",
+            "connections": 1
+        },
+        {
+            "word": "among",
+            "connections": 1
+        },
+        {
+            "word": "neuron",
+            "connections": 1
+        },
+        {
+            "word": "turn",
+            "connections": 1
+        },
+        {
+            "word": "make",
+            "connections": 2
+        },
+        {
+            "word": "effici",
+            "connections": 2
+        },
+        {
+            "word": "one",
+            "connections": 1
+        },
+        {
+            "word": "reason",
+            "connections": 1
+        },
+        {
+            "word": "practic",
+            "connections": 1
+        },
+        {
+            "word": "task",
+            "connections": 1
+        },
+        {
+            "word": "thing",
+            "connections": 1
+        },
+        {
+            "word": "like",
+            "connections": 1
+        },
+        {
+            "word": "plan",
+            "connections": 1
+        },
+        {
+            "word": "anticip",
+            "connections": 1
+        },
+        {
+            "word": "consequ",
+            "connections": 1
+        },
+        {
+            "word": "would",
+            "connections": 1
+        },
+        {
+            "word": "larger",
+            "connections": 1
+        },
+        {
+            "word": "emot",
+            "connections": 1
+        },
+        {
+            "word": "come",
+            "connections": 1
+        },
+        {
+            "word": "studi",
+            "connections": 1
+        },
+        {
+            "word": "magnet",
+            "connections": 1
+        },
+        {
+            "word": "reson",
+            "connections": 1
+        },
+        {
+            "word": "imag",
+            "connections": 1
+        },
+        {
+            "word": "techniqu",
+            "connections": 1
+        },
+        {
+            "word": "f",
+            "connections": 1
+        },
+        {
+            "word": "activ",
+            "connections": 1
+        },
+        {
+            "word": "came",
+            "connections": 1
+        },
+        {
+            "word": "normal",
+            "connections": 1
+        },
+        {
+            "word": "necessari",
+            "connections": 1
+        },
+        {
+            "word": "prune",
+            "connections": 2
+        },
+        {
+            "word": "rose",
+            "connections": 1
+        },
+        {
+            "word": "bushcut",
+            "connections": 1
+        },
+        {
+            "word": "weak",
+            "connections": 1
+        },
+        {
+            "word": "misshapen",
+            "connections": 1
+        },
+        {
+            "word": "flower",
+            "connections": 1
+        },
+        {
+            "word": "synapt",
+            "connections": 1
+        },
+        {
+            "word": "enhanc",
+            "connections": 1
+        },
+        {
+            "word": "transform",
+            "connections": 1
+        },
+        {
+            "word": "unwieldi",
+            "connections": 1
+        },
+        {
+            "word": "greatest",
+            "connections": 1
+        },
+        {
+            "word": "transmiss",
+            "connections": 1
+        },
+        {
+            "word": "myelin",
+            "connections": 1
+        },
+        {
+            "word": "occur",
+            "connections": 1
+        },
+        {
+            "word": "wave",
+            "connections": 1
+        }
+    ]
+}
