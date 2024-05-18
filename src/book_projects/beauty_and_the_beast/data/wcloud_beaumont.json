@@ -1,0 +1,302 @@
+[
+    {
+        "word": "i",
+        "value": 89,
+        "category": "Pronoun",
+        "translation": "i"
+    },
+    {
+        "word": "beauty",
+        "value": 68,
+        "category": "Noun",
+        "translation": "belleza"
+    },
+    {
+        "word": "said",
+        "value": 49,
+        "category": "Verb",
+        "translation": "dicho"
+    },
+    {
+        "word": "beast",
+        "value": 42,
+        "category": "Noun",
+        "translation": "bestia"
+    },
+    {
+        "word": "great",
+        "value": 23,
+        "category": "Adjective",
+        "translation": "excelente"
+    },
+    {
+        "word": "father",
+        "value": 23,
+        "category": "Noun",
+        "translation": "padre"
+    },
+    {
+        "word": "good",
+        "value": 21,
+        "category": "Adjective",
+        "translation": "bien"
+    },
+    {
+        "word": "the",
+        "value": 19,
+        "category": "Determiner",
+        "translation": "el"
+    },
+    {
+        "word": "would",
+        "value": 19,
+        "category": "Modal",
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "monster",
+        "value": 17,
+        "category": "Noun",
+        "translation": "monstruo"
+    },
+    {
+        "word": "went",
+        "value": 16,
+        "category": "Verb",
+        "translation": "fue"
+    },
+    {
+        "word": "sisters",
+        "value": 16,
+        "category": "Noun",
+        "translation": "hermanas"
+    },
+    {
+        "word": "poor",
+        "value": 16,
+        "category": "Adjective",
+        "translation": "pobre"
+    },
+    {
+        "word": "palace",
+        "value": 16,
+        "category": "Noun",
+        "translation": "palacio"
+    },
+    {
+        "word": "merchant",
+        "value": 15,
+        "category": "Noun",
+        "translation": "comerciante"
+    },
+    {
+        "word": "every",
+        "value": 14,
+        "category": "Determiner",
+        "translation": "cada"
+    },
+    {
+        "word": "could",
+        "value": 14,
+        "category": "Modal",
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "see",
+        "value": 14,
+        "category": "Verb",
+        "translation": "ver"
+    },
+    {
+        "word": "came",
+        "value": 13,
+        "category": "Verb",
+        "translation": "vino"
+    },
+    {
+        "word": "one",
+        "value": 13,
+        "category": "Numeral",
+        "translation": "uno"
+    },
+    {
+        "word": "saw",
+        "value": 13,
+        "category": "Verb",
+        "translation": "sierra"
+    },
+    {
+        "word": "shall",
+        "value": 13,
+        "category": "Modal",
+        "translation": "deber\u00e1"
+    },
+    {
+        "word": "two",
+        "value": 12,
+        "category": "Numeral",
+        "translation": "dos"
+    },
+    {
+        "word": "go",
+        "value": 12,
+        "category": "Verb",
+        "translation": "ir"
+    },
+    {
+        "word": "little",
+        "value": 11,
+        "category": "Adjective",
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "time",
+        "value": 10,
+        "category": "Noun",
+        "translation": "tiempo"
+    },
+    {
+        "word": "man",
+        "value": 9,
+        "category": "Noun",
+        "translation": "hombre"
+    },
+    {
+        "word": "sister",
+        "value": 9,
+        "category": "Noun",
+        "translation": "hermana"
+    },
+    {
+        "word": "think",
+        "value": 9,
+        "category": "Verb",
+        "translation": "pensar"
+    },
+    {
+        "word": "found",
+        "value": 9,
+        "category": "Verb",
+        "translation": "encontr\u00f3"
+    },
+    {
+        "word": "thing",
+        "value": 9,
+        "category": "Noun",
+        "translation": "cosa"
+    },
+    {
+        "word": "night",
+        "value": 9,
+        "category": "Noun",
+        "translation": "noche"
+    },
+    {
+        "word": "daughters",
+        "value": 8,
+        "category": "Noun",
+        "translation": "hijas"
+    },
+    {
+        "word": "never",
+        "value": 8,
+        "category": "Adverb",
+        "translation": "nunca"
+    },
+    {
+        "word": "told",
+        "value": 8,
+        "category": "Verb",
+        "translation": "dijo"
+    },
+    {
+        "word": "give",
+        "value": 8,
+        "category": "Verb",
+        "translation": "dar"
+    },
+    {
+        "word": "much",
+        "value": 8,
+        "category": "Adjective",
+        "translation": "mucho"
+    },
+    {
+        "word": "make",
+        "value": 8,
+        "category": "Verb",
+        "translation": "hacer"
+    },
+    {
+        "word": "immediately",
+        "value": 8,
+        "category": "Adverb",
+        "translation": "inmediatamente"
+    },
+    {
+        "word": "thought",
+        "value": 8,
+        "category": "Verb",
+        "translation": "pensamiento"
+    },
+    {
+        "word": "kind",
+        "value": 8,
+        "category": "Noun",
+        "translation": "amable"
+    },
+    {
+        "word": "seeing",
+        "value": 8,
+        "category": "Verb",
+        "translation": "vidente"
+    },
+    {
+        "word": "took",
+        "value": 8,
+        "category": "Verb",
+        "translation": "tom\u00f3"
+    },
+    {
+        "word": "you",
+        "value": 8,
+        "category": "Pronoun",
+        "translation": "t\u00fa"
+    },
+    {
+        "word": "children",
+        "value": 7,
+        "category": "Noun",
+        "translation": "ni\u00f1os"
+    },
+    {
+        "word": "still",
+        "value": 7,
+        "category": "Adverb",
+        "translation": "a\u00fan"
+    },
+    {
+        "word": "made",
+        "value": 7,
+        "category": "Verb",
+        "translation": "hecho"
+    },
+    {
+        "word": "stay",
+        "value": 7,
+        "category": "Verb",
+        "translation": "permanecer"
+    },
+    {
+        "word": "tears",
+        "value": 7,
+        "category": "Noun",
+        "translation": "l\u00e1grimas"
+    },
+    {
+        "word": "happy",
+        "value": 7,
+        "category": "Adjective",
+        "translation": "feliz"
+    }
+]

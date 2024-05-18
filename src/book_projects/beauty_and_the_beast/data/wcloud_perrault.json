@@ -1,0 +1,302 @@
+[
+    {
+        "word": "i",
+        "value": 87,
+        "category": "Pronoun",
+        "translation": "i"
+    },
+    {
+        "word": "beauty",
+        "value": 61,
+        "category": "Noun",
+        "translation": "belleza"
+    },
+    {
+        "word": "beast",
+        "value": 46,
+        "category": "Noun",
+        "translation": "bestia"
+    },
+    {
+        "word": "said",
+        "value": 39,
+        "category": "Verb",
+        "translation": "dicho"
+    },
+    {
+        "word": "the",
+        "value": 30,
+        "category": "Determiner",
+        "translation": "el"
+    },
+    {
+        "word": "would",
+        "value": 23,
+        "category": "Modal",
+        "translation": "har\u00eda"
+    },
+    {
+        "word": "good",
+        "value": 22,
+        "category": "Adjective",
+        "translation": "bien"
+    },
+    {
+        "word": "father",
+        "value": 22,
+        "category": "Noun",
+        "translation": "padre"
+    },
+    {
+        "word": "merchant",
+        "value": 17,
+        "category": "Noun",
+        "translation": "comerciante"
+    },
+    {
+        "word": "sisters",
+        "value": 17,
+        "category": "Noun",
+        "translation": "hermanas"
+    },
+    {
+        "word": "he",
+        "value": 16,
+        "category": "Pronoun",
+        "translation": "\u00e9l"
+    },
+    {
+        "word": "shall",
+        "value": 15,
+        "category": "Modal",
+        "translation": "deber\u00e1"
+    },
+    {
+        "word": "monster",
+        "value": 15,
+        "category": "Noun",
+        "translation": "monstruo"
+    },
+    {
+        "word": "two",
+        "value": 13,
+        "category": "Numeral",
+        "translation": "dos"
+    },
+    {
+        "word": "go",
+        "value": 13,
+        "category": "Verb",
+        "translation": "ir"
+    },
+    {
+        "word": "must",
+        "value": 13,
+        "category": "Modal",
+        "translation": "debe"
+    },
+    {
+        "word": "die",
+        "value": 13,
+        "category": "Verb",
+        "translation": "morir"
+    },
+    {
+        "word": "when",
+        "value": 12,
+        "category": "Wh-Adverb",
+        "translation": "cuando"
+    },
+    {
+        "word": "could",
+        "value": 12,
+        "category": "Modal",
+        "translation": "podr\u00eda"
+    },
+    {
+        "word": "found",
+        "value": 12,
+        "category": "Verb",
+        "translation": "encontr\u00f3"
+    },
+    {
+        "word": "palace",
+        "value": 12,
+        "category": "Noun",
+        "translation": "palacio"
+    },
+    {
+        "word": "one",
+        "value": 12,
+        "category": "Numeral",
+        "translation": "uno"
+    },
+    {
+        "word": "great",
+        "value": 11,
+        "category": "Adjective",
+        "translation": "excelente"
+    },
+    {
+        "word": "poor",
+        "value": 11,
+        "category": "Adjective",
+        "translation": "pobre"
+    },
+    {
+        "word": "went",
+        "value": 10,
+        "category": "Verb",
+        "translation": "fue"
+    },
+    {
+        "word": "room",
+        "value": 10,
+        "category": "Noun",
+        "translation": "habitaci\u00f3n"
+    },
+    {
+        "word": "she",
+        "value": 10,
+        "category": "Pronoun",
+        "translation": "ella"
+    },
+    {
+        "word": "kind",
+        "value": 9,
+        "category": "Noun",
+        "translation": "amable"
+    },
+    {
+        "word": "daughters",
+        "value": 9,
+        "category": "Noun",
+        "translation": "hijas"
+    },
+    {
+        "word": "but",
+        "value": 9,
+        "category": "Conjunction",
+        "translation": "pero"
+    },
+    {
+        "word": "house",
+        "value": 9,
+        "category": "Noun",
+        "translation": "casa"
+    },
+    {
+        "word": "morning",
+        "value": 9,
+        "category": "Noun",
+        "translation": "ma\u00f1ana"
+    },
+    {
+        "word": "saw",
+        "value": 9,
+        "category": "Verb",
+        "translation": "sierra"
+    },
+    {
+        "word": "you",
+        "value": 9,
+        "category": "Pronoun",
+        "translation": "t\u00fa"
+    },
+    {
+        "word": "words",
+        "value": 9,
+        "category": "Noun",
+        "translation": "palabras"
+    },
+    {
+        "word": "grief",
+        "value": 9,
+        "category": "Noun",
+        "translation": "dolor"
+    },
+    {
+        "word": "man",
+        "value": 8,
+        "category": "Noun",
+        "translation": "hombre"
+    },
+    {
+        "word": "much",
+        "value": 8,
+        "category": "Adverb",
+        "translation": "mucho"
+    },
+    {
+        "word": "make",
+        "value": 8,
+        "category": "Verb",
+        "translation": "hacer"
+    },
+    {
+        "word": "back",
+        "value": 8,
+        "category": "Adverb",
+        "translation": "atr\u00e1s"
+    },
+    {
+        "word": "asked",
+        "value": 8,
+        "category": "Verb",
+        "translation": "pregunt\u00f3"
+    },
+    {
+        "word": "think",
+        "value": 8,
+        "category": "Verb",
+        "translation": "pensar"
+    },
+    {
+        "word": "large",
+        "value": 8,
+        "category": "Adjective",
+        "translation": "grande"
+    },
+    {
+        "word": "time",
+        "value": 7,
+        "category": "Noun",
+        "translation": "tiempo"
+    },
+    {
+        "word": "little",
+        "value": 7,
+        "category": "Adjective",
+        "translation": "peque\u00f1o"
+    },
+    {
+        "word": "much",
+        "value": 7,
+        "category": "Adjective",
+        "translation": "mucho"
+    },
+    {
+        "word": "day",
+        "value": 7,
+        "category": "Noun",
+        "translation": "d\u00eda"
+    },
+    {
+        "word": "marry",
+        "value": 7,
+        "category": "Verb",
+        "translation": "casar"
+    },
+    {
+        "word": "several",
+        "value": 7,
+        "category": "Adjective",
+        "translation": "varios"
+    },
+    {
+        "word": "with",
+        "value": 7,
+        "category": "Preposition",
+        "translation": "con"
+    }
+]
