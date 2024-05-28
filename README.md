@@ -30,6 +30,17 @@
 └── requirements.txt
 ```
 
+## Process
+
+```mermaid
+graph TD;
+    A[Pre-process data with the Python NLP pipeline] --> B[Render the processed data in the frontend as a visualization]
+```
+
+- This repository contains the python code for pre-processing the data.
+- Once the data is pre-processed, the data can be pushed to the current repository.
+- The data can be pulled in the frontend repository to render the visualizations. This repository is added as a submodule in the frontend repository.
+
 ## How to reactivate the virtual environment
 
 It is important to work within the virtual environment to avoid the clash between different packages. If you close your IDE, you will have to reactivate the virtual environment. You can easily do this by running the following command in the root directory of the repository in your terminal of the IDE:
